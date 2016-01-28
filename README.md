@@ -8,8 +8,10 @@ My research interests include accelerators for neural networks (NNs), deep learn
       - [DAC](#2015_DAC)
       - [ICCV](#2015_ICCV)
    - [2016](#2016)
+ - Industry Contributions
 
 ## Reading List for International Conferences
 This is a reading list of conference papers that interest me.
 
-## Industry 
+## Industry Contributions
+ - [Movidius](http://www.movidius.com/)
