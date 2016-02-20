@@ -7,14 +7,15 @@ My research interests include accelerators for neural networks (NNs), deep learn
    - [2015 DAC](#2015-dac)
    - [2015 ICCV](#2015-iccv) 
    - [2016 DAC](#2016-dac)
+   - [2016 ISSCC](#2016-isscc)
  - Industry Contributions
 
 ## Reading List for International Conferences
 This is a reading list of conference papers that interest me.
 ### 2016 DAC
 - Taming the diversity of Convolutional Neural Network topology:An adaptive data folding and parallelism scheme for deep learning accelerators.
+### 2016 ISSCC
  
-
 ## Industry Contributions
  - [Movidius](http://www.movidius.com/)
 
