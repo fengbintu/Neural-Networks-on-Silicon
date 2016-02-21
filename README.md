@@ -3,14 +3,14 @@
 My research interests include accelerators for neural networks (NNs), deep learning and NN based approximate computing.
 
 ## Table of Contents
- - Reading List for International Conferences
+ - Conference Paper Reading List
    - [2015 DAC](#2015-dac)
    - [2015 ICCV](#2015-iccv) 
    - [2016 DAC](#2016-dac)
    - [2016 ISSCC](#2016-isscc)
  - Industry Contributions
 
-## Reading List for International Conferences
+## Conference Paper Reading List
 This is a reading list of conference papers that interest me. The emphasis is focused on, but not limited to neural networks on silicon.
 ### 2016 DAC
 - Taming the Diversity of Convolutional Neural Network Topology: An Adaptive Data Folding and Parallelism Scheme for Deep Learning Accelerators.
