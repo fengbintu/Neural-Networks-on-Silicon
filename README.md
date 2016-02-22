@@ -29,6 +29,7 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 
 ## Industry Contributions
  - [Movidius](http://www.movidius.com/)
+   - Myriad 2: Hardware-accelerated visual intelligence at ultra-low power.
 
 
 
