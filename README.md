@@ -9,7 +9,7 @@ My research interests include accelerators for neural networks (NNs), deep learn
    - [2016 DAC](#2016-dac)
    - [2016 ISSCC](#2016-isscc)
  - Important Topics
-   - [Network Compression](#networrk-compression)
+   - [Network Compression](#network-compression)
    - [CNN](#cnn)
    - [RNN](#rnn)
    - [Other Topics](#other-topics)
