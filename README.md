@@ -23,6 +23,7 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 - DeepBurning: Automatic Generation of FPGA-based Learning Accelerators for the Neural Network Family.
 - Simplifying Deep Neural Networks for Neuromorphic Architectures.
 - Dynamic Energy-Accuracy Trade-off Using Stochastic Computing in Deep Neural Networks.
+
 ### 2016 ISSCC
 - A 126.1mW Real-Time Natural UI/UX Processor with Embedded Deep Learning Core for Low-Power Smart Glasses Systems. (KAIST)
 - A 502GOPS and 0.984mW Dual-Mode ADAS SoC with RNN-FIS Engine for Intention Prediction in Automotive Black-Box System. (KAIST)
