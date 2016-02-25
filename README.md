@@ -34,6 +34,7 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 
 ## Important Topics
 ### Network Compression
+- [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding.](http://arxiv.org/abs/1510.00149) (Stanford University, Tsinghua University)
 - [BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.](http://arxiv.org/abs/1602.02830) (Universite de Montreal)
 
 ### Other Topics
