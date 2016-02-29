@@ -38,7 +38,7 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 - [BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.](http://arxiv.org/abs/1602.02830) (Universite de Montreal)
 
 ### Other Topics
-#### Highway Network
+#### Highway Network, Residual Network
 #### Neural Turing Machine
 #### Attention and Memory
 
