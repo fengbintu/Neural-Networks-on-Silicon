@@ -48,4 +48,4 @@ This is a reading list of conference papers that interest me. The emphasis is fo
    - Myriad 2: Hardware-accelerated visual intelligence at ultra-low power.
  - [NVIDIA](http://www.nvidia.com/)
    - Jetson TX1: Embedded visual computing developing platform.
-   - DGX-1: World's first deep learning supercomputer.
+   - DGX-1: Deep learning supercomputer.
