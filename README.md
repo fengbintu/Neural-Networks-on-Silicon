@@ -11,6 +11,7 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
    - [2016 ISCA](#2016-isca)
    - [2016 DATE](#2016-date)
    - [2016 FPGA](#2016-fpga)
+   - [2016 ASPDAC](#2016-aspdac)
  - Important Topics
    - [Network Compression](#network-compression)
    - [CNN](#cnn)
@@ -58,6 +59,12 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 ### 2016 FPGA
 - [**Throughput-Optimized OpenCL-based FPGA Accelerator for Large-Scale Convolutional Neural Networks.**](http://www.isfpga.org/index_files/Slides/1_1.pdf) (Arizona State Univ, ARM)
 - [**Going Deeper with Embedded FPGA Platform for Convolutional Neural Network.**](http://www.isfpga.org/index_files/Slides/1_2.pdf) (Tsinghua University, MSRA)
+ 
+### 2016 ASPDAC
+- **Design Space Exploration of FPGA-Based Deep Convolutional Neural Networks.** (UC Davis)
+- **LRADNN High-Throughput and Energy-Efficient Deep Neural Network Accelerator using Low Rank Approximation.** (Hong Kong University of Science and Technology, Shanghai Jiao Tong University)
+- **Efficient Embedded Learning for IoT Devices.** (Purdue University)
+- ACR: Enabling Computation Reuse for Approximate Computing. (Chinese Academy of Sciences)
 
 ## Important Topics
 ### Network Compression
