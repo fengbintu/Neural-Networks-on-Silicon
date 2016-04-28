@@ -1,6 +1,6 @@
 # Neural Networks on Silicon
 
-My research interests include accelerators for neural networks (NNs), deep learning and NN based approximate computing.
+My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. My research interests include accelerators for neural networks (NNs), deep learning and NN based approximate computing.
 
 ## Table of Contents
  - Conference Paper Reading List
@@ -8,29 +8,56 @@ My research interests include accelerators for neural networks (NNs), deep learn
    - [2015 ICCV](#2015-iccv) 
    - [2016 DAC](#2016-dac)
    - [2016 ISSCC](#2016-isscc)
+   - [2016 ISCA](#2016-isca)
+   - [2016 DATE](#2016-date)
+   - [2016 FPGA](#2016-fpga)
  - Important Topics
    - [Network Compression](#network-compression)
    - [CNN](#cnn)
    - [RNN](#rnn)
    - [Other Topics](#other-topics)
+ - Research Groups
  - Industry Contributions
 
 ## Conference Paper Reading List
-This is a reading list of conference papers that interest me. The emphasis is focused on, but not limited to neural networks on silicon.
+This is a reading list of conference papers that interest me. The emphasis is focused on, but not limited to neural networks on silicon. Papers of significance are marked in **bold**.
 ### 2016 DAC
-- Taming the Diversity of Convolutional Neural Network Topology: An Adaptive Data Folding and Parallelism Scheme for Deep Learning Accelerators.
+- **Taming the Diversity of Convolutional Neural Network Topology: An Adaptive Data Folding and Parallelism Scheme for Deep Learning Accelerators.**
+- **DeepBurning: Automatic Generation of FPGA-based Learning Accelerators for the Neural Network Family.**
+- **Simplifying Deep Neural Networks for Neuromorphic Architectures.**
+- **Dynamic Energy-Accuracy Trade-off Using Stochastic Computing in Deep Neural Networks.**
 - Switched by Input: Power Efficient Structure for RRAM-based Convolutional Neural Network.
-- DeepBurning: Automatic Generation of FPGA-based Learning Accelerators for the Neural Network Family.
-- Simplifying Deep Neural Networks for Neuromorphic Architectures.
-- Dynamic Energy-Accuracy Trade-off Using Stochastic Computing in Deep Neural Networks.
 
 ### 2016 ISSCC
+- **A 1.42TOPS/W Deep Convolutional Neural Network Recognition Processor for Intelligent IoE Systems.** (KAIST)
+- **Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks.** (MIT, NVIDIA)
 - A 126.1mW Real-Time Natural UI/UX Processor with Embedded Deep Learning Core for Low-Power Smart Glasses Systems. (KAIST)
 - A 502GOPS and 0.984mW Dual-Mode ADAS SoC with RNN-FIS Engine for Intention Prediction in Automotive Black-Box System. (KAIST)
 - A 0.55V 1.1mW Artificial-Intelligence Processor with PVT Compensation for Micro Robots. (KAIST)
-- A 1.42TOPS/W Deep Convolutional Neural Network Recognition Processor for Intelligent IoE Systems. (KAIST)
-- Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks. (MIT, NVIDIA)
 - A 4Gpixel/s 8/10b H.265/HEVC Video Decoder Chip for 8K Ultra HD Applications. (Waseda University)
+
+### 2016 ISCA
+ - **Cnvlutin: Ineffectual-Neuron-Free Deep Convolutional Neural Network Computing.** (University of Toronto, University of British Columbia)
+ - **EIE: Efficient Inference Engine on Compressed Deep Neural Network.** (Stanford University, Tsinghua University)
+ - **Minerva: Enabling Low-Power, High-Accuracy Deep Neural Network Accelerators.** (Harvard University)
+ - **Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks.** (MIT, NVIDIA)
+ - ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars. (University of Utah, HP Labs)
+ - A Novel Processing-in-memory Architecture for Neural Network Computation in ReRAM-based Main Memory. (UCSB, HP Labs, NVIDIA, Tsinghua University)
+ - RedEye: Analog ConvNet Image Sensor Architecture for Continuous Mobile Vision. (Rice University)
+ - Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory. (Georgia Institute of Technology, SRI International)
+ - An Instruction Set Architecture for Neural Networks. (Chinese Academy of Sciences, UCSB)
+
+### 2016 DATE
+- **The Neuro Vector Engine: Flexibility to Improve Convolutional Network Efficiency for Wearable Vision.** (Eindhoven University of Technology, Soochow University, TU Berlin) 
+- NEURODSP: A Multi-Purpose Energy-Optimized Accelerator for Neural Networks. (CEA LIST)
+- MNSIM: Simulation Platform for Memristor-Based Neuromorphic Computing System. (Tsinghua University, UCSB, Arizona State University)
+- Efficient FPGA Acceleration of Convolutional Neural Networks Using Logical-3D Compute Array. (UNIST, Seoul National University)
+- Accelerated Artificial Neural Networks on FPGA for Fault Detection in Automotive Systems. (Nanyang Technological University, University of Warwick)
+ - Significance Driven Hybrid 8T-6T SRAM for Energy-Efficient Synaptic Storage in Artificial Neural Networks. (Purdue University)
+ 
+### 2016 FPGA
+- [**Throughput-Optimized OpenCL-based FPGA Accelerator for Large-Scale Convolutional Neural Networks.**](http://www.isfpga.org/index_files/Slides/1_1.pdf) (Arizona State Univ, ARM)
+- [**Going Deeper with Embedded FPGA Platform for Convolutional Neural Network.**](http://www.isfpga.org/index_files/Slides/1_2.pdf) (Tsinghua University, MSRA)
 
 ## Important Topics
 ### Network Compression
@@ -43,6 +70,8 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 #### Highway Network, Residual Network
 #### Neural Turing Machine
 #### Attention and Memory
+
+## Research Groups
 
 ## Industry Contributions
  - [Movidius](http://www.movidius.com/)
