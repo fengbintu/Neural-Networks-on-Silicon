@@ -77,6 +77,8 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 #### Highway Network, Residual Network
 #### Neural Turing Machine
 #### Attention and Memory
+#### Reinforcement Learning
+#### Sequentialization
 
 ## Research Groups
 
