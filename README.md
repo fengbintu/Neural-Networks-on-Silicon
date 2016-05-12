@@ -12,6 +12,7 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
    - [2016 DATE](#2016-date)
    - [2016 FPGA](#2016-fpga)
    - [2016 ASPDAC](#2016-aspdac)
+   - [2016 VLSI] (#2016-vlsi)
  - Important Topics
    - [Network Compression](#network-compression)
    - [CNN](#cnn)
@@ -65,6 +66,10 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 - **LRADNN High-Throughput and Energy-Efficient Deep Neural Network Accelerator using Low Rank Approximation.** (Hong Kong University of Science and Technology, Shanghai Jiao Tong University)
 - **Efficient Embedded Learning for IoT Devices.** (Purdue University)
 - ACR: Enabling Computation Reuse for Approximate Computing. (Chinese Academy of Sciences)
+
+### 2016 VLSI
+- **A 0.3‐2.6 TOPS/W Precision‐Scalable Processor for Real‐Time Large‐Scale ConvNets.** (KU Leuven)
+- **A 1.40mm2 141mW 898GOPS Sparse Neuromorphic Processor in 40nm CMOS.** (University of Michigan)
 
 ## Important Topics
 ### Network Compression
