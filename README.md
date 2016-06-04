@@ -95,5 +95,5 @@ This is a reading list of conference papers that interest me. The emphasis is fo
  - [NVIDIA](http://www.nvidia.com/)
    - Jetson TX1: Embedded visual computing developing platform.
    - DGX-1: Deep learning supercomputer.
- - [Google]
+ - Google
    - TPU (Tensor Processing Unit).
