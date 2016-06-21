@@ -56,7 +56,7 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 - NEURODSP: A Multi-Purpose Energy-Optimized Accelerator for Neural Networks. (CEA LIST)
 - MNSIM: Simulation Platform for Memristor-Based Neuromorphic Computing System. (Tsinghua University, UCSB, Arizona State University)
 - Accelerated Artificial Neural Networks on FPGA for Fault Detection in Automotive Systems. (Nanyang Technological University, University of Warwick)
- - Significance Driven Hybrid 8T-6T SRAM for Energy-Efficient Synaptic Storage in Artificial Neural Networks. (Purdue University)
+- Significance Driven Hybrid 8T-6T SRAM for Energy-Efficient Synaptic Storage in Artificial Neural Networks. (Purdue University)
  
 ### 2016 FPGA
 - [**Throughput-Optimized OpenCL-based FPGA Accelerator for Large-Scale Convolutional Neural Networks.**](http://www.isfpga.org/index_files/Slides/1_1.pdf) (Arizona State Univ, ARM)
@@ -83,7 +83,6 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 - Exploiting Randomness in Sketching for Efficient Hardware Implementation of Machine Learning Applications.
 - A Data Locality-aware Design Framework for Reconfigurable Sparse Matrix-Vector Multiplication Kernel.
 - Neural Networks Designing Neural Networks: Multi-Objective Hyper-Parameter Optimization.
-- 
 
 ## Important Topics
 ### Network Compression
