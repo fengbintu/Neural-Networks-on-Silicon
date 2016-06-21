@@ -3,7 +3,7 @@
 My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. My research interests include accelerators for neural networks (NNs), deep learning and NN based approximate computing.
 
 ## Table of Contents
- - Conference Paper Reading List
+ - Reading List
    - [2015 DAC](#2015-dac)
    - [2015 ICCV](#2015-iccv) 
    - [2016 DAC](#2016-dac)
@@ -22,7 +22,7 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
  - Research Groups
  - Industry Contributions
 
-## Conference Paper Reading List
+## Reading List
 This is a reading list of conference papers that interest me. The emphasis is focused on, but not limited to neural networks on silicon. Papers of significance are marked in **bold**.
 ### 2016 DAC
 - **Taming the Diversity of Convolutional Neural Network Topology: An Adaptive Data Folding and Parallelism Scheme for Deep Learning Accelerators.**
