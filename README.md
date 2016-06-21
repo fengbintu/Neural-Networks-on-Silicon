@@ -13,6 +13,7 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
    - [2016 FPGA](#2016-fpga)
    - [2016 ASPDAC](#2016-aspdac)
    - [2016 VLSI] (#2016-vlsi)
+   - [2016 ICCAD] (#2016-iccad) 
  - Important Topics
    - [Network Compression](#network-compression)
    - [CNN](#cnn)
@@ -70,6 +71,19 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 ### 2016 VLSI
 - **A 0.3‐2.6 TOPS/W Precision‐Scalable Processor for Real‐Time Large‐Scale ConvNets.** (KU Leuven)
 - **A 1.40mm2 141mW 898GOPS Sparse Neuromorphic Processor in 40nm CMOS.** (University of Michigan)
+ 
+### 2016 ICCAD
+- **Efficient Memory Compression in Deep Neural Networks Using Coarse-Grain Sparsification for Speech Applications.**
+- **Memsqueezer: Re-architecting the On-chip memory Sub-system of Deep Learning Accelerator for Embedded Devices.** 
+- **Caffeine: Towards Uniformed Representation and Acceleration for Deep Convolutional Neural Networks.**
+- **BoostNoC: Power Efficient Network-on-Chip Architecture for Near Threshold Computing.**
+- Design of Power-Efficient Approximate Multipliers for Approximate Artificial Neural Network.
+- Security of Neuromorphic Computing: Thwarting Learning Attacks Using Memristor’s Obsolescence Effect.
+- Compact Oscillation Neuron Exploiting Metal-Insulator-Transition for Neuromorphic Computing.
+- Exploiting Randomness in Sketching for Efficient Hardware Implementation of Machine Learning Applications.
+- A Data Locality-aware Design Framework for Reconfigurable Sparse Matrix-Vector Multiplication Kernel.
+- Neural Networks Designing Neural Networks: Multi-Objective Hyper-Parameter Optimization.
+- 
 
 ## Important Topics
 ### Network Compression
