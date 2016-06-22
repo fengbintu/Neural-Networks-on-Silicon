@@ -59,8 +59,8 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 - Significance Driven Hybrid 8T-6T SRAM for Energy-Efficient Synaptic Storage in Artificial Neural Networks. (Purdue University)
  
 ### 2016 FPGA
-- [**Throughput-Optimized OpenCL-based FPGA Accelerator for Large-Scale Convolutional Neural Networks.**](http://www.isfpga.org/index_files/Slides/1_1.pdf) (Arizona State Univ, ARM)
-- [**Going Deeper with Embedded FPGA Platform for Convolutional Neural Network.**](http://www.isfpga.org/index_files/Slides/1_2.pdf) (Tsinghua University, MSRA)
+- [**Throughput-Optimized OpenCL-based FPGA Accelerator for Large-Scale Convolutional Neural Networks.**](http://www.isfpga.org/index_files/fpga2016/index_files/Slides/1_1.pdf) (Arizona State Univ, ARM)
+- [**Going Deeper with Embedded FPGA Platform for Convolutional Neural Network.**](http://www.isfpga.org/index_files/fpga2016/index_files/Slides/1_2.pdf) (Tsinghua University, MSRA)
  
 ### 2016 ASPDAC
 - **Design Space Exploration of FPGA-Based Deep Convolutional Neural Networks.** (UC Davis)
