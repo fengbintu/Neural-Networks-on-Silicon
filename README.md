@@ -1,6 +1,6 @@
 # Neural Networks on Silicon
 
-My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. My research interests include accelerators for neural networks (NNs), deep learning and NN based approximate computing.
+My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. My research interests include accelerators for neural networks (NNs), deep learning and NN based approximate computing. This is an exciting field where fresh ideas come out every day. Welcome to join us!
 
 ## Table of Contents
  - Reading List
@@ -25,11 +25,16 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
 ## Reading List
 This is a reading list of conference papers that interest me. The emphasis is focused on, but not limited to neural networks on silicon. Papers of significance are marked in **bold**.
 ### 2016 DAC
-- **Taming the Diversity of Convolutional Neural Network Topology: An Adaptive Data Folding and Parallelism Scheme for Deep Learning Accelerators.**
-- **DeepBurning: Automatic Generation of FPGA-based Learning Accelerators for the Neural Network Family.**
-- **Simplifying Deep Neural Networks for Neuromorphic Architectures.**
-- **Dynamic Energy-Accuracy Trade-off Using Stochastic Computing in Deep Neural Networks.**
-- Switched by Input: Power Efficient Structure for RRAM-based Convolutional Neural Network.
+- **DeepBurning: Automatic Generation of FPGA-based Learning Accelerators for the Neural Network Family.** (Chinese Academy of Sciences)
+- **C-Brain:A Deep Learning Accelerator that Tames the Diversity of CNNs through Adaptive Data-Level Parallelization.** (Chinese Academy of Sciences)
+- **Simplifying Deep Neural Networks for Neuromorphic Architectures.** (Incheon National University)
+- **Dynamic Energy-Accuracy Trade-off Using Stochastic Computing in Deep Neural Networks.** (Samsung, Seoul National University, Ulsan National Institute of Science and Technology)
+- **Optimal Design of JPEG Hardware under the Approximate Computing Paradigm.** (University of Minnesota, TAMU)
+- Perform-ML: Performance Optimized Machine Learning by Platform and Content Aware Customization. (Rice University, UCSD)
+- Low-Power Approximate Convolution Computing Unit with Domain-Wall Motion Based “Spin-Memristor” for Image Processing Applications. (Purdue University)
+- Cross-Layer Approximations for Neuromorphic Computing: From Devices to Circuits and Systems. (Purdue University)
+- Switched by Input: Power Efficient Structure for RRAM-based Convolutional Neural Network. (Tsinghua University)
+- A 2.2 GHz SRAM with High Temperature Variation Immunity for Deep Learning Application under 28nm. (UCLA, Bell Labs)
 
 ### 2016 ISSCC
 - **A 1.42TOPS/W Deep Convolutional Neural Network Recognition Processor for Intelligent IoE Systems.** (KAIST)
