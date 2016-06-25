@@ -5,7 +5,6 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
 ## Table of Contents
  - Reading List
    - [2015 DAC](#2015-dac)
-   - [2015 ICCV](#2015-iccv) 
    - [2016 DAC](#2016-dac)
    - [2016 ISSCC](#2016-isscc)
    - [2016 ISCA](#2016-isca)
@@ -24,6 +23,12 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
 
 ## Reading List
 This is a reading list of conference papers that interest me. The emphasis is focused on, but not limited to neural networks on silicon. Papers of significance are marked in **bold**.
+### 2015 DAC
+- Reno: A Highly-Efficient Reconfigurable Neuromorphic Computing Accelerator Design. (Universtiy of Pittsburgh, Tsinghua University et al.)
+- Scalable Effort Classifiers for Energy Efficient Machine Learning. (Purdue University, Microsoft Research)
+- Design Methodology for Operating in Near-ThresholdComputing (NTC) Region. (AMD)
+- Opportunistic Turbo Execution in NTC: Exploiting the Paradigm Shift in Performance Bottlenecks. (Utah State University)
+
 ### 2016 DAC
 - **DeepBurning: Automatic Generation of FPGA-based Learning Accelerators for the Neural Network Family.** (Chinese Academy of Sciences)
 - **C-Brain:A Deep Learning Accelerator that Tames the Diversity of CNNs through Adaptive Data-Level Parallelization.** (Chinese Academy of Sciences)
