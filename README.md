@@ -58,7 +58,7 @@ This is a reading list of conference papers that interest me. The emphasis is fo
  - A Novel Processing-in-memory Architecture for Neural Network Computation in ReRAM-based Main Memory. (UCSB, HP Labs, NVIDIA, Tsinghua University)
  - RedEye: Analog ConvNet Image Sensor Architecture for Continuous Mobile Vision. (Rice University)
  - Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory. (Georgia Institute of Technology, SRI International)
- - An Instruction Set Architecture for Neural Networks. (Chinese Academy of Sciences, UCSB)
+ - Cambricon: An Instruction Set Architecture for Neural Networks. (Chinese Academy of Sciences, UCSB)
 
 ### 2016 DATE
 - **The Neuro Vector Engine: Flexibility to Improve Convolutional Network Efficiency for Wearable Vision.** (Eindhoven University of Technology, Soochow University, TU Berlin) 
@@ -96,11 +96,12 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 
 ## Important Topics
 ### Network Compression
+- Learning both Weights and Connections for Efficient Neural Network. (Stanford University, NVDIA, **2015 NIPS**)
 - [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding.](http://arxiv.org/abs/1510.00149) (Stanford University, Tsinghua University, **2016 ICLR**)
+- [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size.](http://arxiv.org/abs/1602.07360) (DeepScale & UC Berkeley, Stanford University)
 - [8-Bit Approximations for Parallelism in Deep Learning.](http://arxiv.org/abs/1511.04561) (Universia della Svizzera italiana, **2016 ICLR**)
 - [Neural Networks with Few Multiplications.](https://arxiv.org/abs/1510.03009) (Universite de Montreal, **2016 ICLR**)
 - [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications.](http://arxiv.org/abs/1511.06530) (Samsung, Seoul National University, **2016 ICLR**)
-- [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size.](http://arxiv.org/abs/1602.07360) (DeepScale & UC Berkeley, Stanford University)
 - [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.](http://arxiv.org/abs/1602.02830) (Universite de Montreal)
 - [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks.](http://arxiv.org/abs/1603.05279) (Allen Institute for AI, University of Washington)
 
