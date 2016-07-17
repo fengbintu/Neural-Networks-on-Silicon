@@ -15,9 +15,8 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
    - [2016 ICCAD] (#2016-iccad) 
  - Important Topics
    - [Network Compression](#network-compression)
-   - [CNN](#cnn)
-   - [RNN](#rnn)
    - [Other Topics](#other-topics)
+   - [Benchmark](#benchmark)
  - Research Groups
  - Industry Contributions
 
@@ -95,6 +94,14 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 - Neural Networks Designing Neural Networks: Multi-Objective Hyper-Parameter Optimization.
 
 ## Important Topics
+### Benchmark
+- **AlexNet**: Imagenet Classification with Deep Convolutional Neural Networks. (University of Toronto, **2012 NIPS**)
+- **Network in Network**. (National University of Singapore, **2014 ICLR**)
+- **OverFeat**: Integrated Recognition, Localization and Detection using Convolutional Networks. (New York University, **2014 CVPR**)
+- **VGG**: Very Deep Convolutional Networks for Large-Scale Image Recognition. (Univerisity of Oxford, **2015 ICLR**)
+- **GoogLeNet**: Going Deeper with Convolutions. (Google, **2015 CVPR**)
+- **ResNet**: Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification. (MSRA, **2015 ICCV**)
+
 ### Network Compression
 - Learning both Weights and Connections for Efficient Neural Network. (Stanford University, NVDIA, **2015 NIPS**)
 - [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding.](http://arxiv.org/abs/1510.00149) (Stanford University, Tsinghua University, **2016 ICLR**)
@@ -108,7 +115,9 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 - [Deep Learning with Limited Numerical Precision.](https://arxiv.org/abs/1502.02551) (IBM)
 
 ### Other Topics
-#### Highway Network, Residual Network
+#### Object Detection
+- You Only Look Once: Unified, Real-Time Object Detection. (University of Washington, Allen Institute for AI, Facebook AI Research, **2016 CVPR**)
+
 #### Neural Turing Machine
 #### Attention and Memory
 #### Reinforcement Learning
