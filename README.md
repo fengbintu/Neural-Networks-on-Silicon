@@ -99,7 +99,7 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 - **Network in Network**. (National University of Singapore, **2014 ICLR**)
 - **OverFeat**: Integrated Recognition, Localization and Detection using Convolutional Networks. (New York University, **2014 CVPR**)
 - **VGG**: Very Deep Convolutional Networks for Large-Scale Image Recognition. (Univerisity of Oxford, **2015 ICLR**)
-- **GoogLeNet**: Going Deeper with Convolutions. (Google, **2015 CVPR**)
+- **GoogLeNet**: Going Deeper with Convolutions. (Google, University of North Carolina, University of Michigan, **2015 CVPR**)
 - **ResNet**: Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification. (MSRA, **2015 ICCV**)
 
 ### Network Compression
