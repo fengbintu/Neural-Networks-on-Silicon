@@ -14,9 +14,10 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
    - [2016 VLSI] (#2016-vlsi)
    - [2016 ICCAD] (#2016-iccad) 
  - Important Topics
+   - [Benchmark](#benchmark)
    - [Network Compression](#network-compression)
    - [Other Topics](#other-topics)
-   - [Benchmark](#benchmark)
+
  - Research Groups
  - Industry Contributions
 
