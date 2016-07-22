@@ -13,6 +13,7 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
    - [2016 ASPDAC](#2016-aspdac)
    - [2016 VLSI] (#2016-vlsi)
    - [2016 ICCAD] (#2016-iccad) 
+   - [2016 MICRO] (#2016-micro)
  - Important Topics
    - [Benchmark](#benchmark)
    - [Network Compression](#network-compression)
@@ -93,6 +94,22 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 - Exploiting Randomness in Sketching for Efficient Hardware Implementation of Machine Learning Applications.
 - A Data Locality-aware Design Framework for Reconfigurable Sparse Matrix-Vector Multiplication Kernel.
 - Neural Networks Designing Neural Networks: Multi-Objective Hyper-Parameter Optimization.
+
+### 2016 MICRO
+- **From High-Level Deep Neural Models to FPGAs.** (Georgia Institute of Technology, Intel)
+- **vDNN: Virtualized Deep Neural Networks for Scalable, Memory-Efficient Neural Network Design.** (NVIDIA)
+- **Stripes: Bit-Serial Deep Neural Network Computing.** (University of Toronto, University of British Columbia)
+- **An Accelerator for Sparse Neural Networks.** (Chinese Academy of Sciences)
+- **NEUTRAMS: Neural Network Transformation and Co-design under Neuromorphic Hardware Constraints.** (Tsinghua University, UCSB)
+- **Fused-Layer CNN Accelerators.** (Stony Brook University)
+- **Bridging the I/O Performance Gap for Big Data Workloads: A New NVDIMM-based Approach.** (The Hong Kong Polytechnic University, NSF/University of Florida)
+- **A Patch Memory System For Image Processing and Computer Vision.** (NVDIA)
+- A Cloud-Scale Acceleration Architecture. (Microsoft Research)
+- Reducing Data Movement Energy via Online Data Clustering and Encoding. (University of Rochester)
+- The Microarchitecture of a Real-time Robot Motion Planning Accelerator. (Duke University)
+- An Ultra Low-Power Hardware Accelerator for Automatic Speech Recognition. (Universitat Politecnica de Catalunya)
+- Chameleon: Versatile and Practical Near-DRAM Acceleration Architecture for Large Memory Systems. (UIUC, Seoul National University)
+
 
 ## Important Topics
 ### Benchmark
