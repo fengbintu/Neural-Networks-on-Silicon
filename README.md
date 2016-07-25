@@ -3,7 +3,7 @@
 My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. My research interests include accelerators for neural networks (NNs), deep learning and NN based approximate computing. This is an exciting field where fresh ideas come out every day. Welcome to join us!
 
 ## Table of Contents
- - Reading List
+ - Conference Papers
    - [2015 DAC](#2015-dac)
    - [2016 DAC](#2016-dac)
    - [2016 ISSCC](#2016-isscc)
@@ -22,8 +22,8 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
  - Research Groups
  - Industry Contributions
 
-## Reading List
-This is a reading list of conference papers that interest me. The emphasis is focused on, but not limited to neural networks on silicon. Papers of significance are marked in **bold**.
+## Conference Papers
+This is a reading list of conference papers that interest me. The emphasis is focused on, but not limited to neural networks on silicon. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
 ### 2015 DAC
 - Reno: A Highly-Efficient Reconfigurable Neuromorphic Computing Accelerator Design. (Universtiy of Pittsburgh, Tsinghua University et al.)
 - Scalable Effort Classifiers for Energy Efficient Machine Learning. (Purdue University, Microsoft Research)
@@ -112,6 +112,8 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 
 
 ## Important Topics
+This is a reading list of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
+
 ### Benchmark
 - **AlexNet**: Imagenet Classification with Deep Convolutional Neural Networks. (University of Toronto, **2012 NIPS**)
 - **Network in Network**. (National University of Singapore, **2014 ICLR**)
@@ -128,6 +130,7 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 - [Neural Networks with Few Multiplications.](https://arxiv.org/abs/1510.03009) (Universite de Montreal, **2016 ICLR**)
 - [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications.](http://arxiv.org/abs/1511.06530) (Samsung, Seoul National University, **2016 ICLR**)
 - [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.](http://arxiv.org/abs/1602.02830) (Universite de Montreal)
+  - *Constrain both the weights and the activations to either +1 or -1.*
 - [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks.](http://arxiv.org/abs/1603.05279) (Allen Institute for AI, University of Washington)
 - [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients.](http://arxiv.org/abs/1606.06160) (Megvii)
 - [Deep Learning with Limited Numerical Precision.](https://arxiv.org/abs/1502.02551) (IBM)
