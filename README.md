@@ -14,6 +14,7 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
    - [2016 VLSI] (#2016-vlsi)
    - [2016 ICCAD] (#2016-iccad) 
    - [2016 MICRO] (#2016-micro)
+   - [2016 FPL] (#2016-fpl)
  - Important Topics
    - [Benchmark](#benchmark)
    - [Network Compression](#network-compression)
@@ -110,6 +111,10 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 - An Ultra Low-Power Hardware Accelerator for Automatic Speech Recognition. (Universitat Politecnica de Catalunya)
 - Chameleon: Versatile and Practical Near-DRAM Acceleration Architecture for Large Memory Systems. (UIUC, Seoul National University)
 
+### 2016 FPL
+- **A High Performance FPGA-based Accelerator for Large-Scale Convolutional Neural Network.** (Fudan University)
+- **Overcoming Resource Underutilization in Spatial CNN Accelerators.** (Stony Brook University)
+- Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)
 
 ## Important Topics
 This is a reading list of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
