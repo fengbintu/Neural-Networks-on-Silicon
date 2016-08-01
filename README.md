@@ -114,6 +114,7 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 ### 2016 FPL
 - **A High Performance FPGA-based Accelerator for Large-Scale Convolutional Neural Network.** (Fudan University)
 - **Overcoming Resource Underutilization in Spatial CNN Accelerators.** (Stony Brook University)
+  - *Build multiple accelerators, each specialized for specific CNN layers, instead of a single accelerator with uniform tiling parameters.* 
 - Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)
 
 ## Important Topics
