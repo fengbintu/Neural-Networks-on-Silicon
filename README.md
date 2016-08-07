@@ -56,6 +56,8 @@ This is a reading list of conference papers that interest me. The emphasis is fo
  - **EIE: Efficient Inference Engine on Compressed Deep Neural Network.** (Stanford University, Tsinghua University)
  - **Minerva: Enabling Low-Power, High-Accuracy Deep Neural Network Accelerators.** (Harvard University)
  - **Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks.** (MIT, NVIDIA)
+  - *Present an energy analysis framework.*
+  - *Propose a energy-efficienct dataflow called Row Stationary.*
  - ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars. (University of Utah, HP Labs)
  - A Novel Processing-in-memory Architecture for Neural Network Computation in ReRAM-based Main Memory. (UCSB, HP Labs, NVIDIA, Tsinghua University)
  - RedEye: Analog ConvNet Image Sensor Architecture for Continuous Mobile Vision. (Rice University)
