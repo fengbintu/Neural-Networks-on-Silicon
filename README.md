@@ -1,6 +1,6 @@
 # Neural Networks on Silicon
 
-My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. My research interests include accelerators for neural networks (NNs), deep learning and NN based approximate computing. This is an exciting field where fresh ideas come out every day. Welcome to join us!
+My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. My research interests include accelerators for neural networks, deep learning and approximate computing. This is an exciting field where fresh ideas come out every day. Welcome to join us!
 
 ## Table of Contents
  - Conference Papers
