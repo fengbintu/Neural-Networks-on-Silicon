@@ -24,7 +24,7 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
  - Industry Contributions
 
 ## Conference Papers
-This is a reading list of conference papers that interest me. The emphasis is focused on, but not limited to neural networks on silicon. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
+This is a collection of conference papers that interest me. The emphasis is focused on, but not limited to neural networks on silicon. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
 ### 2015 DAC
 - Reno: A Highly-Efficient Reconfigurable Neuromorphic Computing Accelerator Design. (Universtiy of Pittsburgh, Tsinghua University et al.)
 - Scalable Effort Classifiers for Energy Efficient Machine Learning. (Purdue University, Microsoft Research)
@@ -122,7 +122,7 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 - Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)
 
 ## Important Topics
-This is a reading list of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
+This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
 
 ### Benchmarks
 - [Fathom: Reference Workloads for Modern Deep Learning Methods.](http://arxiv.org/abs/1608.06581) (Harvard University)
