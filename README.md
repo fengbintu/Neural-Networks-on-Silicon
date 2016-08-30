@@ -124,7 +124,8 @@ This is a reading list of conference papers that interest me. The emphasis is fo
 ## Important Topics
 This is a reading list of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
 
-### Benchmark
+### Benchmarks
+- [Fathom: Reference Workloads for Modern Deep Learning Methods.](http://arxiv.org/abs/1608.06581) (Harvard University)
 - **AlexNet**: Imagenet Classification with Deep Convolutional Neural Networks. (University of Toronto, **2012 NIPS**)
 - **Network in Network**. (National University of Singapore, **2014 ICLR**)
 - **OverFeat**: Integrated Recognition, Localization and Detection using Convolutional Networks. (New York University, **2014 CVPR**)
