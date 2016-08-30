@@ -16,7 +16,7 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
    - [2016 MICRO] (#2016-micro)
    - [2016 FPL] (#2016-fpl)
  - Important Topics
-   - [Benchmark](#benchmark)
+   - [Benchmarks](#benchmarks)
    - [Network Compression](#network-compression)
    - [Other Topics](#other-topics)
 
