@@ -119,7 +119,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **A High Performance FPGA-based Accelerator for Large-Scale Convolutional Neural Network.** (Fudan University)
 - **Overcoming Resource Underutilization in Spatial CNN Accelerators.** (Stony Brook University)
   - *Build multiple accelerators, each specialized for specific CNN layers, instead of a single accelerator with uniform tiling parameters.* 
-- Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC. (Intel)
+- **Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC.** (Intel)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
