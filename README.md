@@ -145,6 +145,7 @@ This is a collection of papers on other important topics related to neural netwo
 - [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks.](http://arxiv.org/abs/1603.05279) (Allen Institute for AI, University of Washington)
 - [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients.](http://arxiv.org/abs/1606.06160) (Megvii)
 - [Deep Learning with Limited Numerical Precision.](https://arxiv.org/abs/1502.02551) (IBM)
+- [Dynamic Network Surgery for Efficient DNNs.](http://arxiv.org/abs/1608.04493) (Intel Labs China)
 
 ### Other Topics
 #### Object Detection
