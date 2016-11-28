@@ -58,10 +58,12 @@ This is a collection of conference papers that interest me. The emphasis is focu
  - **Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks.** (MIT, NVIDIA)
   - *Present an energy analysis framework.*
   - *Propose an energy-efficienct dataflow called Row Stationary, which considers three levels of reuse.*
+ - Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory. (Georgia Institute of Technology, SRI International)
+  - *Propose an architecture integrated in 3D DRAM, with a mesh-like NOC in the logic layer.*
+  - *Detailedly describe the data movements in the NOC.*
  - ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars. (University of Utah, HP Labs)
  - A Novel Processing-in-memory Architecture for Neural Network Computation in ReRAM-based Main Memory. (UCSB, HP Labs, NVIDIA, Tsinghua University)
  - RedEye: Analog ConvNet Image Sensor Architecture for Continuous Mobile Vision. (Rice University)
- - Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory. (Georgia Institute of Technology, SRI International)
  - Cambricon: An Instruction Set Architecture for Neural Networks. (Chinese Academy of Sciences, UCSB)
 
 ### 2016 DATE
