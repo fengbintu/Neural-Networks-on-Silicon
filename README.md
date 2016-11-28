@@ -58,7 +58,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
  - **Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks.** (MIT, NVIDIA)
   - *Present an energy analysis framework.*
   - *Propose an energy-efficienct dataflow called Row Stationary, which considers three levels of reuse.*
- - Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory. (Georgia Institute of Technology, SRI International)
+ - **Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory.** (Georgia Institute of Technology, SRI International)
   - *Propose an architecture integrated in 3D DRAM, with a mesh-like NOC in the logic layer.*
   - *Detailedly describe the data movements in the NOC.*
  - ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars. (University of Utah, HP Labs)
@@ -91,16 +91,12 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **A 1.40mm2 141mW 898GOPS Sparse Neuromorphic Processor in 40nm CMOS.** (University of Michigan)
  
 ### 2016 ICCAD
-- **Efficient Memory Compression in Deep Neural Networks Using Coarse-Grain Sparsification for Speech Applications.**
-- **Memsqueezer: Re-architecting the On-chip memory Sub-system of Deep Learning Accelerator for Embedded Devices.** 
-- **Caffeine: Towards Uniformed Representation and Acceleration for Deep Convolutional Neural Networks.**
-- **BoostNoC: Power Efficient Network-on-Chip Architecture for Near Threshold Computing.**
-- Design of Power-Efficient Approximate Multipliers for Approximate Artificial Neural Network.
-- Security of Neuromorphic Computing: Thwarting Learning Attacks Using Memristor’s Obsolescence Effect.
-- Compact Oscillation Neuron Exploiting Metal-Insulator-Transition for Neuromorphic Computing.
-- Exploiting Randomness in Sketching for Efficient Hardware Implementation of Machine Learning Applications.
-- A Data Locality-aware Design Framework for Reconfigurable Sparse Matrix-Vector Multiplication Kernel.
-- Neural Networks Designing Neural Networks: Multi-Objective Hyper-Parameter Optimization.
+- **Efficient Memory Compression in Deep Neural Networks Using Coarse-Grain Sparsification for Speech Applications.** (Arizona State University)
+- **Memsqueezer: Re-architecting the On-chip memory Sub-system of Deep Learning Accelerator for Embedded Devices.** (Chinese Academy of Sciences)
+- **Caffeine: Towards Uniformed Representation and Acceleration for Deep Convolutional Neural Networks.** (Peking University, UCLA, Falcon)
+- **BoostNoC: Power Efficient Network-on-Chip Architecture for Near Threshold Computing.** (Utah State University)
+- Design of Power-Efficient Approximate Multipliers for Approximate Artificial Neural Network. (Brno University of Technology, Brno University of Technology)
+- Neural Networks Designing Neural Networks: Multi-Objective Hyper-Parameter Optimization. (McGill University)
 
 ### 2016 MICRO
 - **From High-Level Deep Neural Models to FPGAs.** (Georgia Institute of Technology, Intel)
