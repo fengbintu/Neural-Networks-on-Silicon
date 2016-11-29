@@ -150,7 +150,13 @@ This is a collection of papers on other important topics related to neural netwo
 #### Object Detection
 - You Only Look Once: Unified, Real-Time Object Detection. (University of Washington, Allen Institute for AI, Facebook AI Research, **2016 CVPR**)
 
-#### Neural Turing Machine
+#### GAN
+- [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661) (Universite de Montreal, **2014 NIPS**)
+ - *Two "adversarial" MLP models G and D: a generative model G that captures the data distribution and a discriminative model D that estimates the probability that a sample came from the training data rather than G*.
+ - *D is trained to learn the above probability*.
+ - *G is trained to maximize the probability of D making a mistake.*.
+
+##### Neural Turing Machine
 #### Attention and Memory
 #### Reinforcement Learning
 #### Sequentialization
