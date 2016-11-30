@@ -79,7 +79,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 ### 2016 FPGA
 - **Throughput-Optimized OpenCL-based FPGA Accelerator for Large-Scale Convolutional Neural Networks.** \[[Slides](http://www.isfpga.org/fpga2016/index_files/Slides/1_1.pdf)\] (Arizona State Univ, ARM)
 - **Going Deeper with Embedded FPGA Platform for Convolutional Neural Network.** \[[Slides](http://www.isfpga.org/fpga2016/index_files/Slides/1_2.pdf)\]\[[Demo](http://www.isfpga.org/fpga2016/index_files/Slides/1_2_demo.m4v)\] (Tsinghua University, MSRA)
- - *The first work I see, which runs the entire for of CNN, including both CONV and FC layers.*
+ - *The first work I see, which runs the entire flow of CNN, including both CONV and FC layers.*
  - *Point out that CONV layers are computational-centric, while FC layrers are memory-centric.*
  - *The FPGA runs VGG16-SVD without reconfiguring its resources, but the convolver can only support k=3.*
  - *Dynamic-precision data quantization is creative, but not implemented on hardware.*
@@ -176,3 +176,7 @@ This is a collection of papers on other important topics related to neural netwo
    - DGX-1: Deep learning supercomputer.
  - Google
    - TPU (Tensor Processing Unit).
+ - [Nervana](https://www.nervanasys.com/)
+   - Nervana Engine: Hardware optimized for deep learning.
+ - [Wave Computing](http://wavecomp.com/)
+   - Deep Learning Computers Powered by Dataflow Technology.
