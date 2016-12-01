@@ -132,6 +132,7 @@ This is a collection of papers on other important topics related to neural netwo
 - [Fathom: Reference Workloads for Modern Deep Learning Methods.](http://arxiv.org/abs/1608.06581) (Harvard University)
 - **AlexNet**: Imagenet Classification with Deep Convolutional Neural Networks. (University of Toronto, **2012 NIPS**)
 - **Network in Network**. (National University of Singapore, **2014 ICLR**)
+- **ZFNet**: Visualizing and Understanding Convolutional Networks. (New York University, **2014 ECCV**)
 - **OverFeat**: Integrated Recognition, Localization and Detection using Convolutional Networks. (New York University, **2014 CVPR**)
 - **VGG**: Very Deep Convolutional Networks for Large-Scale Image Recognition. (Univerisity of Oxford, **2015 ICLR**)
 - **GoogLeNet**: Going Deeper with Convolutions. (Google, University of North Carolina, University of Michigan, **2015 CVPR**)
