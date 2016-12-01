@@ -92,6 +92,8 @@ This is a collection of conference papers that interest me. The emphasis is focu
 
 ### 2016 VLSI
 - **A 0.3‐2.6 TOPS/W Precision‐Scalable Processor for Real‐Time Large‐Scale ConvNets.** (KU Leuven)
+ - *Use dynamic precision for different CONV layers, and scales down the MAC array's supply voltage at lower precision.*
+ - *Prevent memory fetches and MAC operations based on the ReLU sparsity.*
 - **A 1.40mm2 141mW 898GOPS Sparse Neuromorphic Processor in 40nm CMOS.** (University of Michigan)
  
 ### 2016 ICCAD
