@@ -87,7 +87,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 
 ### 2016 ASPDAC
 - **Design Space Exploration of FPGA-Based Deep Convolutional Neural Networks.** (UC Davis)
-- **LRADNN High-Throughput and Energy-Efficient Deep Neural Network Accelerator using Low Rank Approximation.** (Hong Kong University of Science and Technology, Shanghai Jiao Tong University)
+- **LRADNN: High-Throughput and Energy-Efficient Deep Neural Network Accelerator using Low Rank Approximation.** (Hong Kong University of Science and Technology, Shanghai Jiao Tong University)
 - **Efficient Embedded Learning for IoT Devices.** (Purdue University)
 - ACR: Enabling Computation Reuse for Approximate Computing. (Chinese Academy of Sciences)
 
