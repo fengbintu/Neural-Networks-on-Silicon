@@ -28,7 +28,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 ### 2015 DAC
 - Reno: A Highly-Efficient Reconfigurable Neuromorphic Computing Accelerator Design. (Universtiy of Pittsburgh, Tsinghua University et al.)
 - Scalable Effort Classifiers for Energy Efficient Machine Learning. (Purdue University, Microsoft Research)
-- Design Methodology for Operating in Near-ThresholdComputing (NTC) Region. (AMD)
+- Design Methodology for Operating in Near-Threshold Computing (NTC) Region. (AMD)
 - Opportunistic Turbo Execution in NTC: Exploiting the Paradigm Shift in Performance Bottlenecks. (Utah State University)
 
 ### 2016 DAC
