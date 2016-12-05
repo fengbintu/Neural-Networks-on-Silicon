@@ -33,7 +33,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 
 ### 2016 DAC
 - **DeepBurning: Automatic Generation of FPGA-based Learning Accelerators for the Neural Network Family.** (Chinese Academy of Sciences)
-- **C-Brain:A Deep Learning Accelerator that Tames the Diversity of CNNs through Adaptive Data-Level Parallelization.** (Chinese Academy of Sciences)
+- **C-Brain: A Deep Learning Accelerator that Tames the Diversity of CNNs through Adaptive Data-Level Parallelization.** (Chinese Academy of Sciences)
 - **Simplifying Deep Neural Networks for Neuromorphic Architectures.** (Incheon National University)
 - **Dynamic Energy-Accuracy Trade-off Using Stochastic Computing in Deep Neural Networks.** (Samsung, Seoul National University, Ulsan National Institute of Science and Technology)
 - **Optimal Design of JPEG Hardware under the Approximate Computing Paradigm.** (University of Minnesota, TAMU)
@@ -115,7 +115,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **NEUTRAMS: Neural Network Transformation and Co-design under Neuromorphic Hardware Constraints.** (Tsinghua University, UCSB)
 - **Fused-Layer CNN Accelerators.** (Stony Brook University)
 - **Bridging the I/O Performance Gap for Big Data Workloads: A New NVDIMM-based Approach.** (The Hong Kong Polytechnic University, NSF/University of Florida)
-- **A Patch Memory System For Image Processing and Computer Vision.** (NVDIA)
+- **A Patch Memory System For Image Processing and Computer Vision.** (NVIDIA)
 - A Cloud-Scale Acceleration Architecture. (Microsoft Research)
 - Reducing Data Movement Energy via Online Data Clustering and Encoding. (University of Rochester)
 - The Microarchitecture of a Real-time Robot Motion Planning Accelerator. (Duke University)
@@ -142,7 +142,7 @@ This is a collection of papers on other important topics related to neural netwo
 - **ResNet**: Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification. (MSRA, **2015 ICCV**)
 
 ### Network Compression
-- Learning both Weights and Connections for Efficient Neural Network. (Stanford University, NVDIA, **2015 NIPS**)
+- Learning both Weights and Connections for Efficient Neural Network. (Stanford University, NVIDIA, **2015 NIPS**)
 - [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding.](http://arxiv.org/abs/1510.00149) (Stanford University, Tsinghua University, **2016 ICLR**)
 - [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size.](http://arxiv.org/abs/1602.07360) (DeepScale & UC Berkeley, Stanford University)
 - [8-Bit Approximations for Parallelism in Deep Learning.](http://arxiv.org/abs/1511.04561) (Universia della Svizzera italiana, **2016 ICLR**)
