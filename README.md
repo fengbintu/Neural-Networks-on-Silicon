@@ -114,6 +114,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **An Accelerator for Sparse Neural Networks.** (Chinese Academy of Sciences)
 - **NEUTRAMS: Neural Network Transformation and Co-design under Neuromorphic Hardware Constraints.** (Tsinghua University, UCSB)
 - **Fused-Layer CNN Accelerators.** (Stony Brook University)
+ - *Fuse multiple CNN layers (CONV+POOL) to reduce DRAM access for input/output data.*
 - **Bridging the I/O Performance Gap for Big Data Workloads: A New NVDIMM-based Approach.** (The Hong Kong Polytechnic University, NSF/University of Florida)
 - **A Patch Memory System For Image Processing and Computer Vision.** (NVIDIA)
 - A Cloud-Scale Acceleration Architecture. (Microsoft Research)
