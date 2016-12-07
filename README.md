@@ -112,7 +112,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **vDNN: Virtualized Deep Neural Networks for Scalable, Memory-Efficient Neural Network Design.** (NVIDIA)
 - **Stripes: Bit-Serial Deep Neural Network Computing.** (University of Toronto, University of British Columbia)
  - *Introduce serial computation and reduced precision computation to neural network accelerator designs, enabling accuracy vs. performance trade-offs.*
- - *Design a bit-serial computing unit to enable linear scaling the performance with precisiton reduction.*
+ - *Design a bit-serial computing unit to enable linear scaling the performance with precision reduction.*
 - **An Accelerator for Sparse Neural Networks.** (Chinese Academy of Sciences)
 - **NEUTRAMS: Neural Network Transformation and Co-design under Neuromorphic Hardware Constraints.** (Tsinghua University, UCSB)
 - **Fused-Layer CNN Accelerators.** (Stony Brook University)
