@@ -135,6 +135,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 ### 2017 FPGA
 - **Can FPGA Beat GPUs in Accelerating Next-Generation Deep Neural Networks?** (Intel)
 - **ESE: Efficient Speech Recognition Engine for Compressed LSTM on FPGA.** (Stanford University, DeepPhi, Tsinghua University, NVIDIA)
+- **FINN: A Framework for Fast, Scalable Binarized Neural Network Inference.** (Xilinx, Norwegian University of Science and Technology, University of Sydney)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
