@@ -15,6 +15,7 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
    - [2016 ICCAD] (#2016-iccad) 
    - [2016 MICRO] (#2016-micro)
    - [2016 FPL] (#2016-fpl)
+   - [2017 FPGA] (#2017-fpga)
  - Important Topics
    - [Benchmarks](#benchmarks)
    - [Network Compression](#network-compression)
@@ -130,6 +131,10 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **Overcoming Resource Underutilization in Spatial CNN Accelerators.** (Stony Brook University)
   - *Build multiple accelerators, each specialized for specific CNN layers, instead of a single accelerator with uniform tiling parameters.* 
 - **Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC.** (Intel)
+
+### 2017 FPGA
+- **Can FPGA Beat GPUs in Accelerating Next-Generation Deep Neural Networks?** (Intel)
+- **ESE: Efficient Speech Recognition Engine for Compressed LSTM on FPGA.** (Stanford University, DeepPhi, Tsinghua University, NVIDIA)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
