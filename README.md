@@ -114,7 +114,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **Stripes: Bit-Serial Deep Neural Network Computing.** (University of Toronto, University of British Columbia)
  - *Introduce serial computation and reduced precision computation to neural network accelerator designs, enabling accuracy vs. performance trade-offs.*
  - *Design a bit-serial computing unit to enable linear scaling the performance with precision reduction.*
-- **An Accelerator for Sparse Neural Networks.** (Chinese Academy of Sciences)
+- **Cambricon-X: An Accelerator for Sparse Neural Networks.** (Chinese Academy of Sciences)
 - **NEUTRAMS: Neural Network Transformation and Co-design under Neuromorphic Hardware Constraints.** (Tsinghua University, UCSB)
 - **Fused-Layer CNN Accelerators.** (Stony Brook University)
  - *Fuse multiple CNN layers (CONV+POOL) to reduce DRAM access for input/output data.*
@@ -166,6 +166,7 @@ This is a collection of papers on other important topics related to neural netwo
 - [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients.](http://arxiv.org/abs/1606.06160) (Megvii)
 - [Deep Learning with Limited Numerical Precision.](https://arxiv.org/abs/1502.02551) (IBM)
 - [Dynamic Network Surgery for Efficient DNNs.](http://arxiv.org/abs/1608.04493) (Intel Labs China)
+- [Understanding the Impact of Precision Quantization on the Accuracy and Energy of Neural Networks.](https://arxiv.org/abs/1612.03940) (Brown University)
 
 ### Other Topics
 #### Object Detection
