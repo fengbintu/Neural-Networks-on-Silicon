@@ -178,11 +178,6 @@ This is a collection of papers on other important topics related to neural netwo
  - *D is trained to learn the above probability*.
  - *G is trained to maximize the probability of D making a mistake.*.
 
-#### Neural Turing Machine
-#### Attention and Memory
-#### Reinforcement Learning
-#### Sequentialization
-
 ## Research Groups
 
 ## Industry Contributions
