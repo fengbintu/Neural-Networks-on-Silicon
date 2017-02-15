@@ -16,6 +16,9 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
    - [2016 MICRO] (#2016-micro)
    - [2016 FPL] (#2016-fpl)
    - [2017 FPGA] (#2017-fpga)
+   - [2017 ISSCC] (#2017-isscc)
+   - [2017 HPCA] (#2017-hpca)
+   - [2017 ASPLOS] (#2017-asplos)
  - Important Topics
    - [Benchmarks](#benchmarks)
    - [Network Compression](#network-compression)
@@ -136,6 +139,24 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **Can FPGA Beat GPUs in Accelerating Next-Generation Deep Neural Networks?** (Intel)
 - **ESE: Efficient Speech Recognition Engine for Compressed LSTM on FPGA.** (Stanford University, DeepPhi, Tsinghua University, NVIDIA)
 - **FINN: A Framework for Fast, Scalable Binarized Neural Network Inference.** (Xilinx, Norwegian University of Science and Technology, University of Sydney)
+
+### 2017 ISSCC
+- **A 2.9TOPS/W Deep Convolutional Neural Network SoC in FD-SOI 28nm for Intelligent Embedded Systems.** (ST)
+- **DNPU: An 8.1TOPS/W Reconfigurable CNN-RNN Processor for GeneralPurpose Deep Neural Networks.** (KAIST)
+- **ENVISION: A 0.26-to-10TOPS/W Subword-Parallel Computational Accuracy-Voltage-Frequency-Scalable Convolutional Neural Network Processor in 28nm FDSOI.** (KU Leuven)
+- **A 288µW Programmable Deep-Learning Processor with 270KB On-Chip Weight Storage Using Non-Uniform Memory Hierarchy for Mobile Intelligence.** (University of Michigan, CubeWorks)
+- A 28nm SoC with a 1.2GHz 568nJ/Prediction Sparse Deep-NeuralNetwork Engine with >0.1 Timing Error Rate Tolerance for IoT Applications. (Harvard)
+- A Scalable Speech Recognizer with Deep-Neural-Network Acoustic Models and Voice-Activated Power Gating (MIT)
+- A 0.62mW Ultra-Low-Power Convolutional-Neural-Network Face Recognition Processor and a CIS Integrated with Always-On Haar-Like Face Detector. (KAIST)
+
+### 2017 HPCA
+- **FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks.** (Chinese Academy of Sciences)
+- **PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning.** (University of Pittsburgh, University of Southern California)
+- Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures. (University of Florida)
+- Supporting Address Translation for Accelerator-Centric Architectures. (UCLA)
+
+### 2017 ASPLOS
+- **Scalable and Efficient Neural Network Acceleration with 3D Memory.** (Stanford University, EPFL)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
