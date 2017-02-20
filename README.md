@@ -136,9 +136,14 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC.** (Intel)
 
 ### 2017 FPGA
-- **Can FPGA Beat GPUs in Accelerating Next-Generation Deep Neural Networks?** (Intel)
+- **An OpenCL Deep Learning Accelerator on Arria 10.** (Intel)
 - **ESE: Efficient Speech Recognition Engine for Compressed LSTM on FPGA.** (Stanford University, DeepPhi, Tsinghua University, NVIDIA)
 - **FINN: A Framework for Fast, Scalable Binarized Neural Network Inference.** (Xilinx, Norwegian University of Science and Technology, University of Sydney)
+- **Can FPGA Beat GPUs in Accelerating Next-Generation Deep Neural Networks?** (Intel)
+- **Accelerating Binarized Convolutional Neural Networks with Software-Programmable FPGAs.** (Cornell University, UCLA, UCSD)
+- **Improving the Performance of OpenCL-based FPGA Accelerator for Convolutional Neural Network.** (UW-Madison)
+- **Frequency Domain Acceleration of Convolutional Neural Networks on CPU-FPGA Shared Memory System.** (USC)
+- **Optimizing Loop Operation and Dataflow in FPGA Acceleration of Deep Convolutional Neural Networks.** (Arizona State University)
 
 ### 2017 ISSCC
 - **A 2.9TOPS/W Deep Convolutional Neural Network SoC in FD-SOI 28nm for Intelligent Embedded Systems.** (ST)
