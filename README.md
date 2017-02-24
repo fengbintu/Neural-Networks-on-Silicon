@@ -162,6 +162,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 
 ### 2017 ASPLOS
 - **Scalable and Efficient Neural Network Acceleration with 3D Memory.** (Stanford University, EPFL)
+- SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing. (Syracuse University, USC, The City College of New York)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
