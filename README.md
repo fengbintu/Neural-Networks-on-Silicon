@@ -123,10 +123,12 @@ This is a collection of conference papers that interest me. The emphasis is focu
  - *Fuse multiple CNN layers (CONV+POOL) to reduce DRAM access for input/output data.*
 - **Bridging the I/O Performance Gap for Big Data Workloads: A New NVDIMM-based Approach.** (The Hong Kong Polytechnic University, NSF/University of Florida)
 - **A Patch Memory System For Image Processing and Computer Vision.** (NVIDIA)
+- **An Ultra Low-Power Hardware Accelerator for Automatic Speech Recognition.** (Universitat Politecnica de Catalunya)
+- Perceptron Learning for Reuse Prediction. (TAMU, Intel Labs)
+ - *Train neural networks to predict reuse of cache blocks.*
 - A Cloud-Scale Acceleration Architecture. (Microsoft Research)
 - Reducing Data Movement Energy via Online Data Clustering and Encoding. (University of Rochester)
 - The Microarchitecture of a Real-time Robot Motion Planning Accelerator. (Duke University)
-- An Ultra Low-Power Hardware Accelerator for Automatic Speech Recognition. (Universitat Politecnica de Catalunya)
 - Chameleon: Versatile and Practical Near-DRAM Acceleration Architecture for Large Memory Systems. (UIUC, Seoul National University)
 
 ### 2016 FPL
