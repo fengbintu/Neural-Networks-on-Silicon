@@ -11,14 +11,17 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
    - [2016 DATE](#2016-date)
    - [2016 FPGA](#2016-fpga)
    - [2016 ASPDAC](#2016-aspdac)
-   - [2016 VLSI] (#2016-vlsi)
-   - [2016 ICCAD] (#2016-iccad) 
-   - [2016 MICRO] (#2016-micro)
-   - [2016 FPL] (#2016-fpl)
-   - [2017 FPGA] (#2017-fpga)
-   - [2017 ISSCC] (#2017-isscc)
-   - [2017 HPCA] (#2017-hpca)
-   - [2017 ASPLOS] (#2017-asplos)
+   - [2016 VLSI](#2016-vlsi)
+   - [2016 ICCAD](#2016-iccad) 
+   - [2016 MICRO](#2016-micro)
+   - [2016 FPL](#2016-fpl)
+   - [2017 FPGA](#2017-fpga)
+   - [2017 ISSCC](#2017-isscc)
+   - [2017 HPCA](#2017-hpca)
+   - [2017 ASPLOS](#2017-asplos)
+   - [2017 ISCA](#2017-isca)
+   - [2017 FCCM](#2017-fccm)
+   
  - Important Topics
    - [Benchmarks](#benchmarks)
    - [Network Compression](#network-compression)
@@ -165,6 +168,13 @@ This is a collection of conference papers that interest me. The emphasis is focu
 ### 2017 ASPLOS
 - **Scalable and Efficient Neural Network Acceleration with 3D Memory.** (Stanford University, EPFL)
 - SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing. (Syracuse University, USC, The City College of New York)
+
+### 2017 ISCA
+- **Maximizing CNN Accelerator Efficiency Through Resource Partitioning.** (Stony Brook University)
+  - *An Extension of their FPL'16 paper.* 
+  
+### 2017 FCCM
+- **Escher: A CNN Accelerator with Flexible Buffering to Minimize Off-Chip Transfer.** (Stony Brook University)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
