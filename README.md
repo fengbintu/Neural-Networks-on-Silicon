@@ -64,11 +64,11 @@ This is a collection of conference papers that interest me. The emphasis is focu
  - **EIE: Efficient Inference Engine on Compressed Deep Neural Network.** (Stanford University, Tsinghua University)
  - **Minerva: Enabling Low-Power, High-Accuracy Deep Neural Network Accelerators.** (Harvard University)
  - **Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks.** (MIT, NVIDIA)
-  - *Present an energy analysis framework.*
-  - *Propose an energy-efficienct dataflow called Row Stationary, which considers three levels of reuse.*
+   - *Present an energy analysis framework.*
+   - *Propose an energy-efficienct dataflow called Row Stationary, which considers three levels of reuse.*
  - **Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory.** (Georgia Institute of Technology, SRI International)
-  - *Propose an architecture integrated in 3D DRAM, with a mesh-like NOC in the logic layer.*
-  - *Detailedly describe the data movements in the NOC.*
+   - *Propose an architecture integrated in 3D DRAM, with a mesh-like NOC in the logic layer.*
+   - *Detailedly describe the data movements in the NOC.*
  - ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars. (University of Utah, HP Labs)
  - A Novel Processing-in-memory Architecture for Neural Network Computation in ReRAM-based Main Memory. (UCSB, HP Labs, NVIDIA, Tsinghua University)
  - RedEye: Analog ConvNet Image Sensor Architecture for Continuous Mobile Vision. (Rice University)
@@ -86,10 +86,10 @@ This is a collection of conference papers that interest me. The emphasis is focu
  
 ### 2016 FPGA
 - **Going Deeper with Embedded FPGA Platform for Convolutional Neural Network.** \[[Slides](http://www.isfpga.org/fpga2016/index_files/Slides/1_2.pdf)\]\[[Demo](http://www.isfpga.org/fpga2016/index_files/Slides/1_2_demo.m4v)\] (Tsinghua University, MSRA)
- - *The first work I see, which runs the entire flow of CNN, including both CONV and FC layers.*
- - *Point out that CONV layers are computational-centric, while FC layrers are memory-centric.*
- - *The FPGA runs VGG16-SVD without reconfiguring its resources, but the convolver can only support k=3.*
- - *Dynamic-precision data quantization is creative, but not implemented on hardware.*
+  - *The first work I see, which runs the entire flow of CNN, including both CONV and FC layers.*
+  - *Point out that CONV layers are computational-centric, while FC layrers are memory-centric.*
+  - *The FPGA runs VGG16-SVD without reconfiguring its resources, but the convolver can only support k=3.*
+  - *Dynamic-precision data quantization is creative, but not implemented on hardware.*
 - **Throughput-Optimized OpenCL-based FPGA Accelerator for Large-Scale Convolutional Neural Networks.** \[[Slides](http://www.isfpga.org/fpga2016/index_files/Slides/1_1.pdf)\] (Arizona State Univ, ARM)
  - *Spatially allocate FPGA's resources to CONV/POOL/NORM/FC layers.*
 
@@ -101,16 +101,16 @@ This is a collection of conference papers that interest me. The emphasis is focu
 
 ### 2016 VLSI
 - **A 0.3‐2.6 TOPS/W Precision‐Scalable Processor for Real‐Time Large‐Scale ConvNets.** (KU Leuven)
- - *Use dynamic precision for different CONV layers, and scales down the MAC array's supply voltage at lower precision.*
- - *Prevent memory fetches and MAC operations based on the ReLU sparsity.*
+  - *Use dynamic precision for different CONV layers, and scales down the MAC array's supply voltage at lower precision.*
+  - *Prevent memory fetches and MAC operations based on the ReLU sparsity.*
 - **A 1.40mm2 141mW 898GOPS Sparse Neuromorphic Processor in 40nm CMOS.** (University of Michigan)
  
 ### 2016 ICCAD
 - **Efficient Memory Compression in Deep Neural Networks Using Coarse-Grain Sparsification for Speech Applications.** (Arizona State University)
 - **Memsqueezer: Re-architecting the On-chip memory Sub-system of Deep Learning Accelerator for Embedded Devices.** (Chinese Academy of Sciences)
 - **Caffeine: Towards Uniformed Representation and Acceleration for Deep Convolutional Neural Networks.** (Peking University, UCLA, Falcon)
- - *Propose a uniformed convolutional matrix-multiplication representation for accelerating CONV and FC layers on FPGA.*
- - *Propose a weight-major convolutional mapping method for FC layers, which has good data reuse, DRAM access burst length and effective bandwidth.*
+  - *Propose a uniformed convolutional matrix-multiplication representation for accelerating CONV and FC layers on FPGA.*
+  - *Propose a weight-major convolutional mapping method for FC layers, which has good data reuse, DRAM access burst length and effective bandwidth.*
 - **BoostNoC: Power Efficient Network-on-Chip Architecture for Near Threshold Computing.** (Utah State University)
 - Design of Power-Efficient Approximate Multipliers for Approximate Artificial Neural Network. (Brno University of Technology, Brno University of Technology)
 - Neural Networks Designing Neural Networks: Multi-Objective Hyper-Parameter Optimization. (McGill University)
@@ -119,17 +119,17 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **From High-Level Deep Neural Models to FPGAs.** (Georgia Institute of Technology, Intel)
 - **vDNN: Virtualized Deep Neural Networks for Scalable, Memory-Efficient Neural Network Design.** (NVIDIA)
 - **Stripes: Bit-Serial Deep Neural Network Computing.** (University of Toronto, University of British Columbia)
- - *Introduce serial computation and reduced precision computation to neural network accelerator designs, enabling accuracy vs. performance trade-offs.*
- - *Design a bit-serial computing unit to enable linear scaling the performance with precision reduction.*
+  - *Introduce serial computation and reduced precision computation to neural network accelerator designs, enabling accuracy vs. performance trade-offs.*
+  - *Design a bit-serial computing unit to enable linear scaling the performance with precision reduction.*
 - **Cambricon-X: An Accelerator for Sparse Neural Networks.** (Chinese Academy of Sciences)
 - **NEUTRAMS: Neural Network Transformation and Co-design under Neuromorphic Hardware Constraints.** (Tsinghua University, UCSB)
 - **Fused-Layer CNN Accelerators.** (Stony Brook University)
- - *Fuse multiple CNN layers (CONV+POOL) to reduce DRAM access for input/output data.*
+  - *Fuse multiple CNN layers (CONV+POOL) to reduce DRAM access for input/output data.*
 - **Bridging the I/O Performance Gap for Big Data Workloads: A New NVDIMM-based Approach.** (The Hong Kong Polytechnic University, NSF/University of Florida)
 - **A Patch Memory System For Image Processing and Computer Vision.** (NVIDIA)
 - **An Ultra Low-Power Hardware Accelerator for Automatic Speech Recognition.** (Universitat Politecnica de Catalunya)
 - Perceptron Learning for Reuse Prediction. (TAMU, Intel Labs)
- - *Train neural networks to predict reuse of cache blocks.*
+  - *Train neural networks to predict reuse of cache blocks.*
 - A Cloud-Scale Acceleration Architecture. (Microsoft Research)
 - Reducing Data Movement Energy via Online Data Clustering and Encoding. (University of Rochester)
 - The Microarchitecture of a Real-time Robot Motion Planning Accelerator. (Duke University)
