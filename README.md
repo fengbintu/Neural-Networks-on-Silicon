@@ -21,6 +21,7 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
    - [2017 ASPLOS](#2017-asplos)
    - [2017 ISCA](#2017-isca)
    - [2017 FCCM](#2017-fccm)
+   - [2017 DAC](#2017-dac)
    
  - Important Topics
    - [Benchmarks](#benchmarks)
@@ -175,6 +176,28 @@ This is a collection of conference papers that interest me. The emphasis is focu
   
 ### 2017 FCCM
 - **Escher: A CNN Accelerator with Flexible Buffering to Minimize Off-Chip Transfer.** (Stony Brook University)
+
+### 2017 DAC
+- **Exploring Heterogeneous Algorithms for Accelerating Deep Convolutional Neural Networks on FPGAs.**
+- **Hardware-Software Codesign of Highly Accurate, Multiplier-free Deep Neural Networks.**
+- **New Stochastic Computing Multiplier and Its Application to Deep Neural Networks.**
+- **A Kernel Decomposition Architecture for Binary-weight Convolutional Neural Networks.**
+- **TIME: A Training-in-memory Architecture for Memristor-based Deep Neural Networks.**
+- **Design of An Energy-Efficient Accelerator for Training of Convolutional Neural Networks using Frequency-Domain Computation.**
+- **Automating the systolic array generation and optimizations for high throughput convolution neural network.**
+- **Fault-Tolerant Training with On-Line Fault Detection for RRAM-Based Neural Computing Systems.**
+- **Deep^3: Leveraging Three Levels of Parallelism for Efficient Deep Learning.**
+- **Real-Time meets Approximate Computing: An Elastic Deep Learning Accelerator Design with Adaptive Trade-off between QoS and QoR.**
+- **Towards Full-System Energy-Accuracy Tradeoffs: A Case Study of An Approximate Smart Camera System.**
+- **Error Propagation Aware Timing Relaxation For Approximate Near Threshold Computing.**
+- RESPARC: A Reconfigurable and Energy-Efficient Architecture with Memristive Crossbars for Deep Spiking Neural Networks.
+- Rescuing Memristor-based Neuromorphic Design with High Defects.
+- Group Scissor: Scaling Neuromorphic Computing Design to Big Neural Networks.
+- Deep Reinforcement Learning for HVAC Control in Smart Buildings.
+- Towards Aging-induced Approximations.
+- SABER: Selection of Approximate Bits for the Design of Error Tolerant Circuits.
+- QuAd: Design and Analysis of Quality-Area Optimal Low-Latency Approximate Adders.
+- On Quality Trade-off Control for Approximate Computing using Iterative Training.
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
