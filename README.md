@@ -1,8 +1,9 @@
 # Neural Networks on Silicon
 
-My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. My research interests include accelerators for neural networks, deep learning and approximate computing. This is an exciting field where fresh ideas come out every day. Welcome to join us!
+My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). One of my research interests is architecture design for deep learning. This is an exciting field where fresh ideas come out every day, so I'm collecting works on related topics. Welcome to join us!
 
 ## Table of Contents
+ - My Contribution
  - Conference Papers
    - [2015 DAC](#2015-dac)
    - [2016 DAC](#2016-dac)
@@ -28,13 +29,20 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
    - [Network Compression](#network-compression)
    - [Other Topics](#other-topics)
 
- - Research Groups
  - Industry Contributions
 
+## My Contribution
+I'm working on energy-efficient architecture design for deep learning. A deep convoultional neural network architecture (DNA) has been designed with 1~2 orders higher energy efficiency over the state-of-the-art works. I'm trying to improve the architecture for ultra low-power compting. Hope my new works will come out in the near future.
+
+- **Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns.** (To appear in **TVLSI**)
+  - *This is first work to assign Input/Output/Weight Reuse to different layers of a CNN, which optimizes system-level energy consumption based on different CONV parameters.*
+  - *A 4-level CONV engine is designed to to support different tiling parameters for higher resource utilization and performance.*
+  - *A layer-based scheduling framework is proposed to optimize both system-level energy efficiency and performance.*
+
 ## Conference Papers
-This is a collection of conference papers that interest me. The emphasis is focused on, but not limited to neural networks on silicon. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
+This is a collection of conference papers that interest me. The emphasis is focused on, but not limited to neural networks on silicon. Papers of significance are marked in **bold**. My comments are marked in *italic*.
 ### 2015 DAC
-- Reno: A Highly-Efficient Reconfigurable Neuromorphic Computing Accelerator Design. (Universtiy of Pittsburgh, Tsinghua University et al.)
+- Reno: A Highly-Efficient Reconfigurable Neuromorphic Computing Accelerator Design. (Universtiy of Pittsburgh, Tsinghua University, San Francisco State University, Air Force Research Laboratory, University of Massachusetts.)
 - Scalable Effort Classifiers for Energy Efficient Machine Learning. (Purdue University, Microsoft Research)
 - Design Methodology for Operating in Near-Threshold Computing (NTC) Region. (AMD)
 - Opportunistic Turbo Execution in NTC: Exploiting the Paradigm Shift in Performance Bottlenecks. (Utah State University)
@@ -91,7 +99,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
   - *The FPGA runs VGG16-SVD without reconfiguring its resources, but the convolver can only support k=3.*
   - *Dynamic-precision data quantization is creative, but not implemented on hardware.*
 - **Throughput-Optimized OpenCL-based FPGA Accelerator for Large-Scale Convolutional Neural Networks.** \[[Slides](http://www.isfpga.org/fpga2016/index_files/Slides/1_1.pdf)\] (Arizona State Univ, ARM)
- - *Spatially allocate FPGA's resources to CONV/POOL/NORM/FC layers.*
+  - *Spatially allocate FPGA's resources to CONV/POOL/NORM/FC layers.*
 
 ### 2016 ASPDAC
 - **Design Space Exploration of FPGA-Based Deep Convolutional Neural Networks.** (UC Davis)
@@ -239,8 +247,6 @@ This is a collection of papers on other important topics related to neural netwo
  - *Two "adversarial" MLP models G and D: a generative model G that captures the data distribution and a discriminative model D that estimates the probability that a sample came from the training data rather than G*.
  - *D is trained to learn the above probability*.
  - *G is trained to maximize the probability of D making a mistake.*.
-
-## Research Groups
 
 ## Industry Contributions
  - [Movidius](http://www.movidius.com/)
