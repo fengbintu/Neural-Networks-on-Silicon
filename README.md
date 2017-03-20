@@ -3,8 +3,8 @@
 My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). One of my research interests is architecture design for deep learning. This is an exciting field where fresh ideas come out every day, so I'm collecting works on related topics. Welcome to join us!
 
 ## Table of Contents
- - My Contribution
- - Conference Papers
+ - [My Contributions](#my-contributions)
+ - [Conference Papers](#conference-papers)
    - [2015 DAC](#2015-dac)
    - [2016 DAC](#2016-dac)
    - [2016 ISSCC](#2016-isscc)
@@ -24,15 +24,15 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - [2017 FCCM](#2017-fccm)
    - [2017 DAC](#2017-dac)
    
- - Important Topics
+ - [Important Topics](#important-topics)
    - [Benchmarks](#benchmarks)
    - [Network Compression](#network-compression)
    - [Other Topics](#other-topics)
 
- - Industry Contributions
+ - [Industry Contributions](#industry-contributions)
 
-## My Contribution
-I'm working on energy-efficient architecture design for deep learning. A deep convoultional neural network architecture (DNA) has been designed with 1~2 orders higher energy efficiency over the state-of-the-art works. I'm trying to improve the architecture for ultra low-power compting. Hope my new works will come out in the near future.
+## My Contributions
+I'm working on energy-efficient architecture design for deep learning. A deep convoultional neural network architecture (DNA) has been designed with 1~2 orders higher energy efficiency over the state-of-the-art works. I'm trying to improve the architecture for ultra low-power compting. Hope my new works will come out soon in the near future.
 
 - **Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns.** (To appear in **TVLSI**)
   - *This is first work to assign Input/Output/Weight Reuse to different layers of a CNN, which optimizes system-level energy consumption based on different CONV parameters.*
@@ -244,9 +244,9 @@ This is a collection of papers on other important topics related to neural netwo
 
 #### GAN
 - [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661) (Universite de Montreal, **2014 NIPS**)
- - *Two "adversarial" MLP models G and D: a generative model G that captures the data distribution and a discriminative model D that estimates the probability that a sample came from the training data rather than G*.
- - *D is trained to learn the above probability*.
- - *G is trained to maximize the probability of D making a mistake.*.
+  - *Two "adversarial" MLP models G and D: a generative model G that captures the data distribution and a discriminative model D that estimates the probability that a sample came from the training data rather than G*.
+  - *D is trained to learn the above probability*.
+  - *G is trained to maximize the probability of D making a mistake.*.
 
 ## Industry Contributions
  - [Movidius](http://www.movidius.com/)
