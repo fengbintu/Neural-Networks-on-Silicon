@@ -35,7 +35,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
 I'm working on energy-efficient architecture design for deep learning. A deep convoultional neural network architecture (DNA) has been designed with 1~2 orders higher energy efficiency over the state-of-the-art works. I'm trying to improve the architecture for ultra low-power compting. Hope my new works will come out soon in the near future.
 
 - **Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns.** (To appear in **TVLSI**)
-  - *This is first work to assign Input/Output/Weight Reuse to different layers of a CNN, which optimizes system-level energy consumption based on different CONV parameters.*
+  - *This is the first work to assign Input/Output/Weight Reuse to different layers of a CNN, which optimizes system-level energy consumption based on different CONV parameters.*
   - *A 4-level CONV engine is designed to to support different tiling parameters for higher resource utilization and performance.*
   - *A layer-based scheduling framework is proposed to optimize both system-level energy efficiency and performance.*
 
