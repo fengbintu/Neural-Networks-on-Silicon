@@ -247,6 +247,9 @@ This is a collection of papers on other important topics related to neural netwo
   - *Two "adversarial" MLP models G and D: a generative model G that captures the data distribution and a discriminative model D that estimates the probability that a sample came from the training data rather than G*.
   - *D is trained to learn the above probability*.
   - *G is trained to maximize the probability of D making a mistake.*.
+  
+#### Kaiming He
+- [Mask R-CNN](https://arxiv.org/abs/1703.06870) (FAIR)
 
 ## Industry Contributions
  - [Movidius](http://www.movidius.com/)
