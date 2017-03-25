@@ -239,17 +239,19 @@ This is a collection of papers on other important topics related to neural netwo
 - [Understanding the Impact of Precision Quantization on the Accuracy and Energy of Neural Networks.](https://arxiv.org/abs/1612.03940) (Brown University)
 
 ### Other Topics
-#### Object Detection
-- You Only Look Once: Unified, Real-Time Object Detection. (University of Washington, Allen Institute for AI, Facebook AI Research, **2016 CVPR**)
 
 #### GAN
-- [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661) (Universite de Montreal, **2014 NIPS**)
+- [Generative Adversarial Nets.](https://arxiv.org/abs/1406.2661) (Universite de Montreal, **2014 NIPS**)
   - *Two "adversarial" MLP models G and D: a generative model G that captures the data distribution and a discriminative model D that estimates the probability that a sample came from the training data rather than G*.
   - *D is trained to learn the above probability*.
   - *G is trained to maximize the probability of D making a mistake.*.
   
 #### Kaiming He
-- [Mask R-CNN](https://arxiv.org/abs/1703.06870) (FAIR)
+- [Mask R-CNN.](https://arxiv.org/abs/1703.06870) (FAIR)
+
+#### Others
+- You Only Look Once: Unified, Real-Time Object Detection. (University of Washington, Allen Institute for AI, Facebook AI Research, **2016 CVPR**)
+- [Deformable Convolutional Networks.](https://arxiv.org/abs/1703.06211) (MSRA)
 
 ## Industry Contributions
  - [Movidius](http://www.movidius.com/)
