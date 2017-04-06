@@ -181,6 +181,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 ### 2017 ISCA
 - **Maximizing CNN Accelerator Efficiency Through Resource Partitioning.** (Stony Brook University)
   - *An Extension of their FPL'16 paper.* 
+- **In-Datacenter Performance Analysis of a Tensor Processing Unit.** (Google)
   
 ### 2017 FCCM
 - **Escher: A CNN Accelerator with Flexible Buffering to Minimize Off-Chip Transfer.** (Stony Brook University)
