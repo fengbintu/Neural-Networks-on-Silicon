@@ -23,6 +23,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - [2017 ISCA](#2017-isca)
    - [2017 FCCM](#2017-fccm)
    - [2017 DAC](#2017-dac)
+   - [2017 DATE](#2017-date)
    
  - [Important Topics](#important-topics)
    - [Benchmarks](#benchmarks)
@@ -207,6 +208,15 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - SABER: Selection of Approximate Bits for the Design of Error Tolerant Circuits.
 - QuAd: Design and Analysis of Quality-Area Optimal Low-Latency Approximate Adders.
 - On Quality Trade-off Control for Approximate Computing using Iterative Training.
+
+### 2017 DATE
+- **Accelerator-friendly Neural-network Training: Learning Variations and Defects in RRAM Crossbar.** (Shanghai Jiao Tong University, University of Pittsburgh, Lynmax Research)
+- **A Novel Zero Weight/Activation-Aware Hardware Architecture of Convolutional Neural Network.** (Seoul National University)
+- **Understanding the Impact of Precision Quantization on the Accuracy and Energy of Neural Networks.** (Brown University)
+- **Design Space Exploration of FPGA Accelerators for Convolutional Neural Networks.** (Samsung, UNIST, Seoul National University)
+- **MoDNN: Local Distributed Mobile Computing System for Deep Neural Network.** (University of Pittsburgh, George Mason University, University of Maryland)
+- Energy-Efficient Approximate Multiplier Design using Bit Significance-Driven Logic Compression. (Newcastle University)
+
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
