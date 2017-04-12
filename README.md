@@ -263,6 +263,7 @@ This is a collection of papers on other important topics related to neural netwo
 #### Others
 - You Only Look Once: Unified, Real-Time Object Detection. (University of Washington, Allen Institute for AI, Facebook AI Research, **2016 CVPR**)
 - [Deformable Convolutional Networks.](https://arxiv.org/abs/1703.06211) (MSRA)
+- A-Fast-RCNN: Hard positive generation via adversary for object detection. (CMU, **2017 CVPR**)
 
 ## Industry Contributions
  - [Movidius](http://www.movidius.com/)
