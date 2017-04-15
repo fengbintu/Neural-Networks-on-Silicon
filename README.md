@@ -210,12 +210,16 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - On Quality Trade-off Control for Approximate Computing using Iterative Training.
 
 ### 2017 DATE
+- **DVAFS: Trading Computational Accuracy for Energy Through Dynamic-Voltage-Accuracy-Frequency-Scaling.** (KU Leuven)
 - **Accelerator-friendly Neural-network Training: Learning Variations and Defects in RRAM Crossbar.** (Shanghai Jiao Tong University, University of Pittsburgh, Lynmax Research)
 - **A Novel Zero Weight/Activation-Aware Hardware Architecture of Convolutional Neural Network.** (Seoul National University)
 - **Understanding the Impact of Precision Quantization on the Accuracy and Energy of Neural Networks.** (Brown University)
 - **Design Space Exploration of FPGA Accelerators for Convolutional Neural Networks.** (Samsung, UNIST, Seoul National University)
 - **MoDNN: Local Distributed Mobile Computing System for Deep Neural Network.** (University of Pittsburgh, George Mason University, University of Maryland)
+- **Chain-NN: An Energy-Efficient 1D Chain Architecture for Accelerating Deep Convolutional Neural Networks.** (Waseda University)
+- **LookNN: Neural Network with No Multiplication.** (UCSD)
 - Energy-Efficient Approximate Multiplier Design using Bit Significance-Driven Logic Compression. (Newcastle University)
+- Revamping Timing Error Resilience to Tackle Choke Points at NTC Systems. (Utah State University)
 
 
 ## Important Topics
