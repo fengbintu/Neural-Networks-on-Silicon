@@ -198,6 +198,11 @@ This is a collection of conference papers that interest me. The emphasis is focu
   
 ### 2017 FCCM
 - **Escher: A CNN Accelerator with Flexible Buffering to Minimize Off-Chip Transfer.** (Stony Brook University)
+- **Customizing Neural Networks for Efficient FPGA Implementation.**
+- **Evaluating Fast Algorithms for Convolutional Neural Networks on FPGAs.**
+- **FP-DNN: An Automated Framework for Mapping Deep Neural Networks onto FPGAs with RTL-HLS Hybrid Templates.**
+- FPGA accelerated Dense Linear Machine Learning: A Precision-Convergence Trade-off.
+- A Configurable FPGA Implementation of the Tanh Function using DCT Interpolation.
 
 ### 2017 DAC
 - **Exploring Heterogeneous Algorithms for Accelerating Deep Convolutional Neural Networks on FPGAs.**
