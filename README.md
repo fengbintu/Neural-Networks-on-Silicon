@@ -16,6 +16,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - [2016 ICCAD](#2016-iccad) 
    - [2016 MICRO](#2016-micro)
    - [2016 FPL](#2016-fpl)
+   - [2016 HPCA](#2016-hpca)
    - [2017 FPGA](#2017-fpga)
    - [2017 ISSCC](#2017-isscc)
    - [2017 HPCA](#2017-hpca)
@@ -150,6 +151,11 @@ This is a collection of conference papers that interest me. The emphasis is focu
   - *Build multiple accelerators, each specialized for specific CNN layers, instead of a single accelerator with uniform tiling parameters.* 
 - **Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC.** (Intel)
 
+### 2016 HPCA
+- **A Performance Analysis Framework for Optimizing OpenCL Applications on FPGAs.** (Nanyang Technological University, HKUST, Cornell University) 
+- Memristive Boltzmann Machine: A Hardware Accelerator for Combinatorial Optimization and Deep Learning. (University of Rochester)
+- TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning. (Georgia Institute of Technology)
+
 ### 2017 FPGA
 - **An OpenCL Deep Learning Accelerator on Arria 10.** (Intel)
 - **ESE: Efficient Speech Recognition Engine for Compressed LSTM on FPGA.** (Stanford University, DeepPhi, Tsinghua University, NVIDIA)
@@ -183,6 +189,12 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **Maximizing CNN Accelerator Efficiency Through Resource Partitioning.** (Stony Brook University)
   - *An Extension of their FPL'16 paper.* 
 - **In-Datacenter Performance Analysis of a Tensor Processing Unit.** (Google)
+- **SCALEDEEP: A Scalable Compute Architecture for Learning and Evaluating Deep Networks.** (Purdue University, Intel)
+- **SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks.** (NVIDIA, MIT, UC Berkeley, Stanford University)
+- **Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism.** (University of Michigan, ARM)
+- Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent. (Stanford)
+- LogCA: A High-Level Performance Model for Hardware Accelerators. (AMD, University of Wisconsin-Madison)
+- APPROX-NoC: A Data Approximation Framework for Network-On-Chip Architectures. (TAMU)
   
 ### 2017 FCCM
 - **Escher: A CNN Accelerator with Flexible Buffering to Minimize Off-Chip Transfer.** (Stony Brook University)
