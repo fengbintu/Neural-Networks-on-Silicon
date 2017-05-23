@@ -293,9 +293,11 @@ This is a collection of papers on other important topics related to neural netwo
  - [NVIDIA](http://www.nvidia.com/)
    - Jetson TX1: Embedded visual computing developing platform.
    - DGX-1: Deep learning supercomputer.
+   - Tesla V100: A Data center GPU with Tensor Cores inside.
  - Google
    - TPU (Tensor Processing Unit).
+   - Cloud TPU: Train and run machine learning models.
  - [Nervana](https://www.nervanasys.com/)
    - Nervana Engine: Hardware optimized for deep learning.
  - [Wave Computing](http://wavecomp.com/)
-   - Deep Learning Computers Powered by Dataflow Technology.
+   - Clockless **CGRA** architecture.
