@@ -182,7 +182,11 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - Supporting Address Translation for Accelerator-Centric Architectures. (UCLA)
 
 ### 2017 ASPLOS
-- **Scalable and Efficient Neural Network Acceleration with 3D Memory.** (Stanford University, EPFL)
+- **Scalable and Efficient Neural Network Acceleration with 3D Memory.** (Stanford University)
+  - *Use more area for PEs and less area for SRAM buffers.* 
+  - *Move portions of the NN computations close to the DRAM banks.*
+  - *3D memory simplifies dataflow scheduling.*
+  - *Develop a hybrid partitioning scheme that parallelizes the NN computations over multiple accelerators.*
 - SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing. (Syracuse University, USC, The City College of New York)
 
 ### 2017 ISCA
