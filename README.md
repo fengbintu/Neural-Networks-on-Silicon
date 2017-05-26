@@ -127,6 +127,9 @@ This is a collection of conference papers that interest me. The emphasis is focu
 
 ### 2016 MICRO
 - **From High-Level Deep Neural Models to FPGAs.** (Georgia Institute of Technology, Intel)
+  - *Develop a macro dataflow ISA for DNN accelerators.*
+  - *Develop hand-optimized template designs that are scalable and highly customizable.*
+  - *Provide a Template Resource Optimization search algorithm to co-optimize the accelerator architecture and scheduling.*
 - **vDNN: Virtualized Deep Neural Networks for Scalable, Memory-Efficient Neural Network Design.** (NVIDIA)
 - **Stripes: Bit-Serial Deep Neural Network Computing.** (University of Toronto, University of British Columbia)
   - *Introduce serial computation and reduced precision computation to neural network accelerator designs, enabling accuracy vs. performance trade-offs.*
