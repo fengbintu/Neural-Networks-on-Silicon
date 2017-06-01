@@ -156,8 +156,8 @@ This is a collection of conference papers that interest me. The emphasis is focu
 
 ### 2016 HPCA
 - **A Performance Analysis Framework for Optimizing OpenCL Applications on FPGAs.** (Nanyang Technological University, HKUST, Cornell University) 
+- **TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning.** (Georgia Institute of Technology)
 - Memristive Boltzmann Machine: A Hardware Accelerator for Combinatorial Optimization and Deep Learning. (University of Rochester)
-- TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning. (Georgia Institute of Technology)
 
 ### 2017 FPGA
 - **An OpenCL Deep Learning Accelerator on Arria 10.** (Intel)
@@ -207,7 +207,10 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **Escher: A CNN Accelerator with Flexible Buffering to Minimize Off-Chip Transfer.** (Stony Brook University)
 - **Customizing Neural Networks for Efficient FPGA Implementation.**
 - **Evaluating Fast Algorithms for Convolutional Neural Networks on FPGAs.**
-- **FP-DNN: An Automated Framework for Mapping Deep Neural Networks onto FPGAs with RTL-HLS Hybrid Templates.**
+- **FP-DNN: An Automated Framework for Mapping Deep Neural Networks onto FPGAs with RTL-HLS Hybrid Templates.** (Peking University, HKUST, MSRA, UCLA)
+  - *Compute-instensive part: RTL-based generalized matrix multiplication kernel.* 
+  - *Layer-specific part: HLS-based control logic.* 
+  - *Memory-instensive part: Several techniques for lower DRAM bandwidth requirements.* 
 - FPGA accelerated Dense Linear Machine Learning: A Precision-Convergence Trade-off.
 - A Configurable FPGA Implementation of the Tanh Function using DCT Interpolation.
 
