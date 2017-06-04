@@ -51,6 +51,9 @@ This is a collection of conference papers that interest me. The emphasis is focu
 
 ### 2016 DAC
 - **DeepBurning: Automatic Generation of FPGA-based Learning Accelerators for the Neural Network Family.** (Chinese Academy of Sciences)
+  - *Hardware generator: Basic buliding blocks for neural networks, and address generation unit (RTL).*
+  - *Compiler: Dynamic control flow (configurations for different models), and data layout in memory.*
+  - *Simply report their framework and describe some stages.*
 - **C-Brain: A Deep Learning Accelerator that Tames the Diversity of CNNs through Adaptive Data-Level Parallelization.** (Chinese Academy of Sciences)
 - **Simplifying Deep Neural Networks for Neuromorphic Architectures.** (Incheon National University)
 - **Dynamic Energy-Accuracy Trade-off Using Stochastic Computing in Deep Neural Networks.** (Samsung, Seoul National University, Ulsan National Institute of Science and Technology)
