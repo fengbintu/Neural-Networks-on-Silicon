@@ -25,6 +25,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - [2017 FCCM](#2017-fccm)
    - [2017 DAC](#2017-dac)
    - [2017 DATE](#2017-date)
+   - [2017 VLSI](#2017-vlsi)
    
  - [Important Topics](#important-topics)
    - [Benchmarks](#benchmarks)
@@ -251,6 +252,10 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - Energy-Efficient Approximate Multiplier Design using Bit Significance-Driven Logic Compression. (Newcastle University)
 - Revamping Timing Error Resilience to Tackle Choke Points at NTC Systems. (Utah State University)
 
+### 2017 VLSI
+- **A 3.43TOPS/W 48.9pJ/Pixel 50.1nJ/Classification 512 Analog Neuron Sparse Coding Neural Network with On-Chip Learning and Classification in 40nm CMOS.** (University of Michigan, Intel)
+- **BRein Memory: A 13-Layer 4.2 K Neuron/0.8 M Synapse Binary/Ternary Reconfigurable In-Memory Deep Neural Network Accelerator in 65 nm CMOS.** (Hokkaido University, Tokyo Institute of Technology, Keio University)
+- **A 1.06-To-5.09 TOPS/W Reconfigurable Hybrid-Neural-Network Processor for Deep Learning Applications.** (Tsinghua University)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
@@ -273,6 +278,7 @@ This is a collection of papers on other important topics related to neural netwo
 - [Neural Networks with Few Multiplications.](https://arxiv.org/abs/1510.03009) (Universite de Montreal, **2016 ICLR**)
 - [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications.](http://arxiv.org/abs/1511.06530) (Samsung, Seoul National University, **2016 ICLR**)
 - [Hardware-oriented Approximation of Convolutional Neural Networks.](https://arxiv.org/abs/1604.03168) (UC Davis, **2016 ICLR Workshop**)
+- [Soft Weight-Sharing for Neural Network Compression.](https://arxiv.org/abs/1702.04008) (University of Amsterdam, CIFAR, **2017 ICLR**)
 - [Reduced-Precision Strategies for Bounded Memory in Deep Neural Nets.](https://arxiv.org/abs/1511.05236) (University of Toronto, University of British Columbia)
 - [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.](http://arxiv.org/abs/1602.02830)
   - *Constrain both the weights and the activations to either +1 or -1.*
