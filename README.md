@@ -28,6 +28,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - [2017 VLSI](#2017-vlsi)
    
  - [Important Topics](#important-topics)
+   - [Tutorial and Survey](#tutorial-and-survey) 
    - [Benchmarks](#benchmarks)
    - [Network Compression](#network-compression)
    - [Other Topics](#other-topics)
@@ -259,6 +260,10 @@ This is a collection of conference papers that interest me. The emphasis is focu
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
+
+### Tutorial and Survey
+- [Tutorial on Hardware Architectures for Deep Neural Networks.](http://eyeriss.mit.edu/tutorial.html) (MIT)
+- [A Survey of Neuromorphic Computing and Neural Networks in Hardware.](https://arxiv.org/abs/1705.06963) (Oak Ridge National Lab)
 
 ### Benchmarks
 - [Fathom: Reference Workloads for Modern Deep Learning Methods.](http://arxiv.org/abs/1608.06581) (Harvard University)
