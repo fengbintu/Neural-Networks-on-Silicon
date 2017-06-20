@@ -25,8 +25,10 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - [2017 FCCM](#2017-fccm)
    - [2017 DAC](#2017-dac)
    - [2017 DATE](#2017-date)
+   - [2017 VLSI](#2017-vlsi)
    
  - [Important Topics](#important-topics)
+   - [Tutorial and Survey](#tutorial-and-survey) 
    - [Benchmarks](#benchmarks)
    - [Network Compression](#network-compression)
    - [Other Topics](#other-topics)
@@ -51,6 +53,9 @@ This is a collection of conference papers that interest me. The emphasis is focu
 
 ### 2016 DAC
 - **DeepBurning: Automatic Generation of FPGA-based Learning Accelerators for the Neural Network Family.** (Chinese Academy of Sciences)
+  - *Hardware generator: Basic buliding blocks for neural networks, and address generation unit (RTL).*
+  - *Compiler: Dynamic control flow (configurations for different models), and data layout in memory.*
+  - *Simply report their framework and describe some stages.*
 - **C-Brain: A Deep Learning Accelerator that Tames the Diversity of CNNs through Adaptive Data-Level Parallelization.** (Chinese Academy of Sciences)
 - **Simplifying Deep Neural Networks for Neuromorphic Architectures.** (Incheon National University)
 - **Dynamic Energy-Accuracy Trade-off Using Stochastic Computing in Deep Neural Networks.** (Samsung, Seoul National University, Ulsan National Institute of Science and Technology)
@@ -127,6 +132,9 @@ This is a collection of conference papers that interest me. The emphasis is focu
 
 ### 2016 MICRO
 - **From High-Level Deep Neural Models to FPGAs.** (Georgia Institute of Technology, Intel)
+  - *Develop a macro dataflow ISA for DNN accelerators.*
+  - *Develop hand-optimized template designs that are scalable and highly customizable.*
+  - *Provide a Template Resource Optimization search algorithm to co-optimize the accelerator architecture and scheduling.*
 - **vDNN: Virtualized Deep Neural Networks for Scalable, Memory-Efficient Neural Network Design.** (NVIDIA)
 - **Stripes: Bit-Serial Deep Neural Network Computing.** (University of Toronto, University of British Columbia)
   - *Introduce serial computation and reduced precision computation to neural network accelerator designs, enabling accuracy vs. performance trade-offs.*
@@ -153,8 +161,8 @@ This is a collection of conference papers that interest me. The emphasis is focu
 
 ### 2016 HPCA
 - **A Performance Analysis Framework for Optimizing OpenCL Applications on FPGAs.** (Nanyang Technological University, HKUST, Cornell University) 
+- **TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning.** (Georgia Institute of Technology)
 - Memristive Boltzmann Machine: A Hardware Accelerator for Combinatorial Optimization and Deep Learning. (University of Rochester)
-- TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning. (Georgia Institute of Technology)
 
 ### 2017 FPGA
 - **An OpenCL Deep Learning Accelerator on Arria 10.** (Intel)
@@ -182,7 +190,11 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - Supporting Address Translation for Accelerator-Centric Architectures. (UCLA)
 
 ### 2017 ASPLOS
-- **Scalable and Efficient Neural Network Acceleration with 3D Memory.** (Stanford University, EPFL)
+- **Scalable and Efficient Neural Network Acceleration with 3D Memory.** (Stanford University)
+  - *Use more area for PEs and less area for SRAM buffers.* 
+  - *Move portions of the NN computations close to the DRAM banks.*
+  - *3D memory simplifies dataflow scheduling.*
+  - *Develop a hybrid partitioning scheme that parallelizes the NN computations over multiple accelerators.*
 - SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing. (Syracuse University, USC, The City College of New York)
 
 ### 2017 ISCA
@@ -200,7 +212,10 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **Escher: A CNN Accelerator with Flexible Buffering to Minimize Off-Chip Transfer.** (Stony Brook University)
 - **Customizing Neural Networks for Efficient FPGA Implementation.**
 - **Evaluating Fast Algorithms for Convolutional Neural Networks on FPGAs.**
-- **FP-DNN: An Automated Framework for Mapping Deep Neural Networks onto FPGAs with RTL-HLS Hybrid Templates.**
+- **FP-DNN: An Automated Framework for Mapping Deep Neural Networks onto FPGAs with RTL-HLS Hybrid Templates.** (Peking University, HKUST, MSRA, UCLA)
+  - *Compute-instensive part: RTL-based generalized matrix multiplication kernel.* 
+  - *Layer-specific part: HLS-based control logic.* 
+  - *Memory-instensive part: Several techniques for lower DRAM bandwidth requirements.* 
 - FPGA accelerated Dense Linear Machine Learning: A Precision-Convergence Trade-off.
 - A Configurable FPGA Implementation of the Tanh Function using DCT Interpolation.
 
@@ -238,9 +253,17 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - Energy-Efficient Approximate Multiplier Design using Bit Significance-Driven Logic Compression. (Newcastle University)
 - Revamping Timing Error Resilience to Tackle Choke Points at NTC Systems. (Utah State University)
 
+### 2017 VLSI
+- **A 3.43TOPS/W 48.9pJ/Pixel 50.1nJ/Classification 512 Analog Neuron Sparse Coding Neural Network with On-Chip Learning and Classification in 40nm CMOS.** (University of Michigan, Intel)
+- **BRein Memory: A 13-Layer 4.2 K Neuron/0.8 M Synapse Binary/Ternary Reconfigurable In-Memory Deep Neural Network Accelerator in 65 nm CMOS.** (Hokkaido University, Tokyo Institute of Technology, Keio University)
+- **A 1.06-To-5.09 TOPS/W Reconfigurable Hybrid-Neural-Network Processor for Deep Learning Applications.** (Tsinghua University)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
+
+### Tutorial and Survey
+- [Tutorial on Hardware Architectures for Deep Neural Networks.](http://eyeriss.mit.edu/tutorial.html) (MIT)
+- [A Survey of Neuromorphic Computing and Neural Networks in Hardware.](https://arxiv.org/abs/1705.06963) (Oak Ridge National Lab)
 
 ### Benchmarks
 - [Fathom: Reference Workloads for Modern Deep Learning Methods.](http://arxiv.org/abs/1608.06581) (Harvard University)
@@ -253,6 +276,7 @@ This is a collection of papers on other important topics related to neural netwo
 - **ResNet**: Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification. (MSRA, **2015 ICCV**)
 
 ### Network Compression
+#### Conference Papers
 - Learning both Weights and Connections for Efficient Neural Network. (Stanford University, NVIDIA, **2015 NIPS**)
 - [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding.](http://arxiv.org/abs/1510.00149) (Stanford University, Tsinghua University, **2016 ICLR**)
 - [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size.](http://arxiv.org/abs/1602.07360) (DeepScale & UC Berkeley, Stanford University)
@@ -260,6 +284,8 @@ This is a collection of papers on other important topics related to neural netwo
 - [Neural Networks with Few Multiplications.](https://arxiv.org/abs/1510.03009) (Universite de Montreal, **2016 ICLR**)
 - [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications.](http://arxiv.org/abs/1511.06530) (Samsung, Seoul National University, **2016 ICLR**)
 - [Hardware-oriented Approximation of Convolutional Neural Networks.](https://arxiv.org/abs/1604.03168) (UC Davis, **2016 ICLR Workshop**)
+- [Soft Weight-Sharing for Neural Network Compression.](https://arxiv.org/abs/1702.04008) (University of Amsterdam, CIFAR, **2017 ICLR**)
+#### arXiv Papers
 - [Reduced-Precision Strategies for Bounded Memory in Deep Neural Nets.](https://arxiv.org/abs/1511.05236) (University of Toronto, University of British Columbia)
 - [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.](http://arxiv.org/abs/1602.02830)
   - *Constrain both the weights and the activations to either +1 or -1.*
@@ -285,6 +311,7 @@ This is a collection of papers on other important topics related to neural netwo
 - You Only Look Once: Unified, Real-Time Object Detection. (University of Washington, Allen Institute for AI, Facebook AI Research, **2016 CVPR**)
 - [Deformable Convolutional Networks.](https://arxiv.org/abs/1703.06211) (MSRA)
 - A-Fast-RCNN: Hard positive generation via adversary for object detection. (CMU, **2017 CVPR**)
+- [Federated Optimization: Distributed Machine Learning for On-Device Intelligence.](https://arxiv.org/abs/1610.02527) (University of Edinburgh, Google)
 
 ## Industry Contributions
  - [Movidius](http://www.movidius.com/)
