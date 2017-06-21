@@ -285,6 +285,8 @@ This is a collection of papers on other important topics related to neural netwo
 - [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications.](http://arxiv.org/abs/1511.06530) (Samsung, Seoul National University, **2016 ICLR**)
 - [Hardware-oriented Approximation of Convolutional Neural Networks.](https://arxiv.org/abs/1604.03168) (UC Davis, **2016 ICLR Workshop**)
 - [Soft Weight-Sharing for Neural Network Compression.](https://arxiv.org/abs/1702.04008) (University of Amsterdam, CIFAR, **2017 ICLR**)
+- Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning. (MIT, **2017 CVPR**)
+
 #### arXiv Papers
 - [Reduced-Precision Strategies for Bounded Memory in Deep Neural Nets.](https://arxiv.org/abs/1511.05236) (University of Toronto, University of British Columbia)
 - [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.](http://arxiv.org/abs/1602.02830)
@@ -295,6 +297,7 @@ This is a collection of papers on other important topics related to neural netwo
 - [Deep Learning with Limited Numerical Precision.](https://arxiv.org/abs/1502.02551) (IBM)
 - [Dynamic Network Surgery for Efficient DNNs.](http://arxiv.org/abs/1608.04493) (Intel Labs China)
 - [Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights.](https://arxiv.org/abs/1702.03044) (Intel Labs China)
+- [Exploring the Regularity of Sparse Structure in Convolutional Neural Networks.](https://arxiv.org/abs/1705.08922) (Stanford, NVIDIA, Tsinghua)
 
 ### Other Topics
 
