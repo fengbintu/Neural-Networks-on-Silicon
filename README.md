@@ -286,6 +286,7 @@ This is a collection of papers on other important topics related to neural netwo
 - [Hardware-oriented Approximation of Convolutional Neural Networks.](https://arxiv.org/abs/1604.03168) (UC Davis, **2016 ICLR Workshop**)
 - [Soft Weight-Sharing for Neural Network Compression.](https://arxiv.org/abs/1702.04008) (University of Amsterdam, CIFAR, **2017 ICLR**)
 - Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning. (MIT, **2017 CVPR**)
+- Scalable and Sustainable Deep Learning via Randomized Hashing. (Rice University, **2017 KDD**)
 
 #### arXiv Papers
 - [Reduced-Precision Strategies for Bounded Memory in Deep Neural Nets.](https://arxiv.org/abs/1511.05236) (University of Toronto, University of British Columbia)
@@ -315,6 +316,7 @@ This is a collection of papers on other important topics related to neural netwo
 - [Deformable Convolutional Networks.](https://arxiv.org/abs/1703.06211) (MSRA)
 - A-Fast-RCNN: Hard positive generation via adversary for object detection. (CMU, **2017 CVPR**)
 - [Federated Optimization: Distributed Machine Learning for On-Device Intelligence.](https://arxiv.org/abs/1610.02527) (University of Edinburgh, Google)
+- [Deep Complex Networks.](https://arxiv.org/abs/1705.09792) (Université de Montréal, Element AI)
 
 ## Industry Contributions
  - [Movidius](http://www.movidius.com/)
