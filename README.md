@@ -188,9 +188,9 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning.** (University of Pittsburgh, University of Southern California)
 - Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures. (University of Florida)
   - *Satisfaction of CNN (SoC) is the combination of SoCtime, SoCaccuracy and energy consumption.* 
-  - The P-CNN framework is composed of offline compilation and run-time management.
-    - Offline compilation: Generally optimizes runtime, and generates scheduling configurations for the run-time stage.
-    - Run-time management: Generates tuning tables through accuracy tuning, and calibrate accuracy+runtime (select the best tuning table) during the long-term execution.
+  - *The P-CNN framework is composed of offline compilation and run-time management.*
+    - *Offline compilation: Generally optimizes runtime, and generates scheduling configurations for the run-time stage.*
+    - *Run-time management: Generates tuning tables through accuracy tuning, and calibrate accuracy+runtime (select the best tuning table) during the long-term execution.*
 - Supporting Address Translation for Accelerator-Centric Architectures. (UCLA)
 
 ### 2017 ASPLOS
