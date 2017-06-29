@@ -166,6 +166,9 @@ This is a collection of conference papers that interest me. The emphasis is focu
 
 ### 2017 FPGA
 - **An OpenCL Deep Learning Accelerator on Arria 10.** (Intel)
+  - *Minimum bandwidth requirement: All the intermediate data in AlexNet's CONV layers are cached in the on-chip buffer, so their architecture is compute-bound.*
+  - *Reduced operations: Winograd transformation.*
+  - *High usage of the available DSPs+Reduced computation -> Higher performance on FPGA -> Competitive efficiency vs. TitanX.*
 - **ESE: Efficient Speech Recognition Engine for Compressed LSTM on FPGA.** (Stanford University, DeepPhi, Tsinghua University, NVIDIA)
 - **FINN: A Framework for Fast, Scalable Binarized Neural Network Inference.** (Xilinx, Norwegian University of Science and Technology, University of Sydney)
 - **Can FPGA Beat GPUs in Accelerating Next-Generation Deep Neural Networks?** (Intel)
