@@ -322,6 +322,7 @@ This is a collection of papers on other important topics related to neural netwo
 - You Only Look Once: Unified, Real-Time Object Detection. (University of Washington, Allen Institute for AI, Facebook AI Research, **2016 CVPR**)
 - A-Fast-RCNN: Hard positive generation via adversary for object detection. (CMU, **2017 CVPR**)
 - [Deformable Convolutional Networks.](https://arxiv.org/abs/1703.06211) (MSRA)
+- [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications.](https://arxiv.org/abs/1704.04861) (Google)
 - [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices.](https://arxiv.org/abs/1707.01083) (Megvii)
 - [Federated Optimization: Distributed Machine Learning for On-Device Intelligence.](https://arxiv.org/abs/1610.02527) (University of Edinburgh, Google)
 - [Deep Complex Networks.](https://arxiv.org/abs/1705.09792) (Université de Montréal, Element AI)
