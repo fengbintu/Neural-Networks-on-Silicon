@@ -328,6 +328,7 @@ This is a collection of papers on other important topics related to neural netwo
 - [Federated Optimization: Distributed Machine Learning for On-Device Intelligence.](https://arxiv.org/abs/1610.02527) (University of Edinburgh, Google)
 - [Deep Complex Networks.](https://arxiv.org/abs/1705.09792) (Université de Montréal, Element AI)
 - [One Model To Learn Them All.](https://arxiv.org/abs/1706.05137) (Google, University of Toronto)
+- [Densely Connected Convolutional Networks.](https://arxiv.org/abs/1608.06993) (Cornell, Tsinghua, FAIR)
 
 ## Industry Contributions
  - [Movidius](http://www.movidius.com/)
