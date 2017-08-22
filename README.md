@@ -227,26 +227,24 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - A Configurable FPGA Implementation of the Tanh Function using DCT Interpolation.
 
 ### 2017 DAC
-- **Exploring Heterogeneous Algorithms for Accelerating Deep Convolutional Neural Networks on FPGAs.**
-- **Hardware-Software Codesign of Highly Accurate, Multiplier-free Deep Neural Networks.**
-- **New Stochastic Computing Multiplier and Its Application to Deep Neural Networks.**
-- **A Kernel Decomposition Architecture for Binary-weight Convolutional Neural Networks.**
-- **TIME: A Training-in-memory Architecture for Memristor-based Deep Neural Networks.**
-- **Design of An Energy-Efficient Accelerator for Training of Convolutional Neural Networks using Frequency-Domain Computation.**
-- **Automating the systolic array generation and optimizations for high throughput convolution neural network.**
-- **Fault-Tolerant Training with On-Line Fault Detection for RRAM-Based Neural Computing Systems.**
-- **Deep^3: Leveraging Three Levels of Parallelism for Efficient Deep Learning.**
-- **Real-Time meets Approximate Computing: An Elastic Deep Learning Accelerator Design with Adaptive Trade-off between QoS and QoR.**
-- **Towards Full-System Energy-Accuracy Tradeoffs: A Case Study of An Approximate Smart Camera System.**
+- **Deep^3: Leveraging Three Levels of Parallelism for Efficient Deep Learning.** (UCSD, Rice)
+- **Real-Time meets Approximate Computing: An Elastic Deep Learning Accelerator Design with Adaptive Trade-off between QoS and QoR.** (CAS)
+- **Exploring Heterogeneous Algorithms for Accelerating Deep Convolutional Neural Networks on FPGAs.** (PKU, CUHK, SenseTime)
+- **Hardware-Software Codesign of Highly Accurate, Multiplier-free Deep Neural Networks.** (Brown University)
+- **A Kernel Decomposition Architecture for Binary-weight Convolutional Neural Networks.** (KAIST)
+- **Design of An Energy-Efficient Accelerator for Training of Convolutional Neural Networks using Frequency-Domain Computation.** (GIT)
+- **New Stochastic Computing Multiplier and Its Application to Deep Neural Networks.** (UNIST)
+- **TIME: A Training-in-memory Architecture for Memristor-based Deep Neural Networks.** (THU, UCSB)
+- **Fault-Tolerant Training with On-Line Fault Detection for RRAM-Based Neural Computing Systems.** (THU, Duke)
+- **Automating the systolic array generation and optimizations for high throughput convolution neural network.** (PKU, UCLA, Falcon)
+- **Towards Full-System Energy-Accuracy Tradeoffs: A Case Study of An Approximate Smart Camera System.** (Purdue)
 - **Error Propagation Aware Timing Relaxation For Approximate Near Threshold Computing.** (KIT)
-- RESPARC: A Reconfigurable and Energy-Efficient Architecture with Memristive Crossbars for Deep Spiking Neural Networks.
-- Rescuing Memristor-based Neuromorphic Design with High Defects.
-- Group Scissor: Scaling Neuromorphic Computing Design to Big Neural Networks.
-- Deep Reinforcement Learning for HVAC Control in Smart Buildings.
-- Towards Aging-induced Approximations.
-- SABER: Selection of Approximate Bits for the Design of Error Tolerant Circuits.
-- QuAd: Design and Analysis of Quality-Area Optimal Low-Latency Approximate Adders.
-- On Quality Trade-off Control for Approximate Computing using Iterative Training.
+- RESPARC: A Reconfigurable and Energy-Efficient Architecture with Memristive Crossbars for Deep Spiking Neural Networks.(Purdue)
+- Rescuing Memristor-based Neuromorphic Design with High Defects. (University of Pittsburgh, HP Lab, Duke)
+- Group Scissor: Scaling Neuromorphic Computing Design to Big Neural Networks. (University of Pittsburgh, Duke)
+- Towards Aging-induced Approximations. (KIT, UT Austin)
+- SABER: Selection of Approximate Bits for the Design of Error Tolerant Circuits. (University of Minnesota, TAMU)
+- On Quality Trade-off Control for Approximate Computing using Iterative Training. (SJTU, CUHK)
 
 ### 2017 DATE
 - **DVAFS: Trading Computational Accuracy for Energy Through Dynamic-Voltage-Accuracy-Frequency-Scaling.** (KU Leuven)
