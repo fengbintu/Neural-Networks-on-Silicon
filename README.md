@@ -26,6 +26,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - [2017 DAC](#2017-dac)
    - [2017 DATE](#2017-date)
    - [2017 VLSI](#2017-vlsi)
+   - [2017 ICCAD](#2017-iccad)
    
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey) 
@@ -262,6 +263,14 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **A 3.43TOPS/W 48.9pJ/Pixel 50.1nJ/Classification 512 Analog Neuron Sparse Coding Neural Network with On-Chip Learning and Classification in 40nm CMOS.** (University of Michigan, Intel)
 - **BRein Memory: A 13-Layer 4.2 K Neuron/0.8 M Synapse Binary/Ternary Reconfigurable In-Memory Deep Neural Network Accelerator in 65 nm CMOS.** (Hokkaido University, Tokyo Institute of Technology, Keio University)
 - **A 1.06-To-5.09 TOPS/W Reconfigurable Hybrid-Neural-Network Processor for Deep Learning Applications.** (Tsinghua University)
+
+### 2017 ICCAD
+- **AEP: An Error-bearing Neural Network Accelerator for Energy Efficiency and Model Protection.** (University of Pittsburgh)
+- AdaLearner: An Adaptive Distributed Mobile Learning System for Neural Networks.
+- MeDNN: A Distributed Mobile System with Enhanced Partition and Deployment for Large-Scale DNNs.
+- TraNNsformer: Neural Network Transformation for Efficient Crossbar Based Neuromorphic System Design.
+- A Closed-loop Design to Enhance Weight Stability of Memristor Based Neural Network Chips.
+- ORCHARD: Visual Object Recognition Accelerator Based on Approximate In-Memory Processing. (UCSD)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
