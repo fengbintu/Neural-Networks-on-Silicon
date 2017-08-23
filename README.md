@@ -230,6 +230,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 ### 2017 DAC
 - **Deep^3: Leveraging Three Levels of Parallelism for Efficient Deep Learning.** (UCSD, Rice)
 - **Real-Time meets Approximate Computing: An Elastic Deep Learning Accelerator Design with Adaptive Trade-off between QoS and QoR.** (CAS)
+  - *I don't believe the proposed tuning scenario and direction are reasonable enough to find out feasible solutions.* 
 - **Exploring Heterogeneous Algorithms for Accelerating Deep Convolutional Neural Networks on FPGAs.** (PKU, CUHK, SenseTime)
 - **Hardware-Software Codesign of Highly Accurate, Multiplier-free Deep Neural Networks.** (Brown University)
 - **A Kernel Decomposition Architecture for Binary-weight Convolutional Neural Networks.** (KAIST)
