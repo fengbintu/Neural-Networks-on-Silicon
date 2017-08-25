@@ -27,6 +27,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - [2017 DATE](#2017-date)
    - [2017 VLSI](#2017-vlsi)
    - [2017 ICCAD](#2017-iccad)
+   - [2017 HotChips](#2017-hotchips)
    
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey) 
@@ -272,6 +273,16 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - TraNNsformer: Neural Network Transformation for Efficient Crossbar Based Neuromorphic System Design.
 - A Closed-loop Design to Enhance Weight Stability of Memristor Based Neural Network Chips.
 - ORCHARD: Visual Object Recognition Accelerator Based on Approximate In-Memory Processing. (UCSD)
+
+### 2017 HotChips
+- **A Dataflow Processing Chip for Training Deep Neural Networks.** (Wave Computing)
+- **Brainwave: Accelerating Persistent Neural Networks at Datacenter Scale.** (Microsoft)
+- **DNN ENGINE: A 16nm Sub-uJ Deep Neural Network Inference Accelerator for the Embedded Masses.** (Harvard, ARM)
+- **DNPU: An Energy-Efficient Deep Neural Network Processor with On-Chip Stereo Matching.** (KAIST)
+- **Evaluation of the Tensor Processing Unit (TPU): A Deep Neural Network Accelerator for the Datacenter.** (Google)
+- NVIDIA’s Volta GPU: Programmability and Performance for GPU Computing. (NVIDIA)
+- Knights Mill: Intel Xeon Phi Processor for Machine Learning. (Intel)
+- XPU: A programmable FPGA Accelerator for diverse workloads. (Baidu)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
