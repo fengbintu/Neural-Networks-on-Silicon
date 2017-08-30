@@ -355,6 +355,7 @@ This is a collection of papers on other important topics related to neural netwo
  - [Movidius](http://www.movidius.com/)
    - Myriad 2: Hardware-accelerated visual intelligence at ultra-low power.
    - Fathom Neural Compute Stick: The world's first discrete deep learning accelerator (Myriad 2 VPU inside).
+   - Myriad X: On-device AI and computer vision.
  - [NVIDIA](http://www.nvidia.com/)
    - Jetson TX1: Embedded visual computing developing platform.
    - DGX-1: Deep learning supercomputer.
