@@ -28,6 +28,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - [2017 VLSI](#2017-vlsi)
    - [2017 ICCAD](#2017-iccad)
    - [2017 HotChips](#2017-hotchips)
+   - [2017 MICRO](#2017-micro)
    
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey) 
@@ -283,6 +284,13 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - NVIDIA’s Volta GPU: Programmability and Performance for GPU Computing. (NVIDIA)
 - Knights Mill: Intel Xeon Phi Processor for Machine Learning. (Intel)
 - XPU: A programmable FPGA Accelerator for diverse workloads. (Baidu)
+
+### 2017 MICRO
+- **Distributed FPGA Acceleration for Learning.** (GIT, UCSD)
+- **Bit-Pragmatic Deep Neural Network Computing.** (NVIDIA, University of Toronto)
+- **CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices.** (Syracuse University, City University of New York, USC, California State University, Northeastern University)
+- **Addressing Compute and Memory Bottlenecks for DNN Execution on GPUs.** (University of Michigan)
+- DRISA: A DRAM-based Reconfigurable In-Situ Accelerator. (UCSB, Samsung)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
