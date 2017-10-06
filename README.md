@@ -26,6 +26,9 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - [2017 DAC](#2017-dac)
    - [2017 DATE](#2017-date)
    - [2017 VLSI](#2017-vlsi)
+   - [2017 ICCAD](#2017-iccad)
+   - [2017 HotChips](#2017-hotchips)
+   - [2017 MICRO](#2017-micro)
    
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey) 
@@ -227,26 +230,25 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - A Configurable FPGA Implementation of the Tanh Function using DCT Interpolation.
 
 ### 2017 DAC
-- **Exploring Heterogeneous Algorithms for Accelerating Deep Convolutional Neural Networks on FPGAs.**
-- **Hardware-Software Codesign of Highly Accurate, Multiplier-free Deep Neural Networks.**
-- **New Stochastic Computing Multiplier and Its Application to Deep Neural Networks.**
-- **A Kernel Decomposition Architecture for Binary-weight Convolutional Neural Networks.**
-- **TIME: A Training-in-memory Architecture for Memristor-based Deep Neural Networks.**
-- **Design of An Energy-Efficient Accelerator for Training of Convolutional Neural Networks using Frequency-Domain Computation.**
-- **Automating the systolic array generation and optimizations for high throughput convolution neural network.**
-- **Fault-Tolerant Training with On-Line Fault Detection for RRAM-Based Neural Computing Systems.**
-- **Deep^3: Leveraging Three Levels of Parallelism for Efficient Deep Learning.**
-- **Real-Time meets Approximate Computing: An Elastic Deep Learning Accelerator Design with Adaptive Trade-off between QoS and QoR.**
-- **Towards Full-System Energy-Accuracy Tradeoffs: A Case Study of An Approximate Smart Camera System.**
+- **Deep^3: Leveraging Three Levels of Parallelism for Efficient Deep Learning.** (UCSD, Rice)
+- **Real-Time meets Approximate Computing: An Elastic Deep Learning Accelerator Design with Adaptive Trade-off between QoS and QoR.** (CAS)
+  - *I'm not sure whether the proposed tuning scenario and direction are reasonable enough to find out feasible solutions.* 
+- **Exploring Heterogeneous Algorithms for Accelerating Deep Convolutional Neural Networks on FPGAs.** (PKU, CUHK, SenseTime)
+- **Hardware-Software Codesign of Highly Accurate, Multiplier-free Deep Neural Networks.** (Brown University)
+- **A Kernel Decomposition Architecture for Binary-weight Convolutional Neural Networks.** (KAIST)
+- **Design of An Energy-Efficient Accelerator for Training of Convolutional Neural Networks using Frequency-Domain Computation.** (GIT)
+- **New Stochastic Computing Multiplier and Its Application to Deep Neural Networks.** (UNIST)
+- **TIME: A Training-in-memory Architecture for Memristor-based Deep Neural Networks.** (THU, UCSB)
+- **Fault-Tolerant Training with On-Line Fault Detection for RRAM-Based Neural Computing Systems.** (THU, Duke)
+- **Automating the systolic array generation and optimizations for high throughput convolution neural network.** (PKU, UCLA, Falcon)
+- **Towards Full-System Energy-Accuracy Tradeoffs: A Case Study of An Approximate Smart Camera System.** (Purdue)
 - **Error Propagation Aware Timing Relaxation For Approximate Near Threshold Computing.** (KIT)
-- RESPARC: A Reconfigurable and Energy-Efficient Architecture with Memristive Crossbars for Deep Spiking Neural Networks.
-- Rescuing Memristor-based Neuromorphic Design with High Defects.
-- Group Scissor: Scaling Neuromorphic Computing Design to Big Neural Networks.
-- Deep Reinforcement Learning for HVAC Control in Smart Buildings.
-- Towards Aging-induced Approximations.
-- SABER: Selection of Approximate Bits for the Design of Error Tolerant Circuits.
-- QuAd: Design and Analysis of Quality-Area Optimal Low-Latency Approximate Adders.
-- On Quality Trade-off Control for Approximate Computing using Iterative Training.
+- RESPARC: A Reconfigurable and Energy-Efficient Architecture with Memristive Crossbars for Deep Spiking Neural Networks.(Purdue)
+- Rescuing Memristor-based Neuromorphic Design with High Defects. (University of Pittsburgh, HP Lab, Duke)
+- Group Scissor: Scaling Neuromorphic Computing Design to Big Neural Networks. (University of Pittsburgh, Duke)
+- Towards Aging-induced Approximations. (KIT, UT Austin)
+- SABER: Selection of Approximate Bits for the Design of Error Tolerant Circuits. (University of Minnesota, TAMU)
+- On Quality Trade-off Control for Approximate Computing using Iterative Training. (SJTU, CUHK)
 
 ### 2017 DATE
 - **DVAFS: Trading Computational Accuracy for Energy Through Dynamic-Voltage-Accuracy-Frequency-Scaling.** (KU Leuven)
@@ -264,6 +266,31 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **A 3.43TOPS/W 48.9pJ/Pixel 50.1nJ/Classification 512 Analog Neuron Sparse Coding Neural Network with On-Chip Learning and Classification in 40nm CMOS.** (University of Michigan, Intel)
 - **BRein Memory: A 13-Layer 4.2 K Neuron/0.8 M Synapse Binary/Ternary Reconfigurable In-Memory Deep Neural Network Accelerator in 65 nm CMOS.** (Hokkaido University, Tokyo Institute of Technology, Keio University)
 - **A 1.06-To-5.09 TOPS/W Reconfigurable Hybrid-Neural-Network Processor for Deep Learning Applications.** (Tsinghua University)
+
+### 2017 ICCAD
+- **AEP: An Error-bearing Neural Network Accelerator for Energy Efficiency and Model Protection.** (University of Pittsburgh)
+- AdaLearner: An Adaptive Distributed Mobile Learning System for Neural Networks.
+- MeDNN: A Distributed Mobile System with Enhanced Partition and Deployment for Large-Scale DNNs.
+- TraNNsformer: Neural Network Transformation for Efficient Crossbar Based Neuromorphic System Design.
+- A Closed-loop Design to Enhance Weight Stability of Memristor Based Neural Network Chips.
+- ORCHARD: Visual Object Recognition Accelerator Based on Approximate In-Memory Processing. (UCSD)
+
+### 2017 HotChips
+- **A Dataflow Processing Chip for Training Deep Neural Networks.** (Wave Computing)
+- **Brainwave: Accelerating Persistent Neural Networks at Datacenter Scale.** (Microsoft)
+- **DNN ENGINE: A 16nm Sub-uJ Deep Neural Network Inference Accelerator for the Embedded Masses.** (Harvard, ARM)
+- **DNPU: An Energy-Efficient Deep Neural Network Processor with On-Chip Stereo Matching.** (KAIST)
+- **Evaluation of the Tensor Processing Unit (TPU): A Deep Neural Network Accelerator for the Datacenter.** (Google)
+- NVIDIA’s Volta GPU: Programmability and Performance for GPU Computing. (NVIDIA)
+- Knights Mill: Intel Xeon Phi Processor for Machine Learning. (Intel)
+- XPU: A programmable FPGA Accelerator for diverse workloads. (Baidu)
+
+### 2017 MICRO
+- **Distributed FPGA Acceleration for Learning.** (GIT, UCSD)
+- **Bit-Pragmatic Deep Neural Network Computing.** (NVIDIA, University of Toronto)
+- **CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices.** (Syracuse University, City University of New York, USC, California State University, Northeastern University)
+- **Addressing Compute and Memory Bottlenecks for DNN Execution on GPUs.** (University of Michigan)
+- DRISA: A DRAM-based Reconfigurable In-Situ Accelerator. (UCSB, Samsung)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
@@ -285,6 +312,8 @@ This is a collection of papers on other important topics related to neural netwo
 ### Network Compression
 #### Conference Papers
 - Learning both Weights and Connections for Efficient Neural Network. (Stanford University, NVIDIA, **2015 NIPS**)
+  - *Prune connections by thresholding weight values.* 
+  - *Retain accuracy with iterative retraining.*
 - [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding.](http://arxiv.org/abs/1510.00149) (Stanford University, Tsinghua University, **2016 ICLR**)
 - [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size.](http://arxiv.org/abs/1602.07360) (DeepScale & UC Berkeley, Stanford University)
 - [8-Bit Approximations for Parallelism in Deep Learning.](http://arxiv.org/abs/1511.04561) (Universia della Svizzera italiana, **2016 ICLR**)
@@ -294,6 +323,8 @@ This is a collection of papers on other important topics related to neural netwo
 - [Soft Weight-Sharing for Neural Network Compression.](https://arxiv.org/abs/1702.04008) (University of Amsterdam, CIFAR, **2017 ICLR**)
 - Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning. (MIT, **2017 CVPR**)
 - Scalable and Sustainable Deep Learning via Randomized Hashing. (Rice University, **2017 KDD**)
+- [Exploring the Regularity of Sparse Structure in Convolutional Neural Networks.](https://arxiv.org/abs/1705.08922) (Stanford, NVIDIA, Tsinghua, **2017 NIPS**)
+  - *Coarser-grained pruning can save memory storage and access while maintaining the accuracy.* 
 
 #### arXiv Papers
 - [Reduced-Precision Strategies for Bounded Memory in Deep Neural Nets.](https://arxiv.org/abs/1511.05236) (University of Toronto, University of British Columbia)
@@ -305,7 +336,6 @@ This is a collection of papers on other important topics related to neural netwo
 - [Deep Learning with Limited Numerical Precision.](https://arxiv.org/abs/1502.02551) (IBM)
 - [Dynamic Network Surgery for Efficient DNNs.](http://arxiv.org/abs/1608.04493) (Intel Labs China)
 - [Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights.](https://arxiv.org/abs/1702.03044) (Intel Labs China)
-- [Exploring the Regularity of Sparse Structure in Convolutional Neural Networks.](https://arxiv.org/abs/1705.08922) (Stanford, NVIDIA, Tsinghua)
 
 ### Other Topics
 
@@ -328,11 +358,13 @@ This is a collection of papers on other important topics related to neural netwo
 - [Federated Optimization: Distributed Machine Learning for On-Device Intelligence.](https://arxiv.org/abs/1610.02527) (University of Edinburgh, Google)
 - [Deep Complex Networks.](https://arxiv.org/abs/1705.09792) (Université de Montréal, Element AI)
 - [One Model To Learn Them All.](https://arxiv.org/abs/1706.05137) (Google, University of Toronto)
+- [Densely Connected Convolutional Networks.](https://arxiv.org/abs/1608.06993) (Cornell, Tsinghua, FAIR)
 
 ## Industry Contributions
  - [Movidius](http://www.movidius.com/)
    - Myriad 2: Hardware-accelerated visual intelligence at ultra-low power.
    - Fathom Neural Compute Stick: The world's first discrete deep learning accelerator (Myriad 2 VPU inside).
+   - Myriad X: On-device AI and computer vision.
  - [NVIDIA](http://www.nvidia.com/)
    - Jetson TX1: Embedded visual computing developing platform.
    - DGX-1: Deep learning supercomputer.
