@@ -369,6 +369,7 @@ This is a collection of papers on other important topics related to neural netwo
    - Jetson TX1: Embedded visual computing developing platform.
    - DGX-1: Deep learning supercomputer.
    - Tesla V100: A Data center GPU with Tensor Cores inside.
+   - [NVDLA](http://nvdla.org/): The NVIDIA Deep Learning Accelerator (NVDLA) is a free and open architecture that promotes a standard way to design deep learning inference accelerators.
  - Google
    - TPU (Tensor Processing Unit).
    - Cloud TPU: Train and run machine learning models.
