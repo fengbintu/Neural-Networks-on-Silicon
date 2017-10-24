@@ -29,6 +29,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - [2017 ICCAD](#2017-iccad)
    - [2017 HotChips](#2017-hotchips)
    - [2017 MICRO](#2017-micro)
+   - [2018 ASPDAC](#2018-aspdac)
    
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey) 
@@ -291,6 +292,11 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices.** (Syracuse University, City University of New York, USC, California State University, Northeastern University)
 - **Addressing Compute and Memory Bottlenecks for DNN Execution on GPUs.** (University of Michigan)
 - DRISA: A DRAM-based Reconfigurable In-Situ Accelerator. (UCSB, Samsung)
+
+### 2018 ASPDAC
+- **ReGAN: A Pipelined ReRAM-Based Accelerator for Generative Adversarial Networks.** (University of Pittsburgh, Duke)
+- **Accelerator-centric Deep Learning Systems for Enhanced Scalability, Energy-efficiency, and Programmability.** (POSTECH)
+- **Architectures and Algorithms for User Customization of CNNs.** (Seoul National University, Samsung)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
