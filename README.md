@@ -344,8 +344,8 @@ This is a collection of papers on other important topics related to neural netwo
 - [Soft Weight-Sharing for Neural Network Compression.](https://arxiv.org/abs/1702.04008) (University of Amsterdam, CIFAR, **2017 ICLR**)
 - Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning. (MIT, **2017 CVPR**)
 - Scalable and Sustainable Deep Learning via Randomized Hashing. (Rice University, **2017 KDD**)
-- [Exploring the Regularity of Sparse Structure in Convolutional Neural Networks.](https://arxiv.org/abs/1705.08922) (Stanford, NVIDIA, Tsinghua, **2017 NIPS**)
-  - *Coarser-grained pruning can save memory storage and access while maintaining the accuracy.* 
+- [TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning.](https://arxiv.org/abs/1705.07878) (Duke University, Hewlett Packard Labs, University of Nevada – Reno, University of Pittsburgh, **2017 NIPS**)
+- [Flexpoint: An Adaptive Numerical Format for Efficient Training of Deep Neural Networks.](https://arxiv.org/abs/1711.02213v2) (Intel, **2017 NIPS**)
 
 #### arXiv Papers
 - [Reduced-Precision Strategies for Bounded Memory in Deep Neural Nets.](https://arxiv.org/abs/1511.05236) (University of Toronto, University of British Columbia)
@@ -357,6 +357,8 @@ This is a collection of papers on other important topics related to neural netwo
 - [Deep Learning with Limited Numerical Precision.](https://arxiv.org/abs/1502.02551) (IBM)
 - [Dynamic Network Surgery for Efficient DNNs.](http://arxiv.org/abs/1608.04493) (Intel Labs China)
 - [Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights.](https://arxiv.org/abs/1702.03044) (Intel Labs China)
+- [Exploring the Regularity of Sparse Structure in Convolutional Neural Networks.](https://arxiv.org/abs/1705.08922) (Stanford, NVIDIA, Tsinghua)
+  - *Coarser-grained pruning can save memory storage and access while maintaining the accuracy.* 
 
 ### Other Topics
 
