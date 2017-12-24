@@ -244,6 +244,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **Fault-Tolerant Training with On-Line Fault Detection for RRAM-Based Neural Computing Systems.** (THU, Duke)
 - **Automating the systolic array generation and optimizations for high throughput convolution neural network.** (PKU, UCLA, Falcon)
 - **Towards Full-System Energy-Accuracy Tradeoffs: A Case Study of An Approximate Smart Camera System.** (Purdue)
+  - *Synergistically tunes componet-level approximation knobs to achieve system-level energy-accuracy tradeoffs.* 
 - **Error Propagation Aware Timing Relaxation For Approximate Near Threshold Computing.** (KIT)
 - RESPARC: A Reconfigurable and Energy-Efficient Architecture with Memristive Crossbars for Deep Spiking Neural Networks. (Purdue)
 - Rescuing Memristor-based Neuromorphic Design with High Defects. (University of Pittsburgh, HP Lab, Duke)
