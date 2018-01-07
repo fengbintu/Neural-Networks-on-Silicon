@@ -31,6 +31,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - [2017 MICRO](#2017-micro)
    - [2018 ASPDAC](#2018-aspdac)
    - [2018 ISSCC](#2018-isscc)
+   - [2018 HPCA](#2018-hpca)
    
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey) 
@@ -319,6 +320,12 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **A 65nm 1Mb Nonvolatile Computing-in-Memory ReRAM Macro with Sub-16ns Multiply-and-Accumulate for Binary DNN AI Edge Processors.** (NTHU)
 - **A 65nm 4Kb Algorithm-Dependent Computing-in-Memory SRAM Unit Macro with 2.3ns and 55.8TOPS/W Fully Parallel Product-Sum Operation for Binary DNN Edge Processors.** (NTHU, TSMC, UESTC, ASU)
 - **A 1μW Voice Activity Detector Using Analog Feature Extraction and Digital Deep Neural Network.** (Columbia University)
+
+### 2018 HPCA
+- **Making Memristive Neural Network Accelerators Reliable.** (University of Rochester)
+- **Towards Efficient Microarchitectural Design for Accelerating Unsupervised GAN-based Deep Learning.** (University of Florida)
+- **Compressing DMA Engine: Leveraging Activation Sparsity for Training Deep Neural Networks.** (POSTECH, NVIDIA, UT-Austin)
+- **In-situ AI: Towards Autonomous and Incremental Deep Learning for IoT Systems.** (University of Florida, Chongqing University, Capital Normal University)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
