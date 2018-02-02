@@ -32,6 +32,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - [2018 ASPDAC](#2018-aspdac)
    - [2018 ISSCC](#2018-isscc)
    - [2018 HPCA](#2018-hpca)
+   - [2018 ASPLOS](#2018-asplos)
    
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey) 
@@ -325,6 +326,13 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **Towards Efficient Microarchitectural Design for Accelerating Unsupervised GAN-based Deep Learning.** (University of Florida)
 - **Compressing DMA Engine: Leveraging Activation Sparsity for Training Deep Neural Networks.** (POSTECH, NVIDIA, UT-Austin)
 - **In-situ AI: Towards Autonomous and Incremental Deep Learning for IoT Systems.** (University of Florida, Chongqing University, Capital Normal University)
+
+### 2018 ASPLOS
+- **Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler.** (Tsinghua, UCSB)
+- **MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects.** (Georgia Tech)
+- **VIBNN: Hardware Acceleration of Bayesian Neural Networks.** (Syracuse University, USC)
+- Exploiting Dynamical Thermal Energy Harvesting for Reusing in Smartphone with Mobile Applications. (Guizhou University, University of Florida)
+- Potluck: Cross-application Approximate Deduplication for Computation-Intensive Mobile Applications. (Yale)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
