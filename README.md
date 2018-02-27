@@ -240,7 +240,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **Exploring Heterogeneous Algorithms for Accelerating Deep Convolutional Neural Networks on FPGAs.** (PKU, CUHK, SenseTime)
 - **Hardware-Software Codesign of Highly Accurate, Multiplier-free Deep Neural Networks.** (Brown University)
 - **A Kernel Decomposition Architecture for Binary-weight Convolutional Neural Networks.** (KAIST)
-- **Design of An Energy-Efficient Accelerator for Training of Convolutional Neural Networks using Frequency-Domain Computation.** (GIT)
+- **Design of An Energy-Efficient Accelerator for Training of Convolutional Neural Networks using Frequency-Domain Computation.** (Georgia Tech)
 - **New Stochastic Computing Multiplier and Its Application to Deep Neural Networks.** (UNIST)
 - **TIME: A Training-in-memory Architecture for Memristor-based Deep Neural Networks.** (THU, UCSB)
 - **Fault-Tolerant Training with On-Line Fault Detection for RRAM-Based Neural Computing Systems.** (THU, Duke)
@@ -294,7 +294,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - XPU: A programmable FPGA Accelerator for diverse workloads. (Baidu)
 
 ### 2017 MICRO
-- **Distributed FPGA Acceleration for Learning.** (GIT, UCSD)
+- **Distributed FPGA Acceleration for Learning.** (Georgia Tech, UCSD)
 - **Bit-Pragmatic Deep Neural Network Computing.** (NVIDIA, University of Toronto)
 - **CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices.** (Syracuse University, City University of New York, USC, California State University, Northeastern University)
 - **Addressing Compute and Memory Bottlenecks for DNN Execution on GPUs.** (University of Michigan)
@@ -308,7 +308,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **Running sparse and low-precision neural network: when algorithm meets hardware.** (Duke)
 
 ### 2018 ISSCC
-- **A 55nm Time-Domain Mixed-Signal Neuromorphic Accelerator with Stochastic Synapses and Embedded Reinforcement Learning for Autonomous Micro-Robots.** (GIT)
+- **A 55nm Time-Domain Mixed-Signal Neuromorphic Accelerator with Stochastic Synapses and Embedded Reinforcement Learning for Autonomous Micro-Robots.** (Georgia Tech)
 - **A Shift Towards Edge Machine-Learning Processing.** (Google)
 - **QUEST: A 7.49TOPS Multi-Purpose Log-Quantized DNN Inference Engine Stacked on 96MB 3D SRAM Using Inductive-Coupling Technology in 40nm CMOS.** (Hokkaido University, Ultra Memory, Keio University)
 - **UNPU: A 50.6TOPS/W Unified Deep Neural Network Accelerator with 1bto-16b Fully-Variable Weight Bit-Precision.** (KAIST)
