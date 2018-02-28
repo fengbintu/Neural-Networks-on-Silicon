@@ -45,7 +45,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
 ## My Contributions
 I'm working on energy-efficient architecture design for deep learning. A deep convoultional neural network architecture (DNA) has been designed with 1~2 orders higher energy efficiency over the state-of-the-art works. I'm trying to improve the architecture for ultra low-power compting. Hope my new works will come out soon in the near future.
 
-- [**Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns.**](http://ieeexplore.ieee.org/document/7898402/) (**TVLSI**)
+- [**Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns.**](http://ieeexplore.ieee.org/document/7898402/) (**TVLSI popular paper**)
   - *This is the first work to assign Input/Output/Weight Reuse to different layers of a CNN, which optimizes system-level energy consumption based on different CONV parameters.*
   - *A 4-level CONV engine is designed to to support different tiling parameters for higher resource utilization and performance.*
   - *A layer-based scheduling framework is proposed to optimize both system-level energy efficiency and performance.*
@@ -330,6 +330,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 ### 2018 ASPLOS
 - **Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler.** (Tsinghua, UCSB)
 - **MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects.** (Georgia Tech)
+  - *Higher PE utilization: Use an augmented reduction tree (reconfigurable interconnects) to construct arbitrary sized virtual neurons.* 
 - **VIBNN: Hardware Acceleration of Bayesian Neural Networks.** (Syracuse University, USC)
 - Exploiting Dynamical Thermal Energy Harvesting for Reusing in Smartphone with Mobile Applications. (Guizhou University, University of Florida)
 - Potluck: Cross-application Approximate Deduplication for Computation-Intensive Mobile Applications. (Yale)
