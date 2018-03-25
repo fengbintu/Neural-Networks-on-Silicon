@@ -33,6 +33,9 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - [2018 ISSCC](#2018-isscc)
    - [2018 HPCA](#2018-hpca)
    - [2018 ASPLOS](#2018-asplos)
+   - [2018 VLSI](#2018-vlsi)
+   - [2018 FPGA](#2018-fpga)
+   - [2018 ISCA](#2018-isca)
    
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey) 
@@ -334,6 +337,40 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **VIBNN: Hardware Acceleration of Bayesian Neural Networks.** (Syracuse University, USC)
 - Exploiting Dynamical Thermal Energy Harvesting for Reusing in Smartphone with Mobile Applications. (Guizhou University, University of Florida)
 - Potluck: Cross-application Approximate Deduplication for Computation-Intensive Mobile Applications. (Yale)
+
+### 2018 VLSI
+- **STICKER: A 0.41‐62.1 TOPS/W 8bit Neural Network Processor with Multi‐Sparsity Compatible Convolution Arrays and Online Tuning Acceleration for Fully Connected Layers.** (THU)
+- **2.9TOPS/W Reconfigurable Dense/Sparse Matrix‐Multiply Accelerator with Unified INT8/INT16/FP16 Datapath in 14nm Tri‐gate CMOS.** (Intel)
+- **A Scalable Multi‐TeraOPS Deep Learning Processor Core for AI Training and Inference.** (IBM)
+
+### 2018 FPGA
+- **C-LSTM: Enabling Efficient LSTM using Structured Compression Techniques on FPGAs.** (Peking Univ, Syracuse Univ, CUNY)
+- **DeltaRNN: A Power-efficient Recurrent Neural Network Accelerator.** (ETHZ, BenevolentAI)
+- **Towards a Uniform Template-based Architecture for Accelerating 2D and 3D CNNs on FPGA.** (National Univ of Defense Tech)
+- **A Customizable Matrix Multiplication Framework for the Intel HARPv2 Xeon+FPGA Platform - A Deep Learning Case Study.** (The Univ of Sydney, Intel)
+- **A Framework for Generating High Throughput CNN Implementations on FPGAs.** (USC)
+- Liquid Silicon: A Data-Centric Reconfigurable Architecture enabled by RRAM Technology. (UW Madison)
+
+### 2018 ISCA
+- **RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM.** (THU)
+- **A Configurable Cloud-Scale DNN Processor for Real-Time AI.** (Microsoft)
+- **PROMISE: An End-to-End Design of a Programmable Mixed-Signal Accelerator for Machine Learning Algorithms.** (UIUC)
+- **Computation Reuse in DNNs by Exploiting Input Similarity.** (UPC)
+- **GANAX: A Unified SIMD-MIMD Acceleration for Generative Adversarial Network.** (Georiga Tech, IPM, Qualcomm, UCSD, UIUC)
+- **SnaPEA: Predictive Early Activation for Reducing Computation in Deep Convolutional Neural Networks.** (UCSD, Georgia Tech, Qualcomm)
+- **UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition.** (UIUC, NVIDIA)
+- **An Energy-Efficient Neural Network Accelerator based on Outlier-Aware Low Precision Computation.** (Seoul National)
+- **Prediction based Execution on Deep Neural Networks.** (Florida)
+- **Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Networks.** (Georgia Tech, ARM, UCSD)
+- **Gist: Efficient Data Encoding for Deep Neural Network Training.** (Michigan, Microsoft, Toronto)
+- **The Dark Side of DNN Pruning.** (UPC)
+- EVA^2: Exploiting Temporal Redundancy in Live Computer Vision. (Cornell)
+- Euphrates: Algorithm-SoC Co-Design for Low-Power Mobile Continuous Vision. (Rochester, Georgia Tech, ARM)
+- Feature-Driven and Spatially Folded Digital Neurons for Efficient Spiking Neural Network Simulations. (POSTECH/Berkeley, Seoul National)
+- Space-Time Algebra: A Model for Neocortical Computation. (Wisconsin)
+- Scaling Datacenter Accelerators With Compute-Reuse Architectures. (Princeton)
+- Enabling Scientific Computing on Memristive Accelerators. (Rochester)
+- Neural Cache. (Michigan)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
