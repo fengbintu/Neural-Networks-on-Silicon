@@ -5,6 +5,11 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
 ## Table of Contents
  - [My Contributions](#my-contributions)
  - [Conference Papers](#conference-papers)
+   - [2014 ASPLOS](#2014-asplos)
+   - [2014 MICRO](#2014-micro)
+   - [2015 ISCA](#2015-isca)
+   - [2015 ASPLOS](#2015-asplos)
+   - [2015 FPGA](#2015-fpga)
    - [2015 DAC](#2015-dac)
    - [2016 DAC](#2016-dac)
    - [2016 ISSCC](#2016-isscc)
@@ -55,6 +60,22 @@ I'm working on energy-efficient architecture design for deep learning. A deep co
 
 ## Conference Papers
 This is a collection of conference papers that interest me. The emphasis is focused on, but not limited to neural networks on silicon. Papers of significance are marked in **bold**. My comments are marked in *italic*.
+
+### 2014 ASPLOS
+- **DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning.** (CAS, Inria)
+
+### 2014 MICRO
+- **DaDianNao: A Machine-Learning Supercomputer.** (CAS, Inria, Inner Mongolia University)
+
+### 2015 ISCA
+- **ShiDianNao: Shifting Vision Processing Closer to the Sensor.** (CAS, EPFL, Inria)
+
+### 2015 ASPLOS
+- **PuDianNao: A Polyvalent Machine Learning Accelerator.** (CAS, USTC, Inria)
+
+### 2015 FPGA
+- **Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks.** (Peking University, UCLA)
+
 ### 2015 DAC
 - Reno: A Highly-Efficient Reconfigurable Neuromorphic Computing Accelerator Design. (Universtiy of Pittsburgh, Tsinghua University, San Francisco State University, Air Force Research Laboratory, University of Massachusetts.)
 - Scalable Effort Classifiers for Energy Efficient Machine Learning. (Purdue University, Microsoft Research)
