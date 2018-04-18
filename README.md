@@ -429,6 +429,8 @@ This is a collection of papers on other important topics related to neural netwo
 - Scalable and Sustainable Deep Learning via Randomized Hashing. (Rice University, **2017 KDD**)
 - [TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning.](https://arxiv.org/abs/1705.07878) (Duke University, Hewlett Packard Labs, University of Nevada – Reno, University of Pittsburgh, **2017 NIPS**)
 - [Flexpoint: An Adaptive Numerical Format for Efficient Training of Deep Neural Networks.](https://arxiv.org/abs/1711.02213v2) (Intel, **2017 NIPS**)
+- [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference.](https://arxiv.org/abs/1712.05877)(Google, **2018 CVPR**)
+ -A quantization scheme to improve the tradeoff between accuracy and on-device latency, especially for MobileNet.
 
 #### arXiv Papers
 - [Reduced-Precision Strategies for Bounded Memory in Deep Neural Nets.](https://arxiv.org/abs/1511.05236) (University of Toronto, University of British Columbia)
@@ -442,6 +444,7 @@ This is a collection of papers on other important topics related to neural netwo
 - [Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights.](https://arxiv.org/abs/1702.03044) (Intel Labs China)
 - [Exploring the Regularity of Sparse Structure in Convolutional Neural Networks.](https://arxiv.org/abs/1705.08922) (Stanford, NVIDIA, Tsinghua)
   - *Coarser-grained pruning can save memory storage and access while maintaining the accuracy.* 
+- [A Quantization-Friendly Separable Convolution for MobileNets.](https://arxiv.org/abs/1803.08607) (Qualcomm)
 
 ### Other Topics
 
@@ -464,7 +467,8 @@ This is a collection of papers on other important topics related to neural netwo
 - [Federated Optimization: Distributed Machine Learning for On-Device Intelligence.](https://arxiv.org/abs/1610.02527) (University of Edinburgh, Google)
 - [Deep Complex Networks.](https://arxiv.org/abs/1705.09792) (Université de Montréal, Element AI)
 - [One Model To Learn Them All.](https://arxiv.org/abs/1706.05137) (Google, University of Toronto)
-- [Densely Connected Convolutional Networks.](https://arxiv.org/abs/1608.06993) (Cornell, Tsinghua, FAIR)
+- [Densely Connected Convolutional Networks.](https://arxiv.org/abs/1608.06993) (Cornell, Tsinghua, FAIR, **2017 CVPR**)
+- [MobileNetV2: Inverted Residuals and Linear Bottlenecks.](https://arxiv.org/abs/1801.04381) (Google, **2018 CVPR**)
 
 ## Industry Contributions
  - [Movidius](http://www.movidius.com/)
