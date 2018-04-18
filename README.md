@@ -430,7 +430,7 @@ This is a collection of papers on other important topics related to neural netwo
 - [TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning.](https://arxiv.org/abs/1705.07878) (Duke University, Hewlett Packard Labs, University of Nevada – Reno, University of Pittsburgh, **2017 NIPS**)
 - [Flexpoint: An Adaptive Numerical Format for Efficient Training of Deep Neural Networks.](https://arxiv.org/abs/1711.02213v2) (Intel, **2017 NIPS**)
 - [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference.](https://arxiv.org/abs/1712.05877)(Google, **2018 CVPR**)
- -A quantization scheme to improve the tradeoff between accuracy and on-device latency, especially for MobileNet.
+  - *A quantization scheme to improve the tradeoff between accuracy and on-device latency, especially for MobileNet.*
 
 #### arXiv Papers
 - [Reduced-Precision Strategies for Bounded Memory in Deep Neural Nets.](https://arxiv.org/abs/1511.05236) (University of Toronto, University of British Columbia)
