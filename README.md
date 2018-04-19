@@ -445,6 +445,7 @@ This is a collection of papers on other important topics related to neural netwo
 - [Exploring the Regularity of Sparse Structure in Convolutional Neural Networks.](https://arxiv.org/abs/1705.08922) (Stanford, NVIDIA, Tsinghua)
   - *Coarser-grained pruning can save memory storage and access while maintaining the accuracy.* 
 - [A Quantization-Friendly Separable Convolution for MobileNets.](https://arxiv.org/abs/1803.08607) (Qualcomm)
+- [ADC: Automated Deep Compression and Acceleration with Reinforcement Learning.](https://arxiv.org/abs/1802.03494) (XJTU, MIT)
 
 ### Other Topics
 
