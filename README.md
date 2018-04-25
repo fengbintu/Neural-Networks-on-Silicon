@@ -5,8 +5,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
 ## Table of Contents
  - [My Contributions](#my-contributions)
  - [Conference Papers](#conference-papers)
-   - [2014 ASPLOS](#2014-asplos)
-   - [2014 MICRO](#2014-micro)
+   - 2014: [ASPLOS](#2014-asplos), [MICRO](#2014-micro)
    - [2015 ISCA](#2015-isca)
    - [2015 ASPLOS](#2015-asplos)
    - [2015 FPGA](#2015-fpga)
