@@ -428,22 +428,22 @@ This is a collection of papers on other important topics related to neural netwo
   - *Estimate the energy comsuption of a CNN based on their Eyeriss (ISCA'16) paper.* 
   - *Propose an energy-aware pruning method.*
 - [Scalable and Sustainable Deep Learning via Randomized Hashing.](https://arxiv.org/abs/1602.08194) (Rice University, **2017 KDD**)
-- [TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning.](https://arxiv.org/abs/1705.07878) [code](https://github.com/wenwei202/terngrad) (Duke University, Hewlett Packard Labs, University of Nevada – Reno, University of Pittsburgh, **2017 NIPS**)
+- [TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning.](https://arxiv.org/abs/1705.07878) [[code]](https://github.com/wenwei202/terngrad) (Duke University, Hewlett Packard Labs, University of Nevada – Reno, University of Pittsburgh, **2017 NIPS**)
 - [Flexpoint: An Adaptive Numerical Format for Efficient Training of Deep Neural Networks.](https://arxiv.org/abs/1711.02213v2) (Intel, **2017 NIPS**)
 - [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference.](https://arxiv.org/abs/1712.05877)(Google, **2018 CVPR**)
   - *A quantization scheme to improve the tradeoff between accuracy and on-device latency, especially for MobileNet.*
-- [Channel Pruning for Accelerating Very Deep Neural Networks.](https://arxiv.org/abs/1707.06168) [code](https://github.com/yihui-he/channel-pruning) (**2017 ICCV**)
+- [Channel Pruning for Accelerating Very Deep Neural Networks.](https://arxiv.org/abs/1707.06168) [[code]](https://github.com/yihui-he/channel-pruning) (**2017 ICCV**)
 
 #### arXiv Papers
 - [Reduced-Precision Strategies for Bounded Memory in Deep Neural Nets.](https://arxiv.org/abs/1511.05236) (University of Toronto, University of British Columbia)
 - [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.](http://arxiv.org/abs/1602.02830)
   - *Constrain both the weights and the activations to either +1 or -1.*
 - [Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations.](http://arxiv.org/abs/1609.07061) (Universite de Montreal)
-- [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks.](http://arxiv.org/abs/1603.05279)[code](https://github.com/allenai/XNOR-Net) (Allen Institute for AI, University of Washington)
+- [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks.](http://arxiv.org/abs/1603.05279) [[code]](https://github.com/allenai/XNOR-Net) (Allen Institute for AI, University of Washington)
 - [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients.](http://arxiv.org/abs/1606.06160) (Megvii)
 - [Deep Learning with Limited Numerical Precision.](https://arxiv.org/abs/1502.02551) (IBM)
 - [Dynamic Network Surgery for Efficient DNNs.](http://arxiv.org/abs/1608.04493) (Intel Labs China)
-- [Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights.](https://arxiv.org/abs/1702.03044) [code](https://github.com/Zhouaojun/Incremental-Network-Quantization) (Intel Labs China)
+- [Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights.](https://arxiv.org/abs/1702.03044) [[code]](https://github.com/Zhouaojun/Incremental-Network-Quantization) (Intel Labs China)
 - [Exploring the Regularity of Sparse Structure in Convolutional Neural Networks.](https://arxiv.org/abs/1705.08922) (Stanford, NVIDIA, Tsinghua)
   - *Coarser-grained pruning can save memory storage and access while maintaining the accuracy.* 
 - [A Quantization-Friendly Separable Convolution for MobileNets.](https://arxiv.org/abs/1803.08607) (Qualcomm)
@@ -458,21 +458,21 @@ This is a collection of papers on other important topics related to neural netwo
   - *G is trained to maximize the probability of D making a mistake.*.
   
 #### Kaiming He
-- [Mask R-CNN.](https://arxiv.org/abs/1703.06870) [code](https://github.com/facebookresearch/Detectron) (FAIR, **2017 ICCV Best Paper**)
+- [Mask R-CNN.](https://arxiv.org/abs/1703.06870) [[code]](https://github.com/facebookresearch/Detectron) (FAIR, **2017 ICCV Best Paper**)
 
 #### Others
-- [You Only Look Once: Unified, Real-Time Object Detection.](https://arxiv.org/abs/1506.02640) [code](https://github.com/gliese581gg/YOLO_tensorflow) (University of Washington, Allen Institute for AI, Facebook AI Research, **2016 CVPR**)
+- [You Only Look Once: Unified, Real-Time Object Detection.](https://arxiv.org/abs/1506.02640) [[code]](https://github.com/gliese581gg/YOLO_tensorflow) (University of Washington, Allen Institute for AI, Facebook AI Research, **2016 CVPR**)
 - [A-Fast-RCNN: Hard positive generation via adversary for object detection.](https://arxiv.org/abs/1704.03414) (CMU, **2017 CVPR**)
-- [Dilated Residual Networks](https://arxiv.org/abs/1705.09914). [code](https://github.com/fyu/drn) (Princeton, Intel, **2017 CVPR**)
-- [Deformable Convolutional Networks.](https://arxiv.org/abs/1703.06211) [code](https://github.com/msracver/Deformable-ConvNets) (MSRA, **2017 ICCV**)
-- [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications.](https://arxiv.org/abs/1704.04861)  [code](https://github.com/tensorflow/models/tree/master/research/slim) (Google **2017 CVPR**)
+- [Dilated Residual Networks](https://arxiv.org/abs/1705.09914). [[code]](https://github.com/fyu/drn) (Princeton, Intel, **2017 CVPR**)
+- [Deformable Convolutional Networks.](https://arxiv.org/abs/1703.06211) [[code]](https://github.com/msracver/Deformable-ConvNets) (MSRA, **2017 ICCV**)
+- [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications.](https://arxiv.org/abs/1704.04861)  [[code]](https://github.com/tensorflow/models/tree/master/research/slim) (Google **2017 CVPR**)
 - [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices.](https://arxiv.org/abs/1707.01083) (Megvii, **2017 CVPR**)
 - [Federated Optimization: Distributed Machine Learning for On-Device Intelligence.](https://arxiv.org/abs/1610.02527) (University of Edinburgh, Google)
 - [Deep Complex Networks.](https://arxiv.org/abs/1705.09792) (Université de Montréal, Element AI)
 - [One Model To Learn Them All.](https://arxiv.org/abs/1706.05137) (Google, University of Toronto)
 - [Densely Connected Convolutional Networks.](https://arxiv.org/abs/1608.06993) (Cornell, Tsinghua, FAIR, **2017 CVPR**)
-- [YOLO9000: Better, Faster, Stronger.](https://arxiv.org/abs/1612.08242)[code](https://github.com/longcw/yolo2-pytorch) (University of Washington, **2017 CVPR**)
-- [MobileNetV2: Inverted Residuals and Linear Bottlenecks.](https://arxiv.org/abs/1801.04381) [code](https://github.com/tensorflow/models/tree/master/research/slim) (Google, **2018 CVPR**)
+- [YOLO9000: Better, Faster, Stronger.](https://arxiv.org/abs/1612.08242) [[code]](https://github.com/longcw/yolo2-pytorch) (University of Washington, **2017 CVPR**)
+- [MobileNetV2: Inverted Residuals and Linear Bottlenecks.](https://arxiv.org/abs/1801.04381) [[code]](https://github.com/tensorflow/models/tree/master/research/slim) (Google, **2018 CVPR**)
 
 ## Industry Contributions
  - [Movidius](http://www.movidius.com/)
