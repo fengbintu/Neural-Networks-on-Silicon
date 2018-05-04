@@ -372,6 +372,7 @@ This is a collection of papers on other important topics related to neural netwo
 - [Toolflows for Mapping Convolutional Neural Networks on FPGAs: A Survey and Future Directions.](https://arxiv.org/abs/1803.05900) (Imperial College London)
 
 ### Benchmarks
+- [MLPerf](https://mlperf.org/): A broad ML benchmark suite for measuring performance of ML software frameworks, ML hardware accelerators, and ML cloud platforms.
 - [Fathom: Reference Workloads for Modern Deep Learning Methods.](http://arxiv.org/abs/1608.06581) (Harvard University)
 - **AlexNet**: Imagenet Classification with Deep Convolutional Neural Networks. (University of Toronto, **2012 NIPS**)
 - **Network in Network**. (National University of Singapore, **2014 ICLR**)
