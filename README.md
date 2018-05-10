@@ -443,6 +443,12 @@ This is a collection of papers on other important topics related to neural netwo
 - [Densely Connected Convolutional Networks.](https://arxiv.org/abs/1608.06993) (Cornell, Tsinghua, FAIR, **2017 CVPR**)
 - [YOLO9000: Better, Faster, Stronger.](https://arxiv.org/abs/1612.08242) [[code]](https://github.com/longcw/yolo2-pytorch) (University of Washington, **2017 CVPR**)
 - [MobileNetV2: Inverted Residuals and Linear Bottlenecks.](https://arxiv.org/abs/1801.04381) [[code]](https://github.com/tensorflow/models/tree/master/research/slim) (Google, **2018 CVPR**)
+- [To prune, or not to prune: exploring the efficacy of pruning for model compression.](https://arxiv.org/abs/1710.01878) [[code](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/model_pruning)] (Google, **2018 ICLR Workshop**)
+ -*compare the accuracy of large, but pruned models (large-sparse) and their smaller, but dense (small-dense) counterparts with identical memory footprint.*
+ -*For a given number of non-zero parameters, sparse MobileNets are able to outperform dense MobileNets.*
+- [Training and Inference with Integers in Deep Neural Networks.](https://arxiv.org/abs/1802.04680) [[code]](https://github.com/boluoweifenda/WAGE) (Tsinghua, **2018 ICLR**)
+ - *A new method termed as “WAGE” to discretize both training and inference, where weights (W), activations (A), gradients (G) and errors (E) among layers are shifted and linearly constrained to low-bitwidth integers.*
+ - *training in hardware systems such as integer-based deep learning accelerators and neuromorphic chips with comparable accuracy and higher energy efficiency,which is crucial to future AI applications in variable scenarios with transfer and continual learning demands.*
 
 ## Industry Contributions
  - [Movidius](http://www.movidius.com/)
