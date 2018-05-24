@@ -271,7 +271,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **AEP: An Error-bearing Neural Network Accelerator for Energy Efficiency and Model Protection.** (University of Pittsburgh)
 - AdaLearner: An Adaptive Distributed Mobile Learning System for Neural Networks.
 - MeDNN: A Distributed Mobile System with Enhanced Partition and Deployment for Large-Scale DNNs.
-- TraNNsformer: Neural Network Transformation for Efficient Crossbar Based Neuromorphic System Design.
+- TraNNsformer: Neural network transformation for memristive crossbar based neuromorphic system design (Purdue University).
 - A Closed-loop Design to Enhance Weight Stability of Memristor Based Neural Network Chips.
 - ORCHARD: Visual Object Recognition Accelerator Based on Approximate In-Memory Processing. (UCSD)
 
