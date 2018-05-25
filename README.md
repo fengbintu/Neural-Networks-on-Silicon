@@ -304,7 +304,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **A 55nm Time-Domain Mixed-Signal Neuromorphic Accelerator with Stochastic Synapses and Embedded Reinforcement Learning for Autonomous Micro-Robots.** (Georgia Tech)
 - **A Shift Towards Edge Machine-Learning Processing.** (Google)
 - **QUEST: A 7.49TOPS Multi-Purpose Log-Quantized DNN Inference Engine Stacked on 96MB 3D SRAM Using Inductive-Coupling Technology in 40nm CMOS.** (Hokkaido University, Ultra Memory, Keio University)
-- **UNPU: A 50.6TOPS/W Unified Deep Neural Network Accelerator with 1bto-16b Fully-Variable Weight Bit-Precision.** (KAIST)
+- **UNPU: A 50.6TOPS/W Unified Deep Neural Network Accelerator with 1b-to-16b Fully-Variable Weight Bit-Precision.** (KAIST)
 - **A 9.02mW CNN-Stereo-Based Real-Time 3D Hand-Gesture Recognition Processor for Smart Mobile Devices.** (KAIST)
 - **An Always-On 3.8μJ/86% CIFAR-10 Mixed-Signal Binary CNN Processor with All Memory on Chip in 28nm CMOS.** (Stanford, KU Leuven)
 - **Conv-RAM: An Energy-Efficient SRAM with Embedded Convolution Computation for Low-Power CNN-Based Machine Learning Applications.** (MIT)
@@ -403,6 +403,12 @@ This is a collection of papers on other important topics related to neural netwo
 - [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference.](https://arxiv.org/abs/1712.05877) (Google, **2018 CVPR**)
   - *A quantization scheme to improve the tradeoff between accuracy and on-device latency, especially for MobileNet.*
 - [Channel Pruning for Accelerating Very Deep Neural Networks.](https://arxiv.org/abs/1707.06168) [[code]](https://github.com/yihui-he/channel-pruning) (**2017 ICCV**)
+- [To prune, or not to prune: Exploring the Efficacy of Pruning for Model Compression.](https://arxiv.org/abs/1710.01878) [[code](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/model_pruning)] (Google, **2018 ICLR Workshop**)
+ -*Compare the accuracy of "large, but prune" models (large-sparse) and their "smaller, but dense" (small-dense) counterparts with identical memory footprint.*
+ -*For a given number of non-zero parameters, sparse MobileNets are able to outperform dense MobileNets.*
+- [Training and Inference with Integers in Deep Neural Networks.](https://arxiv.org/abs/1802.04680) [[code]](https://github.com/boluoweifenda/WAGE) (Tsinghua, **2018 ICLR**)
+ - *A new method termed as “WAGE” to discretize both training and inference, where weights (W), activations (A), gradients (G) and errors (E) among layers are shifted and linearly constrained to low-bitwidth integers.*
+ - *Training in hardware systems such as integer-based deep learning accelerators and neuromorphic chips with comparable accuracy and higher energy efficiency, which is crucial to future AI applications in variable scenarios with transfer and continual learning demands.*
 
 #### arXiv Papers
 - [Reduced-Precision Strategies for Bounded Memory in Deep Neural Nets.](https://arxiv.org/abs/1511.05236) (University of Toronto, University of British Columbia)
