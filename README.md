@@ -271,7 +271,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - VoCaM: Visualization oriented convolutional neural network acceleration on mobile system.
 - AdaLearner: An Adaptive Distributed Mobile Learning System for Neural Networks.
 - MeDNN: A Distributed Mobile System with Enhanced Partition and Deployment for Large-Scale DNNs.
-- TraNNsformer: Neural Network Transformation for Efficient Crossbar Based Neuromorphic System Design.
+- TraNNsformer: Neural Network Transformation for Memristive Crossbar based Neuromorphic System Design. (Purdue University).
 - A Closed-loop Design to Enhance Weight Stability of Memristor Based Neural Network Chips.
 - Fault injection attack on deep neural network.
 - ORCHARD: Visual Object Recognition Accelerator Based on Approximate In-Memory Processing. (UCSD)
