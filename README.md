@@ -332,9 +332,9 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **STICKER: A 0.41‐62.1 TOPS/W 8bit Neural Network Processor with Multi‐Sparsity Compatible Convolution Arrays and Online Tuning Acceleration for Fully Connected Layers.** (THU)
 - **2.9TOPS/W Reconfigurable Dense/Sparse Matrix‐Multiply Accelerator with Unified INT8/INT16/FP16 Datapath in 14nm Tri‐gate CMOS.** (Intel)
 - **A Scalable Multi‐TeraOPS Deep Learning Processor Core for AI Training and Inference.** (IBM)
-- **An Ultra‐high Energy‐efficient reconfigurable Processor for Deep Neural Networks with Binary/Ternary Weights in 28nm CMOS.** (Tsinghua Univ.)
+- **An Ultra‐high Energy‐efficient reconfigurable Processor for Deep Neural Networks with Binary/Ternary Weights in 28nm CMOS.** (THU)
 - **B‐Face: 0.2 mW CNN‐Based Face Recognition Processor with Face Alignment for Mobile User Identification** (KAIST)
-- **A 141 uW, 2.46 pJ/Neuron Binarized Convolutional Neural Network based Self‐learning Speech Recognition Processor in 28nm CMOS** (Tsinghua Univ.)
+- **A 141 uW, 2.46 pJ/Neuron Binarized Convolutional Neural Network based Self-learning Speech Recognition Processor in 28nm CMOS** (THU)
 - **A Mixed‐Signal Binarized Convolutional‐Neural‐Network Accelerator Integrating Dense Weight Storage and Multiplication for Reduced Data Movement** (Princeton)
 - **PhaseMAC: A 14 TOPS/W 8bit GRO based Phase Domain MAC Circuit for In‐Sensor‐Computed Deep Learning Accelerators** (Toshiba) 
 
