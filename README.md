@@ -407,8 +407,8 @@ This is a collection of papers on other important topics related to neural netwo
  -*Compare the accuracy of "large, but prune" models (large-sparse) and their "smaller, but dense" (small-dense) counterparts with identical memory footprint.*
  -*For a given number of non-zero parameters, sparse MobileNets are able to outperform dense MobileNets.*
 - [Training and Inference with Integers in Deep Neural Networks.](https://arxiv.org/abs/1802.04680) [[code]](https://github.com/boluoweifenda/WAGE) (Tsinghua, **2018 ICLR**)
- - *A new method termed as “WAGE” to discretize both training and inference, where weights (W), activations (A), gradients (G) and errors (E) among layers are shifted and linearly constrained to low-bitwidth integers.*
- - *Training in hardware systems such as integer-based deep learning accelerators and neuromorphic chips with comparable accuracy and higher energy efficiency, which is crucial to future AI applications in variable scenarios with transfer and continual learning demands.*
+  - *A new method termed as “WAGE” to discretize both training and inference, where weights (W), activations (A), gradients (G) and errors (E) among layers are shifted and linearly constrained to low-bitwidth integers.*
+  - *Training in hardware systems such as integer-based deep learning accelerators and neuromorphic chips with comparable accuracy and higher energy efficiency, which is crucial to future AI applications in variable scenarios with transfer and continual learning demands.*
 
 #### arXiv Papers
 - [Reduced-Precision Strategies for Bounded Memory in Deep Neural Nets.](https://arxiv.org/abs/1511.05236) (University of Toronto, University of British Columbia)
