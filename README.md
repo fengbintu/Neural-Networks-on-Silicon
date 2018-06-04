@@ -359,13 +359,13 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Networks.** (Georgia Tech, ARM, UCSD)
 - **Gist: Efficient Data Encoding for Deep Neural Network Training.** (Michigan, Microsoft, Toronto)
 - **The Dark Side of DNN Pruning.** (UPC)
+- **Neural Cache: Bit-Serial In-Cache Acceleration of Deep Neural Networks.** (Michigan)
 - EVA^2: Exploiting Temporal Redundancy in Live Computer Vision. (Cornell)
 - Euphrates: Algorithm-SoC Co-Design for Low-Power Mobile Continuous Vision. (Rochester, Georgia Tech, ARM)
 - Feature-Driven and Spatially Folded Digital Neurons for Efficient Spiking Neural Network Simulations. (POSTECH/Berkeley, Seoul National)
 - Space-Time Algebra: A Model for Neocortical Computation. (Wisconsin)
 - Scaling Datacenter Accelerators With Compute-Reuse Architectures. (Princeton)
 - Enabling Scientific Computing on Memristive Accelerators. (Rochester)
-- Neural Cache. (Michigan)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
