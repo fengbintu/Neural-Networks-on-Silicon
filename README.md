@@ -368,15 +368,15 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - Enabling Scientific Computing on Memristive Accelerators. (Rochester)
 
 ### 2018 DATE
-- **MATIC: Learning around errors for efficient low-voltage neural network accelerators.** (University of Washington)
-   - *Learns around errors resulting from SRAM voltage scaling, demonstrated on a fabricated 65 nm test chip*
-- **Maximizing system performance by balancing computation loads in LSTM accelerators.** (POSTECH)
-   - *Sparse matrix format that load balances computation, demonstrated for LSTMs*
+- **MATIC: Learning Around Errors for Efficient Low-Voltage Neural Network Accelerators.** (University of Washington)
+   - *Learns around errors resulting from SRAM voltage scaling, demonstrated on a fabricated 65nm test chip.*
+- **Maximizing System Performance by Balancing Computation Loads in LSTM Accelerators.** (POSTECH)
+   - *Sparse matrix format that load balances computation, demonstrated for LSTMs.*
 - **CCR: A Concise Convolution Rule for Sparse Neural Network Accelerators.** (CAS)
-   - *Decomposes convolution into multiple dense and zero kernels for sparsity savings*
+   - *Decomposes convolution into multiple dense and zero kernels for sparsity savings.*
 - **Block Convolution: Towards Memory-Efficient Inference of Large-Scale CNNs on FPGA.** (CAS)
-- **moDNN: Memory optimal DNN training on GPUs.** (University of Notre Dame, CAS)
-- HyperPower: Power and memory-constrained hyper-parameter optimization for neural networks. (CMU, Google)
+- **moDNN: Memory Optimal DNN Training on GPUs.** (University of Notre Dame, CAS)
+- HyperPower: Power and Memory-Constrained Hyper-Parameter Optimization for Neural Networks. (CMU, Google)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
