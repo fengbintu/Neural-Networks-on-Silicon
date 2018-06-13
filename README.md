@@ -10,9 +10,9 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - 2016: [ISSCC](#2016-isscc), [ISCA](#2016-isca), [MICRO](#2016-micro), [HPCA](#2016-hpca), [DAC](#2016-dac), [FPGA](#2016-fpga), [ICCAD](#2016-iccad), [DATE](#2016-date), [ASPDAC](#2016-aspdac), [VLSI](#2016-vlsi), [FPL](#2016-fpl)
    - 2017: [ISSCC](#2017-isscc), [ISCA](#2017-isca), [MICRO](#2017-micro), [HPCA](#2017-hpca), [ASPLOS](#2017-asplos), [DAC](#2017-dac), [FPGA](#2017-fpga), [ICCAD](#2017-iccad), [DATE](#2017-date), [VLSI](#2017-vlsi), [FCCM](#2017-fccm), [HotChips](#2017-hotchips)
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [FPGA](#2018-fpga), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi)
-   
+
  - [Important Topics](#important-topics)
-   - [Tutorial and Survey](#tutorial-and-survey) 
+   - [Tutorial and Survey](#tutorial-and-survey)
    - [Benchmarks](#benchmarks)
    - [Network Compression](#network-compression)
    - [Other Topics](#other-topics)
@@ -90,7 +90,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
  - Cambricon: An Instruction Set Architecture for Neural Networks. (Chinese Academy of Sciences, UCSB)
 
 ### 2016 DATE
-- **The Neuro Vector Engine: Flexibility to Improve Convolutional Network Efficiency for Wearable Vision.** (Eindhoven University of Technology, Soochow University, TU Berlin) 
+- **The Neuro Vector Engine: Flexibility to Improve Convolutional Network Efficiency for Wearable Vision.** (Eindhoven University of Technology, Soochow University, TU Berlin)
   - *Propose an SIMD accelerator for CNN.*
 - **Efficient FPGA Acceleration of Convolutional Neural Networks Using Logical-3D Compute Array.** (UNIST, Seoul National University)
   - *The compute tile is organized on 3 dimensions: Tm, Tr, Tc.*
@@ -98,7 +98,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - MNSIM: Simulation Platform for Memristor-Based Neuromorphic Computing System. (Tsinghua University, UCSB, Arizona State University)
 - Accelerated Artificial Neural Networks on FPGA for Fault Detection in Automotive Systems. (Nanyang Technological University, University of Warwick)
 - Significance Driven Hybrid 8T-6T SRAM for Energy-Efficient Synaptic Storage in Artificial Neural Networks. (Purdue University)
- 
+
 ### 2016 FPGA
 - **Going Deeper with Embedded FPGA Platform for Convolutional Neural Network.** \[[Slides](http://www.isfpga.org/fpga2016/index_files/Slides/1_2.pdf)\]\[[Demo](http://www.isfpga.org/fpga2016/index_files/Slides/1_2_demo.m4v)\] (Tsinghua University, MSRA)
   - *The first work I see, which runs the entire flow of CNN, including both CONV and FC layers.*
@@ -119,7 +119,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
   - *Use dynamic precision for different CONV layers, and scales down the MAC array's supply voltage at lower precision.*
   - *Prevent memory fetches and MAC operations based on the ReLU sparsity.*
 - **A 1.40mm2 141mW 898GOPS Sparse Neuromorphic Processor in 40nm CMOS.** (University of Michigan)
- 
+
 ### 2016 ICCAD
 - **Efficient Memory Compression in Deep Neural Networks Using Coarse-Grain Sparsification for Speech Applications.** (Arizona State University)
 - **Memsqueezer: Re-architecting the On-chip memory Sub-system of Deep Learning Accelerator for Embedded Devices.** (Chinese Academy of Sciences)
@@ -156,11 +156,11 @@ This is a collection of conference papers that interest me. The emphasis is focu
 ### 2016 FPL
 - **A High Performance FPGA-based Accelerator for Large-Scale Convolutional Neural Network.** (Fudan University)
 - **Overcoming Resource Underutilization in Spatial CNN Accelerators.** (Stony Brook University)
-  - *Build multiple accelerators, each specialized for specific CNN layers, instead of a single accelerator with uniform tiling parameters.* 
+  - *Build multiple accelerators, each specialized for specific CNN layers, instead of a single accelerator with uniform tiling parameters.*
 - **Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC.** (Intel)
 
 ### 2016 HPCA
-- **A Performance Analysis Framework for Optimizing OpenCL Applications on FPGAs.** (Nanyang Technological University, HKUST, Cornell University) 
+- **A Performance Analysis Framework for Optimizing OpenCL Applications on FPGAs.** (Nanyang Technological University, HKUST, Cornell University)
 - **TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning.** (Georgia Institute of Technology)
 - Memristive Boltzmann Machine: A Hardware Accelerator for Combinatorial Optimization and Deep Learning. (University of Rochester)
 
@@ -190,7 +190,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks.** (Chinese Academy of Sciences)
 - **PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning.** (University of Pittsburgh, University of Southern California)
 - Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures. (University of Florida)
-  - *Satisfaction of CNN (SoC) is the combination of SoCtime, SoCaccuracy and energy consumption.* 
+  - *Satisfaction of CNN (SoC) is the combination of SoCtime, SoCaccuracy and energy consumption.*
   - *The P-CNN framework is composed of offline compilation and run-time management.*
     - *Offline compilation: Generally optimizes runtime, and generates scheduling configurations for the run-time stage.*
     - *Run-time management: Generates tuning tables through accuracy tuning, and calibrate accuracy+runtime (select the best tuning table) during the long-term execution.*
@@ -198,7 +198,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 
 ### 2017 ASPLOS
 - **Scalable and Efficient Neural Network Acceleration with 3D Memory.** (Stanford University)
-  - *Use more area for PEs and less area for SRAM buffers.* 
+  - *Use more area for PEs and less area for SRAM buffers.*
   - *Move portions of the NN computations close to the DRAM banks.*
   - *3D memory simplifies dataflow scheduling.*
   - *Develop a hybrid partitioning scheme that parallelizes the NN computations over multiple accelerators.*
@@ -206,7 +206,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 
 ### 2017 ISCA
 - **Maximizing CNN Accelerator Efficiency Through Resource Partitioning.** (Stony Brook University)
-  - *An Extension of their FPL'16 paper.* 
+  - *An Extension of their FPL'16 paper.*
 - **In-Datacenter Performance Analysis of a Tensor Processing Unit.** (Google)
 - **SCALEDEEP: A Scalable Compute Architecture for Learning and Evaluating Deep Networks.** (Purdue University, Intel)
 - **SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks.** (NVIDIA, MIT, UC Berkeley, Stanford University)
@@ -214,22 +214,22 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent. (Stanford)
 - LogCA: A High-Level Performance Model for Hardware Accelerators. (AMD, University of Wisconsin-Madison)
 - APPROX-NoC: A Data Approximation Framework for Network-On-Chip Architectures. (TAMU)
-  
+
 ### 2017 FCCM
 - **Escher: A CNN Accelerator with Flexible Buffering to Minimize Off-Chip Transfer.** (Stony Brook University)
 - **Customizing Neural Networks for Efficient FPGA Implementation.**
 - **Evaluating Fast Algorithms for Convolutional Neural Networks on FPGAs.**
 - **FP-DNN: An Automated Framework for Mapping Deep Neural Networks onto FPGAs with RTL-HLS Hybrid Templates.** (Peking University, HKUST, MSRA, UCLA)
-  - *Compute-instensive part: RTL-based generalized matrix multiplication kernel.* 
-  - *Layer-specific part: HLS-based control logic.* 
-  - *Memory-instensive part: Several techniques for lower DRAM bandwidth requirements.* 
+  - *Compute-instensive part: RTL-based generalized matrix multiplication kernel.*
+  - *Layer-specific part: HLS-based control logic.*
+  - *Memory-instensive part: Several techniques for lower DRAM bandwidth requirements.*
 - FPGA accelerated Dense Linear Machine Learning: A Precision-Convergence Trade-off.
 - A Configurable FPGA Implementation of the Tanh Function using DCT Interpolation.
 
 ### 2017 DAC
 - **Deep^3: Leveraging Three Levels of Parallelism for Efficient Deep Learning.** (UCSD, Rice)
 - **Real-Time meets Approximate Computing: An Elastic Deep Learning Accelerator Design with Adaptive Trade-off between QoS and QoR.** (CAS)
-  - *I'm not sure whether the proposed tuning scenario and direction are reasonable enough to find out feasible solutions.* 
+  - *I'm not sure whether the proposed tuning scenario and direction are reasonable enough to find out feasible solutions.*
 - **Exploring Heterogeneous Algorithms for Accelerating Deep Convolutional Neural Networks on FPGAs.** (PKU, CUHK, SenseTime)
 - **Hardware-Software Codesign of Highly Accurate, Multiplier-free Deep Neural Networks.** (Brown University)
 - **A Kernel Decomposition Architecture for Binary-weight Convolutional Neural Networks.** (KAIST)
@@ -239,7 +239,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **Fault-Tolerant Training with On-Line Fault Detection for RRAM-Based Neural Computing Systems.** (THU, Duke)
 - **Automating the systolic array generation and optimizations for high throughput convolution neural network.** (PKU, UCLA, Falcon)
 - **Towards Full-System Energy-Accuracy Tradeoffs: A Case Study of An Approximate Smart Camera System.** (Purdue)
-  - *Synergistically tunes componet-level approximation knobs to achieve system-level energy-accuracy tradeoffs.* 
+  - *Synergistically tunes componet-level approximation knobs to achieve system-level energy-accuracy tradeoffs.*
 - **Error Propagation Aware Timing Relaxation For Approximate Near Threshold Computing.** (KIT)
 - RESPARC: A Reconfigurable and Energy-Efficient Architecture with Memristive Crossbars for Deep Spiking Neural Networks. (Purdue)
 - Rescuing Memristor-based Neuromorphic Design with High Defects. (University of Pittsburgh, HP Lab, Duke)
@@ -323,7 +323,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 ### 2018 ASPLOS
 - **Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler.** (Tsinghua, UCSB)
 - **MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects.** (Georgia Tech)
-  - *Higher PE utilization: Use an augmented reduction tree (reconfigurable interconnects) to construct arbitrary sized virtual neurons.* 
+  - *Higher PE utilization: Use an augmented reduction tree (reconfigurable interconnects) to construct arbitrary sized virtual neurons.*
 - **VIBNN: Hardware Acceleration of Bayesian Neural Networks.** (Syracuse University, USC)
 - Exploiting Dynamical Thermal Energy Harvesting for Reusing in Smartphone with Mobile Applications. (Guizhou University, University of Florida)
 - Potluck: Cross-application Approximate Deduplication for Computation-Intensive Mobile Applications. (Yale)
@@ -336,7 +336,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **B‐Face: 0.2 mW CNN‐Based Face Recognition Processor with Face Alignment for Mobile User Identification.** (KAIST)
 - **A 141 uW, 2.46 pJ/Neuron Binarized Convolutional Neural Network based Self-learning Speech Recognition Processor in 28nm CMOS.** (THU)
 - **A Mixed‐Signal Binarized Convolutional‐Neural-Network Accelerator Integrating Dense Weight Storage and Multiplication for Reduced Data Movement.** (Princeton)
-- **PhaseMAC: A 14 TOPS/W 8bit GRO based Phase Domain MAC Circuit for In‐Sensor‐Computed Deep Learning Accelerators.** (Toshiba) 
+- **PhaseMAC: A 14 TOPS/W 8bit GRO based Phase Domain MAC Circuit for In‐Sensor‐Computed Deep Learning Accelerators.** (Toshiba)
 
 ### 2018 FPGA
 - **C-LSTM: Enabling Efficient LSTM using Structured Compression Techniques on FPGAs.** (Peking Univ, Syracuse Univ, CUNY)
@@ -367,6 +367,17 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - Scaling Datacenter Accelerators With Compute-Reuse Architectures. (Princeton)
 - Enabling Scientific Computing on Memristive Accelerators. (Rochester)
 
+### 2018 DATE
+- **MATIC: Learning Around Errors for Efficient Low-Voltage Neural Network Accelerators.** (University of Washington)
+   - *Learns around errors resulting from SRAM voltage scaling, demonstrated on a fabricated 65nm test chip.*
+- **Maximizing System Performance by Balancing Computation Loads in LSTM Accelerators.** (POSTECH)
+   - *Sparse matrix format that load balances computation, demonstrated for LSTMs.*
+- **CCR: A Concise Convolution Rule for Sparse Neural Network Accelerators.** (CAS)
+   - *Decomposes convolution into multiple dense and zero kernels for sparsity savings.*
+- **Block Convolution: Towards Memory-Efficient Inference of Large-Scale CNNs on FPGA.** (CAS)
+- **moDNN: Memory Optimal DNN Training on GPUs.** (University of Notre Dame, CAS)
+- HyperPower: Power and Memory-Constrained Hyper-Parameter Optimization for Neural Networks. (CMU, Google)
+
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
 
@@ -390,7 +401,7 @@ This is a collection of papers on other important topics related to neural netwo
 ### Network Compression
 #### Conference Papers
 - [Learning both Weights and Connections for Efficient Neural Network.](https://arxiv.org/abs/1506.02626) (Stanford University, NVIDIA, **2015 NIPS**)
-  - *Prune connections by thresholding weight values.* 
+  - *Prune connections by thresholding weight values.*
   - *Retain accuracy with iterative retraining.*
 - [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding.](http://arxiv.org/abs/1510.00149) (Stanford University, Tsinghua University, **2016 ICLR**)
 - [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size.](http://arxiv.org/abs/1602.07360) (DeepScale & UC Berkeley, Stanford University)
@@ -400,7 +411,7 @@ This is a collection of papers on other important topics related to neural netwo
 - [Hardware-oriented Approximation of Convolutional Neural Networks.](https://arxiv.org/abs/1604.03168) (UC Davis, **2016 ICLR Workshop**)
 - [Soft Weight-Sharing for Neural Network Compression.](https://arxiv.org/abs/1702.04008) (University of Amsterdam, CIFAR, **2017 ICLR**)
 - [Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning.](https://arxiv.org/abs/1611.05128) (MIT, **2017 CVPR**)
-  - *Estimate the energy comsuption of a CNN based on their Eyeriss (ISCA'16) paper.* 
+  - *Estimate the energy comsuption of a CNN based on their Eyeriss (ISCA'16) paper.*
   - *Propose an energy-aware pruning method.*
 - [Scalable and Sustainable Deep Learning via Randomized Hashing.](https://arxiv.org/abs/1602.08194) (Rice University, **2017 KDD**)
 - [TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning.](https://arxiv.org/abs/1705.07878) [[code]](https://github.com/wenwei202/terngrad) (Duke University, Hewlett Packard Labs, University of Nevada – Reno, University of Pittsburgh, **2017 NIPS**)
@@ -426,7 +437,7 @@ This is a collection of papers on other important topics related to neural netwo
 - [Dynamic Network Surgery for Efficient DNNs.](http://arxiv.org/abs/1608.04493) (Intel Labs China)
 - [Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights.](https://arxiv.org/abs/1702.03044) [[code]](https://github.com/Zhouaojun/Incremental-Network-Quantization) (Intel Labs China)
 - [Exploring the Regularity of Sparse Structure in Convolutional Neural Networks.](https://arxiv.org/abs/1705.08922) (Stanford, NVIDIA, Tsinghua)
-  - *Coarser-grained pruning can save memory storage and access while maintaining the accuracy.* 
+  - *Coarser-grained pruning can save memory storage and access while maintaining the accuracy.*
 - [A Quantization-Friendly Separable Convolution for MobileNets.](https://arxiv.org/abs/1803.08607) (Qualcomm)
 - [ADC: Automated Deep Compression and Acceleration with Reinforcement Learning.](https://arxiv.org/abs/1802.03494) (XJTU, MIT)
 
@@ -437,7 +448,7 @@ This is a collection of papers on other important topics related to neural netwo
   - *Two "adversarial" MLP models G and D: a generative model G that captures the data distribution and a discriminative model D that estimates the probability that a sample came from the training data rather than G*.
   - *D is trained to learn the above probability*.
   - *G is trained to maximize the probability of D making a mistake.*.
-  
+
 #### Kaiming He
 - [Mask R-CNN.](https://arxiv.org/abs/1703.06870) [[code]](https://github.com/facebookresearch/Detectron) (FAIR, **2017 ICCV Best Paper**)
 
