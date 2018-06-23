@@ -20,8 +20,15 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
  - [Industry Contributions](#industry-contributions)
 
 ## My Contributions
-I'm working on energy-efficient architecture design for deep learning. A deep convoultional neural network architecture (DNA) has been designed with 1~2 orders higher energy efficiency over the state-of-the-art works. I'm trying to improve the architecture for ultra low-power compting. Hope my new works will come out soon in the near future.
+I'm working on energy-efficient architecture design for deep learning. Some featured works are presented here. Hope my new works will come out soon in the near future.
 
+[Jun. 2018] A retention-aware neural acceleration (RANA) framework has been designed, which strengthens DNN accelerators with refresh-optimized eDRAM to save total system energy. 
+- **RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM.** (**ISCA'18**) RANA includes three levels of techniques:
+  - **Training Level**: A retention-aware training method is proposed to improve eDRAM's tolerable retention time with no accuracy loss. Bit-level retention errors are injected during training, so the network' s tolerance to retention failures is improved. A higher tolerable failure rate leads to longer tolerable retention time, so more refresh can be removed.
+  - **Scheduling Level**: A system energy consumption model is built in consideration of computing energy, on-chip buffer access energy, refresh energy and off-chip memory access energy. RANA schedules networks in a hybrid computation pattern based on this model. Each layer is assigned with the computation pattern that costs the lowest energy.
+  - **Architecture Level**: RANA independently disables refresh to eDRAM banks based on their storing data's lifetime, saving more refresh energy. A programmable eDRAM controller is proposed to enable the above fine-grained refresh controls.
+
+[Apr. 2017] A deep convoultional neural network architecture (DNA) has been designed with 1~2 orders higher energy efficiency over the state-of-the-art works. I'm trying to improve the architecture for ultra low-power compting. 
 - [**Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns.**](http://ieeexplore.ieee.org/document/7898402/) (**TVLSI popular paper**)
   - *This is the first work to assign Input/Output/Weight Reuse to different layers of a CNN, which optimizes system-level energy consumption based on different CONV parameters.*
   - *A 4-level CONV engine is designed to to support different tiling parameters for higher resource utilization and performance.*
@@ -197,7 +204,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - Supporting Address Translation for Accelerator-Centric Architectures. (UCLA)
 
 ### 2017 ASPLOS
-- **Scalable and Efficient Neural Network Acceleration with 3D Memory.** (Stanford University)
+- **Tetris: Scalable and Efficient Neural Network Acceleration with 3D Memory.** (Stanford University)
   - *Use more area for PEs and less area for SRAM buffers.*
   - *Move portions of the NN computations close to the DRAM banks.*
   - *3D memory simplifies dataflow scheduling.*
@@ -399,6 +406,7 @@ This is a collection of papers on other important topics related to neural netwo
 - **ResNet**: Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification. (MSRA, **2015 ICCV**)
 
 ### Network Compression
+- [Neural Network Distiller](https://nervanasystems.github.io/distiller/index.html): Intel's open-source Python package for neural network compression research. [[Chinese]](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650744106&idx=4&sn=6e101276f64a9c91b8dc24b89ddaeec3&chksm=871ae154b06d6842c3cc376242322298db0288ab696e92fac4268be8c85b75daa81d72d763ad&mpshare=1&scene=1&srcid=0622gO3XXgG8qIvMWxc8Sj11#rd)
 #### Conference Papers
 - [Learning both Weights and Connections for Efficient Neural Network.](https://arxiv.org/abs/1506.02626) (Stanford University, NVIDIA, **2015 NIPS**)
   - *Prune connections by thresholding weight values.*
