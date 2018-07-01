@@ -486,10 +486,9 @@ This is a collection of papers on other important topics related to neural netwo
    - [NVDLA](http://nvdla.org/): The NVIDIA Deep Learning Accelerator (NVDLA) is a free and open architecture that promotes a standard way to design deep learning inference accelerators.
  - Google
    - TPU (Tensor Processing Unit).
-   - Cloud TPU: Train and run machine learning models.
+   - [TPUv2](https://www.nextplatform.com/2017/05/22/hood-googles-tpu2-machine-learning-clusters/): Train and run machine learning models.
+   - [TPUv3](https://www.nextplatform.com/2018/05/10/tearing-apart-googles-tpu-3-0-ai-coprocessor/): Liquid cooling.
  - [Nervana](https://www.nervanasys.com/)
    - Nervana Engine: Hardware optimized for deep learning.
  - [Wave Computing](http://wavecomp.com/)
    - Clockless **CGRA** architecture.
-
-
