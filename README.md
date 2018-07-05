@@ -387,12 +387,12 @@ This is a collection of conference papers that interest me. The emphasis is focu
 
 ### 2018 DAC
 - **DPS: Dynamic Precision Scaling for Stochastic Computing-Based Deep Neural Networks.** (UNIST)
-- **DyHard-DNN: Even More DNN Acceleration With Dynamic Hardware Reconfiguration** (Univ. of Virginia)
-- **Exploring the Programmability for Deep Learning Processors: from Architecture to Tensorization** (Univ. of Washington)
-- **LCP: Layer Clusters Paralleling Mapping Mechanism for Accelerating Inception and Residual Networks on FPGA** (THU)
-- **Ares: A Framework for Quantifying the Resilience of Deep Neural Networks** (Harvard)
-- **Loom: Exploiting Weight and Activation Precisions to Accelerate Convolutional Neural Networks** (Univ. of Toronto)
-- **Parallelizing SRAM Arrays with Customized Bit-Cell for Binary Neural Networks** (Arizona)
+- **DyHard-DNN: Even More DNN Acceleration With Dynamic Hardware Reconfiguration.** (Univ. of Virginia)
+- **Exploring the Programmability for Deep Learning Processors: from Architecture to Tensorization.** (Univ. of Washington)
+- **LCP: Layer Clusters Paralleling Mapping Mechanism for Accelerating Inception and Residual Networks on FPGA.** (THU)
+- **Ares: A Framework for Quantifying the Resilience of Deep Neural Networks.** (Harvard)
+- **Loom: Exploiting Weight and Activation Precisions to Accelerate Convolutional Neural Networks.** (Univ. of Toronto)
+- **Parallelizing SRAM Arrays with Customized Bit-Cell for Binary Neural Networks.** (Arizona)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
