@@ -383,7 +383,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
    - *Decomposes convolution into multiple dense and zero kernels for sparsity savings.*
 - **Block Convolution: Towards Memory-Efficient Inference of Large-Scale CNNs on FPGA.** (CAS)
 - **moDNN: Memory Optimal DNN Training on GPUs.** (University of Notre Dame, CAS)
-- **HyperPower: Power and Memory-Constrained Hyper-Parameter Optimization for Neural Networks.** (CMU, Google)
+- HyperPower: Power and Memory-Constrained Hyper-Parameter Optimization for Neural Networks. (CMU, Google)
 
 ### 2018 DAC
 - **DPS: Dynamic Precision Scaling for Stochastic Computing-Based Deep Neural Networks.** (UNIST)
