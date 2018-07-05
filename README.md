@@ -391,7 +391,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **Exploring the Programmability for Deep Learning Processors: from Architecture to Tensorization** (Univ. of Washington)
 - **LCP: Layer Clusters Paralleling Mapping Mechanism for Accelerating Inception and Residual Networks on FPGA** (THU)
 - **Ares: A Framework for Quantifying the Resilience of Deep Neural Networks** (Harvard)
-- **Loom: Exploiting Weight and Activation Precisions to Accelerate Convolutional Neural Networks** (Univ. Tronto)
+- **Loom: Exploiting Weight and Activation Precisions to Accelerate Convolutional Neural Networks** (Univ. of Toronto)
 - **Parallelizing SRAM Arrays with Customized Bit-Cell for Binary Neural Networks** (Arizona)
 
 ## Important Topics
