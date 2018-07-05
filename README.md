@@ -367,10 +367,10 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **Gist: Efficient Data Encoding for Deep Neural Network Training.** (Michigan, Microsoft, Toronto)
 - **The Dark Side of DNN Pruning.** (UPC)
 - **Neural Cache: Bit-Serial In-Cache Acceleration of Deep Neural Networks.** (Michigan)
-- **EVA^2: Exploiting Temporal Redundancy in Live Computer Vision.** (Cornell)
-- **Euphrates: Algorithm-SoC Co-Design for Low-Power Mobile Continuous Vision.** (Rochester, Georgia Tech, ARM)
-- **Feature-Driven and Spatially Folded Digital Neurons for Efficient Spiking Neural Network Simulations.** (POSTECH/Berkeley, Seoul National)
-- **Space-Time Algebra: A Model for Neocortical Computation.** (Wisconsin)
+- EVA^2: Exploiting Temporal Redundancy in Live Computer Vision. (Cornell)
+- Euphrates: Algorithm-SoC Co-Design for Low-Power Mobile Continuous Vision. (Rochester, Georgia Tech, ARM)
+- Feature-Driven and Spatially Folded Digital Neurons for Efficient Spiking Neural Network Simulations. (POSTECH/Berkeley, Seoul National)
+- Space-Time Algebra: A Model for Neocortical Computation. (Wisconsin)
 - **Scaling Datacenter Accelerators With Compute-Reuse Architectures.** (Princeton)
 - **Enabling Scientific Computing on Memristive Accelerators.** (Rochester)
 
@@ -391,7 +391,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **Exploring the Programmability for Deep Learning Processors: from Architecture to Tensorization** (Univ. of Washington)
 - **LCP: Layer Clusters Paralleling Mapping Mechanism for Accelerating Inception and Residual Networks on FPGA** (THU)
 - **Ares: A Framework for Quantifying the Resilience of Deep Neural Networks** (Harvard)
-- **Loom: Exploiting Weight and Activation Precisions to Accelerate Convolutional Neural Networks** (Univ. Tronto)
+- **Loom: Exploiting Weight and Activation Precisions to Accelerate Convolutional Neural Networks** (Univ. of Toronto)
 - **Parallelizing SRAM Arrays with Customized Bit-Cell for Binary Neural Networks** (Arizona)
 
 ## Important Topics
