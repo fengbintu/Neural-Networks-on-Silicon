@@ -391,6 +391,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **DyHard-DNN: Even More DNN Acceleration With Dynamic Hardware Reconfiguration.** (Univ. of Virginia)
 - **Exploring the Programmability for Deep Learning Processors: from Architecture to Tensorization.** (Univ. of Washington)
 - **LCP: Layer Clusters Paralleling Mapping Mechanism for Accelerating Inception and Residual Networks on FPGA.** (THU)
+- **A Kernel Decomposition Architecture for Binary-weight Convolutional Neural Networks.** (THU)
 - **Ares: A Framework for Quantifying the Resilience of Deep Neural Networks.** (Harvard)
 - **ThUnderVolt: Enabling Aggressive Voltage Underscaling and Timing Error Resilience for Energy Efficient
 Deep Learning Accelerators** (New York Univ., IIT Kanpur)
@@ -504,7 +505,7 @@ This is a collection of papers on other important topics related to neural netwo
  - [NVIDIA](http://www.nvidia.com/)
    - Jetson TX1: Embedded visual computing developing platform.
    - DGX-1: Deep learning supercomputer.
-   - Tesla V100: A Data center GPU with Tensor Cores inside.
+   - Tesla V100: A data center GPU with Tensor Cores inside.
    - [NVDLA](http://nvdla.org/): The NVIDIA Deep Learning Accelerator (NVDLA) is a free and open architecture that promotes a standard way to design deep learning inference accelerators.
  - Google
    - TPU (Tensor Processing Unit).
