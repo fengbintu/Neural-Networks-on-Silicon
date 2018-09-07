@@ -9,7 +9,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - 2015: [ISCA](#2015-isca), [ASPLOS](#2015-asplos), [FPGA](#2015-fpga), [DAC](#2015-dac)
    - 2016: [ISSCC](#2016-isscc), [ISCA](#2016-isca), [MICRO](#2016-micro), [HPCA](#2016-hpca), [DAC](#2016-dac), [FPGA](#2016-fpga), [ICCAD](#2016-iccad), [DATE](#2016-date), [ASPDAC](#2016-aspdac), [VLSI](#2016-vlsi), [FPL](#2016-fpl)
    - 2017: [ISSCC](#2017-isscc), [ISCA](#2017-isca), [MICRO](#2017-micro), [HPCA](#2017-hpca), [ASPLOS](#2017-asplos), [DAC](#2017-dac), [FPGA](#2017-fpga), [ICCAD](#2017-iccad), [DATE](#2017-date), [VLSI](#2017-vlsi), [FCCM](#2017-fccm), [HotChips](#2017-hotchips)
-   - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [FPGA](#2018-fpga), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [DAC](#2018-dac)
+   - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [Hotchips](#2018-hotchips)
 
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey)
@@ -386,13 +386,36 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - HyperPower: Power and Memory-Constrained Hyper-Parameter Optimization for Neural Networks. (CMU, Google)
 
 ### 2018 DAC
+- **Calibrating Process Variation at System Level with In-Situ Low-Precision Transfer Learning for Analog Neural Network Processors.** (THU)
 - **DPS: Dynamic Precision Scaling for Stochastic Computing-Based Deep Neural Networks.** (UNIST)
 - **DyHard-DNN: Even More DNN Acceleration With Dynamic Hardware Reconfiguration.** (Univ. of Virginia)
 - **Exploring the Programmability for Deep Learning Processors: from Architecture to Tensorization.** (Univ. of Washington)
 - **LCP: Layer Clusters Paralleling Mapping Mechanism for Accelerating Inception and Residual Networks on FPGA.** (THU)
+- **A Kernel Decomposition Architecture for Binary-weight Convolutional Neural Networks.** (THU)
 - **Ares: A Framework for Quantifying the Resilience of Deep Neural Networks.** (Harvard)
+- **ThUnderVolt: Enabling Aggressive Voltage Underscaling and Timing Error Resilience for Energy Efficient
+Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **Loom: Exploiting Weight and Activation Precisions to Accelerate Convolutional Neural Networks.** (Univ. of Toronto)
 - **Parallelizing SRAM Arrays with Customized Bit-Cell for Binary Neural Networks.** (Arizona)
+- **Compensated-DNN: Energy Efficient Low-Precision Deep Neural Networks by Compensating Quantization Errors.** (Purdue, IBM)
+- **Thermal-Aware Optimizations of ReRAM-Based Neuromorphic Computing Systems.** (Northwestern Univ.)
+- **SNrram: An Efficient Sparse Neural Network Computation Architecture Based on Resistive RandomAccess Memory.** (THU, UCSB)
+- **Long Live TIME: Improving Lifetime for Training-In-Memory Engines by Structured Gradient Sparsification.** (THU, CAS, MIT)
+- **Bandwidth-Efficient Deep Learning.** (MIT, Stanford)
+- **Co-Design of Deep Neural Nets and Neural Net Accelerators for Embedded Vision Applications.** (Berkeley)
+- **Sign-Magnitude SC: Getting 10X Accuracy for Free in Stochastic Computing for Deep Neural Networks.** (UNIST)
+- **DrAcc: A DRAM Based Accelerator for Accurate CNN Inference.** (National Univ. of Defense Technology, Indiana Univ., Univ. of Pittsburgh)
+- **On-Chip Deep Neural Network Storage With Multi-Level eNVM.** (Harvard)
+- VRL-DRAM: Improving DRAM Performance via Variable Refresh Latency. (Drexel Univ. ETHZ)
+
+### 2018 Hotchips
+- **ARM's First Generation ML Processor.** (ARM)
+- **The NVIDIA Deep Learning Accelerator.** (NVIDIA)
+- **Xilinx Tensor Processor: An Inference Engine, Network Compiler + Runtime for Xilinx FPGAs.** (Xilinx)
+- Tachyum Cloud Chip for Hyperscale workloads, deep ML, general, symbolic and bio AI. (Tachyum)
+- SMIV: A 16nm SoC with Efficient and Flexible DNN Acceleration for Intelligent IoT Devices. (ARM)
+- NVIDIA's Xavier System-on-Chip. (NVIDIA)
+- Xilinx Project Everest: HW/SW Programmable Engine. (Xilinx)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
@@ -491,14 +514,13 @@ This is a collection of papers on other important topics related to neural netwo
  - [NVIDIA](http://www.nvidia.com/)
    - Jetson TX1: Embedded visual computing developing platform.
    - DGX-1: Deep learning supercomputer.
-   - Tesla V100: A Data center GPU with Tensor Cores inside.
+   - Tesla V100: A data center GPU with Tensor Cores inside.
    - [NVDLA](http://nvdla.org/): The NVIDIA Deep Learning Accelerator (NVDLA) is a free and open architecture that promotes a standard way to design deep learning inference accelerators.
  - Google
    - TPU (Tensor Processing Unit).
-   - Cloud TPU: Train and run machine learning models.
+   - [TPUv2](https://www.nextplatform.com/2017/05/22/hood-googles-tpu2-machine-learning-clusters/): Train and run machine learning models.
+   - [TPUv3](https://www.nextplatform.com/2018/05/10/tearing-apart-googles-tpu-3-0-ai-coprocessor/): Liquid cooling.
  - [Nervana](https://www.nervanasys.com/)
    - Nervana Engine: Hardware optimized for deep learning.
  - [Wave Computing](http://wavecomp.com/)
    - Clockless **CGRA** architecture.
-
-
