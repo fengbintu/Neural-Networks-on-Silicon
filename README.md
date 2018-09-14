@@ -436,6 +436,22 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - Defensive Dropout for Hardening Deep Neural Networks under Adversarial Attacks. (Northeastern Univ., Boston Univ., Florida International Univ.)
 - A Cross-Layer Methodology for Design and Optimization of Networks in 2.5D Systems. (Boston Univ., UCSD)
 
+### 2018 MICRO
+- **Addressing Irregularity in Sparse Neural Networks:A Cooperative Software/Hardware Approach.** (USTC, CAS)
+- **Diffy: a Deja vu-Free Differential Deep Neural Network Accelerator.** (University of Toronto)
+- **Beyond the Memory Wall: A Case for Memory-centric HPC System for Deep Learning.** (KAIST)
+- **Towards Memory Friendly Long-Short Term Memory Networks (LSTMs) on Mobile GPUs.** (University of Houston, Capital Normal University)
+- **A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks.** (UIUC, THU, SJTU, Intel, UCSD)
+- **PermDNN: Efficient Compressed Deep Neural Network Architecture with Permuted Diagonal Matrices.** (City University of New York, University of Minnesota, USC)
+- **GeneSys: Enabling Continuous Learning through Neural Network Evolution in Hardware.** (Georgia Tech)
+- **Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach.** (UCM, UCSD, UCSC)
+- **LerGAN: A Zero-free, Low Data Movement and PIM-based GAN Architecture.** (THU, University of Florida)
+- **Multi-dimensional Parallel Training of Winograd Layer through Distributed Near-Data Processing.** (KAIST)
+- **SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator.** (UCSB, Samsung)
+- **Morph: Flexible Acceleration for 3D CNN-based Video Understanding.** (UIUC)
+- Inter-thread Communication in Multithreaded, Reconfigurable Coarse-grain Arrays. (Technion)
+An Architectural Framework for Accelerating Dynamic Parallel Algorithms on Reconfigurable Hardware. (Cornell)
+
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
@@ -457,6 +473,8 @@ This is a collection of papers on other important topics related to neural netwo
 - **VGG**: Very Deep Convolutional Networks for Large-Scale Image Recognition. (Univerisity of Oxford, **2015 ICLR**)
 - **GoogLeNet**: Going Deeper with Convolutions. (Google, University of North Carolina, University of Michigan, **2015 CVPR**)
 - **ResNet**: Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification. (MSRA, **2015 ICCV**)
+- **MobileNetV1**: [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications.](https://arxiv.org/abs/1704.04861)  [[code]](https://github.com/tensorflow/models/tree/master/research/slim) (Google, **2017 CVPR**)
+- **MobileNetV2**: [MobileNetV2: Inverted Residuals and Linear Bottlenecks.](https://arxiv.org/abs/1801.04381) [[code]](https://github.com/tensorflow/models/tree/master/research/slim) (Google, **2018 CVPR**)
 
 ### Network Compression
 - [Neural Network Distiller](https://nervanasystems.github.io/distiller/index.html): Intel's open-source Python package for neural network compression research. [[Chinese]](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650744106&idx=4&sn=6e101276f64a9c91b8dc24b89ddaeec3&chksm=871ae154b06d6842c3cc376242322298db0288ab696e92fac4268be8c85b75daa81d72d763ad&mpshare=1&scene=1&srcid=0622gO3XXgG8qIvMWxc8Sj11#rd)
@@ -486,6 +504,7 @@ This is a collection of papers on other important topics related to neural netwo
 - [Training and Inference with Integers in Deep Neural Networks.](https://arxiv.org/abs/1802.04680) [[code]](https://github.com/boluoweifenda/WAGE) (Tsinghua, **2018 ICLR**)
   - *A new method termed as "WAGE" to discretize both training and inference, where weights (W), activations (A), gradients (G) and errors (E) among layers are shifted and linearly constrained to low-bitwidth integers.*
   - *Training in hardware systems such as integer-based deep learning accelerators and neuromorphic chips with comparable accuracy and higher energy efficiency, which is crucial to future AI applications in variable scenarios with transfer and continual learning demands.*
+- [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494) (CMU, Google, MIT, **2018 ECCV**)
 
 #### arXiv Papers
 - [Reduced-Precision Strategies for Bounded Memory in Deep Neural Nets.](https://arxiv.org/abs/1511.05236) (University of Toronto, University of British Columbia)
@@ -500,7 +519,6 @@ This is a collection of papers on other important topics related to neural netwo
 - [Exploring the Regularity of Sparse Structure in Convolutional Neural Networks.](https://arxiv.org/abs/1705.08922) (Stanford, NVIDIA, Tsinghua)
   - *Coarser-grained pruning can save memory storage and access while maintaining the accuracy.*
 - [A Quantization-Friendly Separable Convolution for MobileNets.](https://arxiv.org/abs/1803.08607) (Qualcomm)
-- [ADC: Automated Deep Compression and Acceleration with Reinforcement Learning.](https://arxiv.org/abs/1802.03494) (XJTU, MIT)
 
 ### Other Topics
 
@@ -510,22 +528,19 @@ This is a collection of papers on other important topics related to neural netwo
   - *D is trained to learn the above probability*.
   - *G is trained to maximize the probability of D making a mistake.*.
 
-#### Kaiming He
-- [Mask R-CNN.](https://arxiv.org/abs/1703.06870) [[code]](https://github.com/facebookresearch/Detectron) (FAIR, **2017 ICCV Best Paper**)
+#### NAS
 
 #### Others
 - [You Only Look Once: Unified, Real-Time Object Detection.](https://arxiv.org/abs/1506.02640) [[code]](https://github.com/gliese581gg/YOLO_tensorflow) (University of Washington, Allen Institute for AI, Facebook AI Research, **2016 CVPR**)
 - [A-Fast-RCNN: Hard positive generation via adversary for object detection.](https://arxiv.org/abs/1704.03414) (CMU, **2017 CVPR**)
 - [Dilated Residual Networks](https://arxiv.org/abs/1705.09914). [[code]](https://github.com/fyu/drn) (Princeton, Intel, **2017 CVPR**)
 - [Deformable Convolutional Networks.](https://arxiv.org/abs/1703.06211) [[code]](https://github.com/msracver/Deformable-ConvNets) (MSRA, **2017 ICCV**)
-- [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications.](https://arxiv.org/abs/1704.04861)  [[code]](https://github.com/tensorflow/models/tree/master/research/slim) (Google **2017 CVPR**)
 - [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices.](https://arxiv.org/abs/1707.01083) (Megvii, **2017 CVPR**)
 - [Federated Optimization: Distributed Machine Learning for On-Device Intelligence.](https://arxiv.org/abs/1610.02527) (University of Edinburgh, Google)
 - [Deep Complex Networks.](https://arxiv.org/abs/1705.09792) (Université de Montréal, Element AI)
 - [One Model To Learn Them All.](https://arxiv.org/abs/1706.05137) (Google, University of Toronto)
 - [Densely Connected Convolutional Networks.](https://arxiv.org/abs/1608.06993) (Cornell, Tsinghua, FAIR, **2017 CVPR**)
 - [YOLO9000: Better, Faster, Stronger.](https://arxiv.org/abs/1612.08242) [[code]](https://github.com/longcw/yolo2-pytorch) (University of Washington, **2017 CVPR**)
-- [MobileNetV2: Inverted Residuals and Linear Bottlenecks.](https://arxiv.org/abs/1801.04381) [[code]](https://github.com/tensorflow/models/tree/master/research/slim) (Google, **2018 CVPR**)
 
 ## Industry Contributions
  - [Movidius](http://www.movidius.com/)
