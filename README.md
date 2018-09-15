@@ -450,7 +450,7 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator.** (UCSB, Samsung)
 - **Morph: Flexible Acceleration for 3D CNN-based Video Understanding.** (UIUC)
 - Inter-thread Communication in Multithreaded, Reconfigurable Coarse-grain Arrays. (Technion)
-An Architectural Framework for Accelerating Dynamic Parallel Algorithms on Reconfigurable Hardware. (Cornell)
+- An Architectural Framework for Accelerating Dynamic Parallel Algorithms on Reconfigurable Hardware. (Cornell)
 
 
 ## Important Topics
