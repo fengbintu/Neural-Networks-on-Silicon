@@ -386,6 +386,9 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - HyperPower: Power and Memory-Constrained Hyper-Parameter Optimization for Neural Networks. (CMU, Google)
 
 ### 2018 DAC
+- **Compensated-DNN: Energy Efficient Low-Precision Deep Neural Networks by Compensating Quantization Errors.** (**Best Paper**, Purdue, IBM)
+  - *Introduce a new fixed-point representation, Fixed Point with Error Compensation (FPEC): Computation bits, +compensation bits that represent quantization error.*
+  - *Propose a low-overhead sparse compensation scheme to estimate the error in MAC design.*
 - **Calibrating Process Variation at System Level with In-Situ Low-Precision Transfer Learning for Analog Neural Network Processors.** (THU)
 - **DPS: Dynamic Precision Scaling for Stochastic Computing-Based Deep Neural Networks.** (UNIST)
 - **DyHard-DNN: Even More DNN Acceleration With Dynamic Hardware Reconfiguration.** (Univ. of Virginia)
@@ -397,7 +400,6 @@ This is a collection of conference papers that interest me. The emphasis is focu
 Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **Loom: Exploiting Weight and Activation Precisions to Accelerate Convolutional Neural Networks.** (Univ. of Toronto)
 - **Parallelizing SRAM Arrays with Customized Bit-Cell for Binary Neural Networks.** (Arizona)
-- **Compensated-DNN: Energy Efficient Low-Precision Deep Neural Networks by Compensating Quantization Errors.** (Purdue, IBM)
 - **Thermal-Aware Optimizations of ReRAM-Based Neuromorphic Computing Systems.** (Northwestern Univ.)
 - **SNrram: An Efficient Sparse Neural Network Computation Architecture Based on Resistive RandomAccess Memory.** (THU, UCSB)
 - **Long Live TIME: Improving Lifetime for Training-In-Memory Engines by Structured Gradient Sparsification.** (THU, CAS, MIT)
