@@ -297,6 +297,10 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices.** (Syracuse University, City University of New York, USC, California State University, Northeastern University)
 - **Addressing Compute and Memory Bottlenecks for DNN Execution on GPUs.** (University of Michigan)
 - DRISA: A DRAM-based Reconfigurable In-Situ Accelerator. (UCSB, Samsung)
+- Scale-Out Acceleration for Machine Learning. (Georgia Tech, UCSD)
+- DeftNN: Addressing Bottlenecks for DNN Execution on GPUs via Synapse Vector Elimination and Near-compute Data Fission. (Univ. of Michigan, Univ. of Nevada)
+- Data Movement Aware Computation Partitioning. (PSU, TOBB University of Economics and Technology)
+  - *Partition computation on a manycore system for near data processing.*
 
 ### 2018 ASPDAC
 - **ReGAN: A Pipelined ReRAM-Based Accelerator for Generative Adversarial Networks.** (University of Pittsburgh, Duke)
@@ -353,7 +357,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 
 ### 2018 ISCA
 - **RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM.** (THU)
-- **A Configurable Cloud-Scale DNN Processor for Real-Time AI.** (Microsoft)
+- **Brainwave: A Configurable Cloud-Scale DNN Processor for Real-Time AI.** (Microsoft)
 - **PROMISE: An End-to-End Design of a Programmable Mixed-Signal Accelerator for Machine Learning Algorithms.** (UIUC)
 - **Computation Reuse in DNNs by Exploiting Input Similarity.** (UPC)
 - **GANAX: A Unified SIMD-MIMD Acceleration for Generative Adversarial Network.** (Georiga Tech, IPM, Qualcomm, UCSD, UIUC)
@@ -370,15 +374,16 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - Feature-Driven and Spatially Folded Digital Neurons for Efficient Spiking Neural Network Simulations. (POSTECH/Berkeley, Seoul National)
 - Space-Time Algebra: A Model for Neocortical Computation. (Wisconsin)
 - Scaling Datacenter Accelerators With Compute-Reuse Architectures. (Princeton)
+   - *Add a NVM-based storage layer to the accelerator, for computation reuse.*
 - Enabling Scientific Computing on Memristive Accelerators. (Rochester)
 
 ### 2018 DATE
 - **MATIC: Learning Around Errors for Efficient Low-Voltage Neural Network Accelerators.** (University of Washington)
-   - *Learns around errors resulting from SRAM voltage scaling, demonstrated on a fabricated 65nm test chip.*
+   - *Learn around errors resulting from SRAM voltage scaling, demonstrated on a fabricated 65nm test chip.*
 - **Maximizing System Performance by Balancing Computation Loads in LSTM Accelerators.** (POSTECH)
    - *Sparse matrix format that load balances computation, demonstrated for LSTMs.*
 - **CCR: A Concise Convolution Rule for Sparse Neural Network Accelerators.** (CAS)
-   - *Decomposes convolution into multiple dense and zero kernels for sparsity savings.*
+   - *Decompose convolution into multiple dense and zero kernels for sparsity savings.*
 - **Block Convolution: Towards Memory-Efficient Inference of Large-Scale CNNs on FPGA.** (CAS)
 - **moDNN: Memory Optimal DNN Training on GPUs.** (University of Notre Dame, CAS)
 - HyperPower: Power and Memory-Constrained Hyper-Parameter Optimization for Neural Networks. (CMU, Google)
