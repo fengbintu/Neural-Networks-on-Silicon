@@ -126,6 +126,8 @@ This is a collection of conference papers that interest me. The emphasis is focu
   - *Use dynamic precision for different CONV layers, and scales down the MAC array's supply voltage at lower precision.*
   - *Prevent memory fetches and MAC operations based on the ReLU sparsity.*
 - **A 1.40mm2 141mW 898GOPS Sparse Neuromorphic Processor in 40nm CMOS.** (University of Michigan)
+- A 58.6mW Real-Time Programmable Object Detector with Multi-Scale Multi-Object Support Using Deformable Parts Model on 1920x1080 Video at 30fps. (MIT)
+- A Machine-learning Classifier Implemented in a Standard 6T SRAM Array. (Princeton)
 
 ### 2016 ICCAD
 - **Efficient Memory Compression in Deep Neural Networks Using Coarse-Grain Sparsification for Speech Applications.** (Arizona State University)
@@ -214,7 +216,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
   - *An Extension of their FPL'16 paper.*
 - **In-Datacenter Performance Analysis of a Tensor Processing Unit.** (Google)
 - **SCALEDEEP: A Scalable Compute Architecture for Learning and Evaluating Deep Networks.** (Purdue University, Intel)
-  - *Propose a full-system (server node) architecture, focusing on the challenge of DNN training ().*
+  - *Propose a full-system (server node) architecture, focusing on the challenge of DNN training (intra and inter-layer heterogeneity).*
 - **SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks.** (NVIDIA, MIT, UC Berkeley, Stanford University)
 - **Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism.** (University of Michigan, ARM)
 - Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent. (Stanford)
@@ -443,7 +445,7 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - A Cross-Layer Methodology for Design and Optimization of Networks in 2.5D Systems. (Boston Univ., UCSD)
 
 ### 2018 MICRO
-- **Addressing Irregularity in Sparse Neural Networks:A Cooperative Software/Hardware Approach.** (USTC, CAS)
+- **Addressing Irregularity in Sparse Neural Networks: A Cooperative Software/Hardware Approach.** (USTC, CAS)
 - **Diffy: a Deja vu-Free Differential Deep Neural Network Accelerator.** (University of Toronto)
 - **Beyond the Memory Wall: A Case for Memory-centric HPC System for Deep Learning.** (KAIST)
 - **Towards Memory Friendly Long-Short Term Memory Networks (LSTMs) on Mobile GPUs.** (University of Houston, Capital Normal University)
