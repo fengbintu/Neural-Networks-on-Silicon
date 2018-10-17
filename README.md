@@ -300,7 +300,8 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices.** (Syracuse University, City University of New York, USC, California State University, Northeastern University)
 - **Addressing Compute and Memory Bottlenecks for DNN Execution on GPUs.** (University of Michigan)
 - DRISA: A DRAM-based Reconfigurable In-Situ Accelerator. (UCSB, Samsung)
-- Scale-Out Acceleration for Machine Learning. (Georgia Tech, UCSD)
+- **Scale-Out Acceleration for Machine Learning.** (Georgia Tech, UCSD)
+  - Propose CoSMIC, a full computing stack constituting language, compiler, system software, template architecture, and circuit generators, that enable programmable acceleration of learning at scale.
 - DeftNN: Addressing Bottlenecks for DNN Execution on GPUs via Synapse Vector Elimination and Near-compute Data Fission. (Univ. of Michigan, Univ. of Nevada)
 - Data Movement Aware Computation Partitioning. (PSU, TOBB University of Economics and Technology)
   - *Partition computation on a manycore system for near data processing.*
