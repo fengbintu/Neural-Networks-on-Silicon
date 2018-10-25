@@ -92,6 +92,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
    - *Propose an architecture integrated in 3D DRAM, with a mesh-like NOC in the logic layer.*
    - *Detailedly describe the data movements in the NOC.*
  - ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars. (University of Utah, HP Labs)
+   - *An advance over ISAAC has been published in "Newton: Gravitating Towards the Physical Limits of Crossbar Acceleration" (IEEE Micro).*
  - A Novel Processing-in-memory Architecture for Neural Network Computation in ReRAM-based Main Memory. (UCSB, HP Labs, NVIDIA, Tsinghua University)
  - RedEye: Analog ConvNet Image Sensor Architecture for Continuous Mobile Vision. (Rice University)
  - Cambricon: An Instruction Set Architecture for Neural Networks. (Chinese Academy of Sciences, UCSB)
@@ -454,8 +455,10 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **PermDNN: Efficient Compressed Deep Neural Network Architecture with Permuted Diagonal Matrices.** (City University of New York, University of Minnesota, USC)
 - **GeneSys: Enabling Continuous Learning through Neural Network Evolution in Hardware.** (Georgia Tech)
 - **Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach.** (UCM, UCSD, UCSC)
+  - Schedules computing resources provided by CPU and heterogeneous PIMs (fixed-function logic + programmable ARM cores), to optimized energy efficiency and hardware utilization.
 - **LerGAN: A Zero-free, Low Data Movement and PIM-based GAN Architecture.** (THU, University of Florida)
 - **Multi-dimensional Parallel Training of Winograd Layer through Distributed Near-Data Processing.** (KAIST)
+  - Winograd is applied to training to extend traditional data parallelsim with a new dimension named intra-tile parallelism. With intra-tile parallelism, nodes ara dividied into several groups, and weight update communication only occurs independtly in the group. The method shows better scalability for training clusters, as the total commnication doesn't scale with the increasing of node count.
 - **SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator.** (UCSB, Samsung)
 - **Morph: Flexible Acceleration for 3D CNN-based Video Understanding.** (UIUC)
 - Inter-thread Communication in Multithreaded, Reconfigurable Coarse-grain Arrays. (Technion)
