@@ -261,11 +261,13 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **DVAFS: Trading Computational Accuracy for Energy Through Dynamic-Voltage-Accuracy-Frequency-Scaling.** (KU Leuven)
 - **Accelerator-friendly Neural-network Training: Learning Variations and Defects in RRAM Crossbar.** (Shanghai Jiao Tong University, University of Pittsburgh, Lynmax Research)
 - **A Novel Zero Weight/Activation-Aware Hardware Architecture of Convolutional Neural Network.** (Seoul National University)
+  - *Solve the zero-induced load imbalance problem.*
 - **Understanding the Impact of Precision Quantization on the Accuracy and Energy of Neural Networks.** (Brown University)
 - **Design Space Exploration of FPGA Accelerators for Convolutional Neural Networks.** (Samsung, UNIST, Seoul National University)
 - **MoDNN: Local Distributed Mobile Computing System for Deep Neural Network.** (University of Pittsburgh, George Mason University, University of Maryland)
 - **Chain-NN: An Energy-Efficient 1D Chain Architecture for Accelerating Deep Convolutional Neural Networks.** (Waseda University)
 - **LookNN: Neural Network with No Multiplication.** (UCSD)
+  - *Cluster weights and use LUT to avoid multiplication.*
 - Energy-Efficient Approximate Multiplier Design using Bit Significance-Driven Logic Compression. (Newcastle University)
 - Revamping Timing Error Resilience to Tackle Choke Points at NTC Systems. (Utah State University)
 
@@ -277,12 +279,12 @@ This is a collection of conference papers that interest me. The emphasis is focu
 
 ### 2017 ICCAD
 - **AEP: An Error-bearing Neural Network Accelerator for Energy Efficiency and Model Protection.** (University of Pittsburgh)
-- VoCaM: Visualization oriented convolutional neural network acceleration on mobile system.
-- AdaLearner: An Adaptive Distributed Mobile Learning System for Neural Networks.
-- MeDNN: A Distributed Mobile System with Enhanced Partition and Deployment for Large-Scale DNNs.
-- TraNNsformer: Neural Network Transformation for Memristive Crossbar based Neuromorphic System Design. (Purdue University).
-- A Closed-loop Design to Enhance Weight Stability of Memristor Based Neural Network Chips.
-- Fault injection attack on deep neural network.
+- VoCaM: Visualization oriented convolutional neural network acceleration on mobile system. (George Mason University, Duke)
+- AdaLearner: An Adaptive Distributed Mobile Learning System for Neural Networks. (Duke)
+- MeDNN: A Distributed Mobile System with Enhanced Partition and Deployment for Large-Scale DNNs. (Duke)
+- TraNNsformer: Neural Network Transformation for Memristive Crossbar based Neuromorphic System Design. (Purdue).
+- A Closed-loop Design to Enhance Weight Stability of Memristor Based Neural Network Chips. (Duke)
+- Fault injection attack on deep neural network. (CUHK)
 - ORCHARD: Visual Object Recognition Accelerator Based on Approximate In-Memory Processing. (UCSD)
 
 ### 2017 HotChips
@@ -296,11 +298,10 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - XPU: A programmable FPGA Accelerator for diverse workloads. (Baidu)
 
 ### 2017 MICRO
-- **Distributed FPGA Acceleration for Learning.** (Georgia Tech, UCSD)
 - **Bit-Pragmatic Deep Neural Network Computing.** (NVIDIA, University of Toronto)
 - **CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices.** (Syracuse University, City University of New York, USC, California State University, Northeastern University)
 - **Addressing Compute and Memory Bottlenecks for DNN Execution on GPUs.** (University of Michigan)
-- DRISA: A DRAM-based Reconfigurable In-Situ Accelerator. (UCSB, Samsung)
+- **DRISA: A DRAM-based Reconfigurable In-Situ Accelerator.** (UCSB, Samsung)
 - **Scale-Out Acceleration for Machine Learning.** (Georgia Tech, UCSD)
   - Propose CoSMIC, a full computing stack constituting language, compiler, system software, template architecture, and circuit generators, that enable programmable acceleration of learning at scale.
 - DeftNN: Addressing Bottlenecks for DNN Execution on GPUs via Synapse Vector Elimination and Near-compute Data Fission. (Univ. of Michigan, Univ. of Nevada)
@@ -416,7 +417,7 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **Sign-Magnitude SC: Getting 10X Accuracy for Free in Stochastic Computing for Deep Neural Networks.** (UNIST)
 - **DrAcc: A DRAM Based Accelerator for Accurate CNN Inference.** (National Univ. of Defense Technology, Indiana Univ., Univ. of Pittsburgh)
 - **On-Chip Deep Neural Network Storage With Multi-Level eNVM.** (Harvard)
-- VRL-DRAM: Improving DRAM Performance via Variable Refresh Latency. (Drexel Univ. ETHZ)
+- VRL-DRAM: Improving DRAM Performance via Variable Refresh Latency. (Drexel Univ., ETHZ)
 
 ### 2018 HotChips
 - **ARM's First Generation ML Processor.** (ARM)
