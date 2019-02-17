@@ -10,7 +10,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - 2016: [ISSCC](#2016-isscc), [ISCA](#2016-isca), [MICRO](#2016-micro), [HPCA](#2016-hpca), [DAC](#2016-dac), [FPGA](#2016-fpga), [ICCAD](#2016-iccad), [DATE](#2016-date), [ASPDAC](#2016-aspdac), [VLSI](#2016-vlsi), [FPL](#2016-fpl)
    - 2017: [ISSCC](#2017-isscc), [ISCA](#2017-isca), [MICRO](#2017-micro), [HPCA](#2017-hpca), [ASPLOS](#2017-asplos), [DAC](#2017-dac), [FPGA](#2017-fpga), [ICCAD](#2017-iccad), [DATE](#2017-date), [VLSI](#2017-vlsi), [FCCM](#2017-fccm), [HotChips](#2017-hotchips)
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [MICRO](#2018-micro), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [ICCAD](#2018-iccad), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [HotChips](#2018-hotchips)
-   - 2019: [ASPDAC](#2019-aspdac)
+   - 2019: [ISSCC](#2019-isscc), [ASPDAC](#2019-aspdac)
 
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey)
@@ -472,6 +472,23 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **NeuralHMC: An Efficient HMC-Based Accelerator for Deep Neural Networks.** (University of Pittsburgh, Duke)
 - **P3M: A PIM-based Neural Network Model Protection Scheme for Deep Learning Accelerator.** (ICT)
 - GraphSAR: A Sparsity-Aware Processing-in-Memory Architecture for Large-Scale Graph Processing on ReRAMs. (Tsinghua, MIT, Berkely)
+
+### 2019 ISSCC
+- **An 11.5TOPS/W 1024-MAC Butterfly Structure Dual-Core Sparsity-Aware Neural Processing Unit in 8nm Flagship Mobile SoC.** (Samsung)
+- **A 20.5TOPS and 217.3GOPS/mm2 Multicore SoC with DNN Accelerator and Image Signal Processor Complying with ISO26262 for Automotive Applications.** (Toshiba)
+- **An 879GOPS 243mW 80fps VGA Fully Visual CNN-SLAM Processor for Wide-Range Autonomous Exploration.** (Michigan)
+- **A 2.1TFLOPS/W Mobile Deep RL Accelerator with Transposable PE Array and Experience Compression.** (KAIST)
+- **A 65nm 0.39-to-140.3TOPS/W 1-to-12b Unified Neural-Network Processor Using Block-Circulant-Enabled Transpose-Domain Acceleration with 8.1× Higher TOPS/mm2 and 6T HBST-TRAM-Based 2D Data-Reuse Architecture.** (THU, National Tsing Hua University, Northeastern University)
+- **A 65nm 236.5nJ/Classification Neuromorphic Processor with 7.5% Energy Overhead On-Chip Learning Using Direct Spike-Only Feedback.** (SNU)
+- **LNPU: A 25.3TFLOPS/W Sparse Deep-Neural-Network Learning Processor with Fine-Grained Mixed Precision of FP8-FP16.** (KAIST)
+- A 1Mb Multibit ReRAM Computing-In-Memory Macro with 14.6ns Parallel MAC Computing Time for CNN-Based AI Edge Processors. (National Tsing Hua University)
+- Sandwich-RAM: An Energy-Efficient In-Memory BWN Architecture with Pulse-Width Modulation. (Southeast University, Boxing Electronics, THU)
+- A Twin-8T SRAM Computation-In-Memory Macro for Multiple-Bit CNNBased Machine Learning. (National Tsing Hua University, University of Electronic Science and Technology of China, ASU, Geogia Tech)
+- A Reconfigurable RRAM Physically Unclonable Function Utilizing PostProcess Randomness Source with <6×10-6 Native Bit Error Rate. (THU, National Tsing Hua University, Geogia Tech)
+- A 65nm 1.1-to-9.1TOPS/W Hybrid-Digital-Mixed-Signal Computing Platform for Accelerating Model-Based and Model-Free Swarm Robotics. (Georgia Tech)
+- A Compute SRAM with Bit-Serial Integer/Floating-Point Operations for Programmable In-Memory Vector Acceleration. (Michigan)
+- All-Digital Time-Domain CNN Engine Using Bidirectional Memory Delay Lines for Energy-Efficient Edge Computing. (UT Austin)
+
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
