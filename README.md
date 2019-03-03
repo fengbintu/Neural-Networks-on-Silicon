@@ -335,6 +335,10 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **Towards Efficient Microarchitectural Design for Accelerating Unsupervised GAN-based Deep Learning.** (University of Florida)
 - **Compressing DMA Engine: Leveraging Activation Sparsity for Training Deep Neural Networks.** (POSTECH, NVIDIA, UT-Austin)
 - **In-situ AI: Towards Autonomous and Incremental Deep Learning for IoT Systems.** (University of Florida, Chongqing University, Capital Normal University)
+- RC-NVM: Enabling Symmetric Row and Column Memory Accesses for In-Memory Databases. (PKU, NUDT, Duke, UCLA, PSU)
+- GraphR: Accelerating Graph Processing Using ReRAM. (Duke, USC, Binghamton University SUNY)
+- GraphP: Reducing Communication of PIM-based Graph Processing with Efficient Data Partition. (THU, USC, Stanford)
+- PM3: Power Modeling and Power Management for Processing-in-Memory. (PKU)
 
 ### 2018 ASPLOS
 - **Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler.** (Tsinghua, UCSB)
