@@ -10,7 +10,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - 2016: [ISSCC](#2016-isscc), [ISCA](#2016-isca), [MICRO](#2016-micro), [HPCA](#2016-hpca), [DAC](#2016-dac), [FPGA](#2016-fpga), [ICCAD](#2016-iccad), [DATE](#2016-date), [ASPDAC](#2016-aspdac), [VLSI](#2016-vlsi), [FPL](#2016-fpl)
    - 2017: [ISSCC](#2017-isscc), [ISCA](#2017-isca), [MICRO](#2017-micro), [HPCA](#2017-hpca), [ASPLOS](#2017-asplos), [DAC](#2017-dac), [FPGA](#2017-fpga), [ICCAD](#2017-iccad), [DATE](#2017-date), [VLSI](#2017-vlsi), [FCCM](#2017-fccm), [HotChips](#2017-hotchips)
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [MICRO](#2018-micro), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [ICCAD](#2018-iccad), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [HotChips](#2018-hotchips)
-   - 2019: [ISSCC](#2019-isscc), [ASPDAC](#2019-aspdac)
+   - 2019: [ISSCC](#2019-isscc), [HPCA](#2019-hpca), [ASPDAC](#2019-aspdac)
 
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey)
@@ -492,6 +492,15 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - A 65nm 1.1-to-9.1TOPS/W Hybrid-Digital-Mixed-Signal Computing Platform for Accelerating Model-Based and Model-Free Swarm Robotics. (Georgia Tech)
 - A Compute SRAM with Bit-Serial Integer/Floating-Point Operations for Programmable In-Memory Vector Acceleration. (Michigan)
 - All-Digital Time-Domain CNN Engine Using Bidirectional Memory Delay Lines for Energy-Efficient Edge Computing. (UT Austin)
+
+### 2019 HPCA
+- **HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array.** (Duke, USC)
+- **E-RNN: Design Optimization for Efficient Recurrent Neural Networks in FPGAs.** (Syracuse University, Northeastern University, Florida International University, USC, University at Buffalo)
+- **Bit Prudent In-Cache Acceleration of Deep Convolutional Neural Networks.** (Michigan, Intel)
+- **Shortcut Mining: Exploiting Cross-layer Shortcut Reuse in DCNN Accelerators.** (OSU)
+- **NAND-Net: Minimizing Computational Complexity of In-Memory Processing for Binary Neural Networks.** (KAIST)
+- **Kelp: QoS for Accelerators in Machine Learning Platforms.** (Microsoft, Google, UT Austin)
+- **Machine Learning at Facebook: Understanding Inference at the Edge.** (Facebook)
 
 
 ## Important Topics
