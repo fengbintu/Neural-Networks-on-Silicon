@@ -190,7 +190,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 
 ### 2017 ISSCC
 - **A 2.9TOPS/W Deep Convolutional Neural Network SoC in FD-SOI 28nm for Intelligent Embedded Systems.** (ST)
-- **DNPU: An 8.1TOPS/W Reconfigurable CNN-RNN Processor for GeneralPurpose Deep Neural Networks.** (KAIST)
+- **DNPU: An 8.1TOPS/W Reconfigurable CNN-RNN Processor for General Purpose Deep Neural Networks.** (KAIST)
 - **ENVISION: A 0.26-to-10TOPS/W Subword-Parallel Computational Accuracy-Voltage-Frequency-Scalable Convolutional Neural Network Processor in 28nm FDSOI.** (KU Leuven)
 - **A 288µW Programmable Deep-Learning Processor with 270KB On-Chip Weight Storage Using Non-Uniform Memory Hierarchy for Mobile Intelligence.** (University of Michigan, CubeWorks)
 - A 28nm SoC with a 1.2GHz 568nJ/Prediction Sparse Deep-NeuralNetwork Engine with >0.1 Timing Error Rate Tolerance for IoT Applications. (Harvard)
@@ -301,7 +301,6 @@ This is a collection of conference papers that interest me. The emphasis is focu
 ### 2017 MICRO
 - **Bit-Pragmatic Deep Neural Network Computing.** (NVIDIA, University of Toronto)
 - **CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices.** (Syracuse University, City University of New York, USC, California State University, Northeastern University)
-- **Addressing Compute and Memory Bottlenecks for DNN Execution on GPUs.** (University of Michigan)
 - **DRISA: A DRAM-based Reconfigurable In-Situ Accelerator.** (UCSB, Samsung)
 - **Scale-Out Acceleration for Machine Learning.** (Georgia Tech, UCSD)
   - Propose CoSMIC, a full computing stack constituting language, compiler, system software, template architecture, and circuit generators, that enable programmable acceleration of learning at scale.
@@ -487,8 +486,8 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **LNPU: A 25.3TFLOPS/W Sparse Deep-Neural-Network Learning Processor with Fine-Grained Mixed Precision of FP8-FP16.** (KAIST)
 - A 1Mb Multibit ReRAM Computing-In-Memory Macro with 14.6ns Parallel MAC Computing Time for CNN-Based AI Edge Processors. (National Tsing Hua University)
 - Sandwich-RAM: An Energy-Efficient In-Memory BWN Architecture with Pulse-Width Modulation. (Southeast University, Boxing Electronics, THU)
-- A Twin-8T SRAM Computation-In-Memory Macro for Multiple-Bit CNNBased Machine Learning. (National Tsing Hua University, University of Electronic Science and Technology of China, ASU, Geogia Tech)
-- A Reconfigurable RRAM Physically Unclonable Function Utilizing PostProcess Randomness Source with <6×10-6 Native Bit Error Rate. (THU, National Tsing Hua University, Geogia Tech)
+- A Twin-8T SRAM Computation-In-Memory Macro for Multiple-Bit CNNBased Machine Learning. (National Tsing Hua University, University of Electronic Science and Technology of China, ASU, Georgia Tech)
+- A Reconfigurable RRAM Physically Unclonable Function Utilizing PostProcess Randomness Source with <6×10-6 Native Bit Error Rate. (THU, National Tsing Hua University, Georgia Tech)
 - A 65nm 1.1-to-9.1TOPS/W Hybrid-Digital-Mixed-Signal Computing Platform for Accelerating Model-Based and Model-Free Swarm Robotics. (Georgia Tech)
 - A Compute SRAM with Bit-Serial Integer/Floating-Point Operations for Programmable In-Memory Vector Acceleration. (Michigan)
 - All-Digital Time-Domain CNN Engine Using Bidirectional Memory Delay Lines for Energy-Efficient Edge Computing. (UT Austin)
@@ -606,6 +605,7 @@ This is a collection of papers on other important topics related to neural netwo
    - TPU (Tensor Processing Unit).
    - [TPUv2](https://www.nextplatform.com/2017/05/22/hood-googles-tpu2-machine-learning-clusters/): Train and run machine learning models.
    - [TPUv3](https://www.nextplatform.com/2018/05/10/tearing-apart-googles-tpu-3-0-ai-coprocessor/): Liquid cooling.
+   - [Edge TPU](https://cloud.google.com/edge-tpu/): Google’s purpose-built ASIC designed to run inference at the edge.
  - [Nervana](https://www.nervanasys.com/)
    - Nervana Engine: Hardware optimized for deep learning.
  - [Wave Computing](http://wavecomp.com/)
