@@ -10,7 +10,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - 2016: [ISSCC](#2016-isscc), [ISCA](#2016-isca), [MICRO](#2016-micro), [HPCA](#2016-hpca), [DAC](#2016-dac), [FPGA](#2016-fpga), [ICCAD](#2016-iccad), [DATE](#2016-date), [ASPDAC](#2016-aspdac), [VLSI](#2016-vlsi), [FPL](#2016-fpl)
    - 2017: [ISSCC](#2017-isscc), [ISCA](#2017-isca), [MICRO](#2017-micro), [HPCA](#2017-hpca), [ASPLOS](#2017-asplos), [DAC](#2017-dac), [FPGA](#2017-fpga), [ICCAD](#2017-iccad), [DATE](#2017-date), [VLSI](#2017-vlsi), [FCCM](#2017-fccm), [HotChips](#2017-hotchips)
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [MICRO](#2018-micro), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [ICCAD](#2018-iccad), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [HotChips](#2018-hotchips)
-   - 2019: [ISSCC](#2019-isscc), [HPCA](#2019-hpca), [ASPDAC](#2019-aspdac)
+   - 2019: [ISSCC](#2019-isscc), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [ASPDAC](#2019-aspdac)
 
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey)
@@ -486,7 +486,7 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **LNPU: A 25.3TFLOPS/W Sparse Deep-Neural-Network Learning Processor with Fine-Grained Mixed Precision of FP8-FP16.** (KAIST)
 - A 1Mb Multibit ReRAM Computing-In-Memory Macro with 14.6ns Parallel MAC Computing Time for CNN-Based AI Edge Processors. (National Tsing Hua University)
 - Sandwich-RAM: An Energy-Efficient In-Memory BWN Architecture with Pulse-Width Modulation. (Southeast University, Boxing Electronics, THU)
-- A Twin-8T SRAM Computation-In-Memory Macro for Multiple-Bit CNNBased Machine Learning. (National Tsing Hua University, University of Electronic Science and Technology of China, ASU, Georgia Tech)
+- A Twin-8T SRAM Computation-In-Memory Macro for Multiple-Bit CNN Based Machine Learning. (National Tsing Hua University, University of Electronic Science and Technology of China, ASU, Georgia Tech)
 - A Reconfigurable RRAM Physically Unclonable Function Utilizing PostProcess Randomness Source with <6×10-6 Native Bit Error Rate. (THU, National Tsing Hua University, Georgia Tech)
 - A 65nm 1.1-to-9.1TOPS/W Hybrid-Digital-Mixed-Signal Computing Platform for Accelerating Model-Based and Model-Free Swarm Robotics. (Georgia Tech)
 - A Compute SRAM with Bit-Serial Integer/Floating-Point Operations for Programmable In-Memory Vector Acceleration. (Michigan)
@@ -501,6 +501,18 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **Kelp: QoS for Accelerators in Machine Learning Platforms.** (Microsoft, Google, UT Austin)
 - **Machine Learning at Facebook: Understanding Inference at the Edge.** (Facebook)
 
+### 2019 ASPLOS
+- **FA3C: FPGA-Accelerated Deep Reinforcement Learning.** (Hongik University, SNU)
+- **PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference.** (Purdue, UIUC, HP)
+- **FPSA: A Full System Stack Solution for Reconfigurable ReRAM-based NN Accelerator Architecture.** (THU, UCSB)
+- **Bit-Tactical: A Software/Hardware Approach to Exploiting Value and Bit Sparsity in Neural Networks.** (Toronto, NVIDIA)
+- **TANGRAM: Optimized Coarse-Grained Dataflow for Scalable NN Accelerators.** (Stanford)
+- **Packing Sparse Convolutional Neural Networks for Efficient Systolic Array Implementations: Column Combining Under Joint Optimization.** (Harvard)
+- **Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization.** (IBM, Kyungpook National University)
+- **HOP: Heterogeneity-Aware Decentralized Training.** (USC, THU)
+- **Astra: Exploiting Predictability to Optimize Deep Learning.** (Microsoft)
+- **ADMM-NN: An Algorithm-Hardware Co-Design Framework of DNNs Using Alternating Direction Methods of Multipliers.** (Northeastern, Syracuse, SUNY, Buffalo, USC)
+- **DeepSigns: An End-to-End Watermarking Framework for Protecting the Ownership of Deep Neural Networks.** (UCSD)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
@@ -578,6 +590,7 @@ This is a collection of papers on other important topics related to neural netwo
   - *G is trained to maximize the probability of D making a mistake.*.
 
 #### NAS
+- [Neural Architecture Search: A Survey.](https://arxiv.org/abs/1808.05377) (University of Freiburg, Bosch)
 
 #### Others
 - [You Only Look Once: Unified, Real-Time Object Detection.](https://arxiv.org/abs/1506.02640) [[code]](https://github.com/gliese581gg/YOLO_tensorflow) (University of Washington, Allen Institute for AI, Facebook AI Research, **2016 CVPR**)
@@ -596,7 +609,7 @@ This is a collection of papers on other important topics related to neural netwo
    - Myriad 2: Hardware-accelerated visual intelligence at ultra-low power.
    - Fathom Neural Compute Stick: The world's first discrete deep learning accelerator (Myriad 2 VPU inside).
    - Myriad X: On-device AI and computer vision.
- - [NVIDIA](http://www.nvidia.com/)
+ - NVIDIA
    - Jetson TX1: Embedded visual computing developing platform.
    - DGX-1: Deep learning supercomputer.
    - Tesla V100: A data center GPU with Tensor Cores inside.
@@ -610,3 +623,5 @@ This is a collection of papers on other important topics related to neural netwo
    - Nervana Engine: Hardware optimized for deep learning.
  - [Wave Computing](http://wavecomp.com/)
    - Clockless **CGRA** architecture.
+ - Tesla
+   - [Full Self-Driving (FSD) Computer](https://youtu.be/aZK1fARxYsE) [[Chinese]](https://mp.weixin.qq.com/s?__biz=MzI3MDQ2MjA3OA==&mid=2247485026&idx=1&sn=925f2fa98f3f26b2914a1ccf2945b331&chksm=ead1fb73dda6726510644dec2c0bb9eb843c09787510f5f5d6dd58b294974fc76893d8bb4b9c&mpshare=1&scene=1&srcid=0427hbz2qxPiCZnMQwYk5pyk&key=1f3fd4f811b89077c14af3300883bc4a823452392f3297d3e59a8bb68602f817e99e79929f25fab1f3a74b164c4b79871ad67c9427d7e4f7d63ab479f8ff218c2c0955cb3dbbb807bcc5ee3076c17ba4&ascene=1&uin=MTA1MTIxMDI2Mg%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=uOc2Mww8wyVqU3z4bdW81cO9hV4D2TmxLXDuYEbXAf%2BUyCa9xI0L%2Bz0melirJf3c)
