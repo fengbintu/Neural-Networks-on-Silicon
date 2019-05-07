@@ -10,7 +10,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - 2016: [ISSCC](#2016-isscc), [ISCA](#2016-isca), [MICRO](#2016-micro), [HPCA](#2016-hpca), [DAC](#2016-dac), [FPGA](#2016-fpga), [ICCAD](#2016-iccad), [DATE](#2016-date), [ASPDAC](#2016-aspdac), [VLSI](#2016-vlsi), [FPL](#2016-fpl)
    - 2017: [ISSCC](#2017-isscc), [ISCA](#2017-isca), [MICRO](#2017-micro), [HPCA](#2017-hpca), [ASPLOS](#2017-asplos), [DAC](#2017-dac), [FPGA](#2017-fpga), [ICCAD](#2017-iccad), [DATE](#2017-date), [VLSI](#2017-vlsi), [FCCM](#2017-fccm), [HotChips](#2017-hotchips)
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [MICRO](#2018-micro), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [ICCAD](#2018-iccad), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [HotChips](#2018-hotchips)
-   - 2019: [ISSCC](#2019-isscc), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [ASPDAC](#2019-aspdac)
+   - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [ASPDAC](#2019-aspdac)
 
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey)
@@ -513,6 +513,22 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **Astra: Exploiting Predictability to Optimize Deep Learning.** (Microsoft)
 - **ADMM-NN: An Algorithm-Hardware Co-Design Framework of DNNs Using Alternating Direction Methods of Multipliers.** (Northeastern, Syracuse, SUNY, Buffalo, USC)
 - **DeepSigns: An End-to-End Watermarking Framework for Protecting the Ownership of Deep Neural Networks.** (UCSD)
+
+### 2019 ISCA
+- **Sparse ReRAM Engine: Joint Exploration of Activation and Weight Sparsity on Compressed Neural Network.** (NTU, Academia Sinica, Macronix)
+- **MnnFast: A Fast and Scalable System Architecture for Memory-Augmented Neural Networks.** (POSTECH, SNU)
+- **TIE: Energy-efficient Tensor Train-based Inference Engine for Deep Neural Network.** (Rutgers University, Nanjing University, USC)
+- **Accelerating Distributed Reinforcement Learning with In-Switch Computing.** (UIUC)
+- **Eager Pruning: Algorithm and Architecture Support for Fast Training of Deep Neural Networks.** (University of Florida)
+- **Laconic Deep Learning Inference Acceleration.** (Toronto)
+- **DeepAttest: An End-to-End Attestation Framework for Deep Neural Networks.** (UCSD)
+- **A Stochastic-Computing based Deep Learning Framework using Adiabatic Quantum-Flux-Parametron Superconducting Technology.** (Northeastern, Yokohama National University, USC, University of Alberta)
+- **Fractal Machine Learning Computers.** (ICT)
+- **FloatPIM: In-Memory Acceleration of Deep Neural Network Training with High Precision.** (UCSD)
+- 3D-based Video Understanding Acceleration by Leveraging Temporal Locality and Activation Sparsity. (University of Florida, University of Florida)
+- Energy-Efficient Video Processing for Virtual Reality. (UIUC, University of Rochester)
+- Scalable Interconnects for Reconfigurable Spatial Architectures. (Stanford)
+- CoNDA: Enabling Efficient Near-Data Accelerator Communication by Optimizing Data Movement. (CMU, ETHZ)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
