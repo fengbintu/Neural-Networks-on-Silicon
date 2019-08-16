@@ -10,7 +10,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - 2016: [ISSCC](#2016-isscc), [ISCA](#2016-isca), [MICRO](#2016-micro), [HPCA](#2016-hpca), [DAC](#2016-dac), [FPGA](#2016-fpga), [ICCAD](#2016-iccad), [DATE](#2016-date), [ASPDAC](#2016-aspdac), [VLSI](#2016-vlsi), [FPL](#2016-fpl)
    - 2017: [ISSCC](#2017-isscc), [ISCA](#2017-isca), [MICRO](#2017-micro), [HPCA](#2017-hpca), [ASPLOS](#2017-asplos), [DAC](#2017-dac), [FPGA](#2017-fpga), [ICCAD](#2017-iccad), [DATE](#2017-date), [VLSI](#2017-vlsi), [FCCM](#2017-fccm), [HotChips](#2017-hotchips)
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [MICRO](#2018-micro), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [ICCAD](#2018-iccad), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [HotChips](#2018-hotchips)
-   - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [ASPDAC](#2019-aspdac)
+   - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [ASPDAC](#2019-aspdac)
 
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey)
@@ -529,6 +529,17 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - Energy-Efficient Video Processing for Virtual Reality. (UIUC, University of Rochester)
 - Scalable Interconnects for Reconfigurable Spatial Architectures. (Stanford)
 - CoNDA: Enabling Efficient Near-Data Accelerator Communication by Optimizing Data Movement. (CMU, ETHZ)
+
+### 2019 DAC
+- **Accuracy vs. Efficiency: Achieving Both through FPGA-Implementation Aware Neural Architecture Search.** (East China Normal University, Pittsburgh, Chongqing University, UCI,  Notre Dame)
+- **FPGA/DNN Co-Design: An Efficient Design Methodology for IoT Intelligence on the Edge.** (UIUC, IBM, Inspirit IoT)
+- **An Optimized Design Technique of Low-Bit Neural Network Training for Personalization on IoT Devices.** (KAIST)
+- **ReForm: Static and Dynamic Resource-Aware DNN Reconfiguration Framework for Mobile Devices.** (George Mason, Clarkson)
+- **DRIS-3: Deep Neural Network Reliability Improvement Scheme in 3D Die-Stacked Memory based on Fault Analysis.** (Sungkyunkwan University)
+- **ZARA: A Novel Zero-free Dataflow Accelerator for Generative Adversarial Networks in 3D ReRAM.** (Duke)
+- **BitBlade: Area and Energy-Efficient Precision-Scalable Neural Network Accelerator with Bitwise Summation.** (POSTECH)
+- X-MANN: A Crossbar based Architecture for Memory Augmented Neural Networks. (Purdue, Intel)
+- Thermal-Aware Design and Management for Search-based In-Memory Acceleration. (UCSD)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
