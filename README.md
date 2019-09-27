@@ -500,6 +500,7 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **NAND-Net: Minimizing Computational Complexity of In-Memory Processing for Binary Neural Networks.** (KAIST)
 - **Kelp: QoS for Accelerators in Machine Learning Platforms.** (Microsoft, Google, UT Austin)
 - **Machine Learning at Facebook: Understanding Inference at the Edge.** (Facebook)
+- The Accelerator Wall: Limits of Chip Specialization. (Princeton)
 
 ### 2019 ASPLOS
 - **FA3C: FPGA-Accelerated Deep Reinforcement Learning.** (Hongik University, SNU)
@@ -540,6 +541,7 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **BitBlade: Area and Energy-Efficient Precision-Scalable Neural Network Accelerator with Bitwise Summation.** (POSTECH)
 - X-MANN: A Crossbar based Architecture for Memory Augmented Neural Networks. (Purdue, Intel)
 - Thermal-Aware Design and Management for Search-based In-Memory Acceleration. (UCSD)
+- An Energy-Efficient Network-on-Chip Design using Reinforcement Learning. (George Washington)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
