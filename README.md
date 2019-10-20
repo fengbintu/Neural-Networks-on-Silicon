@@ -1,6 +1,6 @@
 # Neural Networks on Silicon
 
-My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). One of my research interests is architecture design for deep learning. This is an exciting field where fresh ideas come out every day, so I'm collecting works on related topics. Welcome to join us!
+My name is Fengbin Tu. I'm currently working with Prof. Yuan Xie, as a postdoctoral researcher at the Electrical and Computer Engineering Department, UCSB. Before joining UCSB, I received my Ph.D. degree from the Institute of Microelectronics, Tsinghua University. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). One of my research interests is architecture design for deep learning. This is an exciting field where fresh ideas come out every day, so I'm collecting works on related topics. Welcome to join us!
 
 ## Table of Contents
  - [My Contributions](#my-contributions)
@@ -10,7 +10,7 @@ My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute
    - 2016: [ISSCC](#2016-isscc), [ISCA](#2016-isca), [MICRO](#2016-micro), [HPCA](#2016-hpca), [DAC](#2016-dac), [FPGA](#2016-fpga), [ICCAD](#2016-iccad), [DATE](#2016-date), [ASPDAC](#2016-aspdac), [VLSI](#2016-vlsi), [FPL](#2016-fpl)
    - 2017: [ISSCC](#2017-isscc), [ISCA](#2017-isca), [MICRO](#2017-micro), [HPCA](#2017-hpca), [ASPLOS](#2017-asplos), [DAC](#2017-dac), [FPGA](#2017-fpga), [ICCAD](#2017-iccad), [DATE](#2017-date), [VLSI](#2017-vlsi), [FCCM](#2017-fccm), [HotChips](#2017-hotchips)
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [MICRO](#2018-micro), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [ICCAD](#2018-iccad), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [HotChips](#2018-hotchips)
-   - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [ASPDAC](#2019-aspdac)
+   - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [ASPDAC](#2019-aspdac)
 
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey)
@@ -542,6 +542,31 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - X-MANN: A Crossbar based Architecture for Memory Augmented Neural Networks. (Purdue, Intel)
 - Thermal-Aware Design and Management for Search-based In-Memory Acceleration. (UCSD)
 - An Energy-Efficient Network-on-Chip Design using Reinforcement Learning. (George Washington)
+- Designing Vertical Processors in Monolithic 3D. (UIUC)
+
+### 2019 MICRO
+- **Wire-Aware Architecture and Dataflow for CNN Accelerators.** (Utah)
+- **ShapeShifter: Enabling Fine-Grain Data Width Adaptation in Deep Learning.** (Toronto)
+- **Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture.** (NVIDIA)
+- **ZCOMP: Reducing DNN Cross-Layer Memory Footprint Using Vector Extensions.** (Google, Intel)
+- **Boosting the Performance of CNN Accelerators with Dynamic Fine-Grained Channel Gating.** (Cornell)
+- **SparTen: A Sparse Tensor Accelerator for Convolutional Neural Networks.** (Purdue)
+- **EDEN: Enabling Approximate DRAM for DNN Inference using Error-Resilient Neural Networks.** (ETHZ, CMU)
+- **eCNN: a Block-Based and Highly-Parallel CNN Accelerator for Edge Inference.** (NTHU)
+- **TensorDIMM: A Practical Near-Memory Processing Architecture for Embeddings and Tensor Operations in Deep Learning.** (KAIST)
+- **Understanding Reuse, Performance, and Hardware Cost of DNN Dataflows: A Data-Centric Approach.** (Georgia Tech, NVIDIA)
+- **MaxNVM: Maximizing DNN Storage Density and Inference Efficiency with Sparse Encoding and Error Mitigation.** (Harvard, Facebook)
+- **Neuron-Level Fuzzy Memoization in RNNs.** (UPC)
+- **Manna: An Accelerator for Memory-Augmented Neural Networks.** (Purdue, Intel)
+- eAP: A Scalable and Efficient In-Memory Accelerator for Automata Processing. (Virginia)
+- ComputeDRAM: In-Memory Compute Using Off-the-Shelf DRAMs. (Princeton)
+- ExTensor: An Accelerator for Sparse Tensor Algebra. (UIUC, NVIDIA)
+- Efficient SpMV Operation for Large and Highly Sparse Matrices Using Scalable Multi-Way Merge Parallelization. (CMU)
+- Sparse Tensor Core: Algorithm and Hardware Co-Design for Vector-wise Sparse Neural Networks on Modern GPUs. (UCSB, Alibaba)
+- DynaSprint: Microarchitectural Sprints with Dynamic Utility and Thermal Management. (Waterloo, ARM, Duke)
+- MEDAL: Scalable DIMM based Near Data Processing Accelerator for DNA Seeding Algorithm. (UCSB, ICT)
+- Tigris: Architecture and Algorithms for 3D Perception in Point Clouds. (Rochester)
+- Alleviating Irregularity in Graph Analytics Acceleration: a Hardware/Software Co-Design Approach. (UCSB, ICT)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
