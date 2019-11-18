@@ -566,6 +566,7 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - DynaSprint: Microarchitectural Sprints with Dynamic Utility and Thermal Management. (Waterloo, ARM, Duke)
 - MEDAL: Scalable DIMM based Near Data Processing Accelerator for DNA Seeding Algorithm. (UCSB, ICT)
 - Tigris: Architecture and Algorithms for 3D Perception in Point Clouds. (Rochester)
+- ASV: Accelerated Stereo Vision System. (Rochester)
 - Alleviating Irregularity in Graph Analytics Acceleration: a Hardware/Software Co-Design Approach. (UCSB, ICT)
 
 ## Important Topics
