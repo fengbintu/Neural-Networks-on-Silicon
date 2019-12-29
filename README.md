@@ -10,7 +10,7 @@ My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.e
    - 2016: [ISSCC](#2016-isscc), [ISCA](#2016-isca), [MICRO](#2016-micro), [HPCA](#2016-hpca), [DAC](#2016-dac), [FPGA](#2016-fpga), [ICCAD](#2016-iccad), [DATE](#2016-date), [ASPDAC](#2016-aspdac), [VLSI](#2016-vlsi), [FPL](#2016-fpl)
    - 2017: [ISSCC](#2017-isscc), [ISCA](#2017-isca), [MICRO](#2017-micro), [HPCA](#2017-hpca), [ASPLOS](#2017-asplos), [DAC](#2017-dac), [FPGA](#2017-fpga), [ICCAD](#2017-iccad), [DATE](#2017-date), [VLSI](#2017-vlsi), [FCCM](#2017-fccm), [HotChips](#2017-hotchips)
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [MICRO](#2018-micro), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [ICCAD](#2018-iccad), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [HotChips](#2018-hotchips)
-   - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [ICCAD](#2019-iccad), [ASPDAC](#2019-aspdac), [VLSI](#2019-vlsi), [HotChips](#2019-hotchips), [ASSCC](#2019-asscc)
+   - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [FPGA](#2019-fpga), [ICCAD](#2019-iccad), [ASPDAC](#2019-aspdac), [VLSI](#2019-vlsi), [HotChips](#2019-hotchips), [ASSCC](#2019-asscc)
 
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey)
@@ -606,6 +606,16 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **A 0.11 pJ/Op, 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Accelerator Designed with a High-Productivity VLSI Methodology.** (NVIDIA)
 - **Xilinx Versal/AI Engine.** (Xilinx)
 - A Programmable Embedded Microprocessor for Bit-scalable In-memory Computing. (Princeton)
+
+### 2019 FPGA
+- **Synetgy: Algorithm-hardware Co-design for ConvNet Accelerators on Embedded FPGAs.** (THU, Berkeley, Politecnico di Torino, Xilinx)
+- **REQ-YOLO: A Resource-Aware, Efficient Quantization Framework for Object Detection on FPGAs.** (PKU, Northeastern）
+- **Reconfigurable Convolutional Kernels for Neural Networks on FPGAs.** (University of Kassel)
+- **Efficient and Effective Sparse LSTM on FPGA with Bank-Balanced Sparsity.** (Harbin Institute of Technology, Microsoft, THU, Beihang)
+- **Cloud-DNN: An Open Framework for Mapping DNN Models to Cloud FPGAs.** (Advanced Digital Sciences Center, UIUC)
+- F5-HD: Fast Flexible FPGA-based Framework for Refreshing Hyperdimensional Computing. (UCSD)
+- Xilinx Adaptive Compute Acceleration Platform: Versal Architecture. (Xilinx)
+
 
 
 ## Important Topics
