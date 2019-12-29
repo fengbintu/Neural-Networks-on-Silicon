@@ -10,7 +10,7 @@ My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.e
    - 2016: [ISSCC](#2016-isscc), [ISCA](#2016-isca), [MICRO](#2016-micro), [HPCA](#2016-hpca), [DAC](#2016-dac), [FPGA](#2016-fpga), [ICCAD](#2016-iccad), [DATE](#2016-date), [ASPDAC](#2016-aspdac), [VLSI](#2016-vlsi), [FPL](#2016-fpl)
    - 2017: [ISSCC](#2017-isscc), [ISCA](#2017-isca), [MICRO](#2017-micro), [HPCA](#2017-hpca), [ASPLOS](#2017-asplos), [DAC](#2017-dac), [FPGA](#2017-fpga), [ICCAD](#2017-iccad), [DATE](#2017-date), [VLSI](#2017-vlsi), [FCCM](#2017-fccm), [HotChips](#2017-hotchips)
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [MICRO](#2018-micro), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [ICCAD](#2018-iccad), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [HotChips](#2018-hotchips)
-   - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [ICCAD](#2019-iccad), [ASPDAC](#2019-aspdac), [ASSCC](#2019-asscc)
+   - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [ICCAD](#2019-iccad), [ASPDAC](#2019-aspdac), [VLSI](#2019-vlsi), [HotChips](#2019-hotchips), [ASSCC](#2019-asscc)
 
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey)
@@ -581,6 +581,32 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **A 2.25 TOPS/W Fully-Integrated Deep CNN Learning Processor with On-Chip Training.** (NTU)
 - **A Sparse-Adaptive CNN Processor with Area/Performance Balanced N-Way Set-Associate Pe Arrays Assisted by a Collision-Aware Scheduler.** (THU, Northeastern)
 - A 24 Kb Single-Well Mixed 3T Gain-Cell eDRAM with Body-Bias in 28 nm FD-SOI for Refresh-Free DSP Applications. (EPFL)
+
+### 2019 VLSI
+- **Area-Efficient and Variation-Tolerant In-Memory BNN Computing Using 6T SRAM Array.** (POSTECH)
+- **A 5.1pJ/Neuron 127.3us/Inference RNN-Based Speech Recognition Processor Using 16 Computingin-Memory SRAM Macros in 65nm CMOS.** (THU, NTU, TsingMicro)
+- **A 0.11 pJ/Op, 0.32-128 TOPS, Scalable, Multi-ChipModule-Based Deep Neural Network Accelerator with Ground-Reference Signaling in 16nm.** (NVIDIA)
+- **SNAP: A 1.67 – 21.55TOPS/W Sparse Neural Acceleration Processor for Unstructured Sparse Deep Neural Network Inference in 16nm CMOS.** (UMich, NVIDA)
+- **A Full HD 60 fps CNN Super Resolution Processor with Selective Caching based Layer Fusion for Mobile Devices.** (KAIST)
+- **A 1.32 TOPS/W Energy Efficient Deep Neural Network Learning Processor with Direct Feedback Alignment based Heterogeneous Core Architecture.** (KAIST)
+- Considerations of Integrating Computing-In-Memory and Processing-In-Sensorinto Convolutional Neural Network Accelerators for Low-Power Edge Devices. (NTU, NCHU)
+- Computational Memory-Based Inference and Training of Deep Neural Networks. (IBM, EPFL, ETHZ, et al)
+- A Ternary Based Bit Scalable, 8.80 TOPS/W CNN A95Accelerator with Many-Core Processing-in-Memory Architecture with 896K Synapses/mm2. (Renesas)
+- In-Memory Reinforcement Learning with ModeratelyStochastic Conductance Switching of Ferroelectric Tunnel Junctions. (Toshiba)
+
+### 2019 HotChips
+- **MLPerf: A Benchmark Suite for Machine Learning from an Academic-Industry Cooperative.** (MLPerf)
+- **Zion: Facebook Next-Generation Large-memory Unified Training Platform.** (Facebook)
+- **A Scalable Unified Architecture for Neural Network Computing from Nano-Level to High Performance Computing.** (Huawei)
+- **Deep Learning Training at Scale – Spring Crest Deep Learning Accelerator.** (Intel)
+- **Spring Hill – Intel’s Data Center Inference Chip.** (Intel)
+- **Wafer Scale Deep Learning.** (Cerebras)
+- **Habana Labs Approach to Scaling AI Training.** (Habana)
+- **Ouroboros: A WaveNet Inference Engine for TTS Applications on Embedded Devices.** (Alibaba)
+- **A 0.11 pJ/Op, 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Accelerator Designed with a High-Productivity VLSI Methodology.** (NVIDIA)
+- **Xilinx Versal/AI Engine.** (Xilinx)
+- A Programmable Embedded Microprocessor for Bit-scalable In-memory Computing. (Princeton)
+
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
