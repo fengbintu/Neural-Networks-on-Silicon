@@ -11,6 +11,7 @@ My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.e
    - 2017: [ISSCC](#2017-isscc), [ISCA](#2017-isca), [MICRO](#2017-micro), [HPCA](#2017-hpca), [ASPLOS](#2017-asplos), [DAC](#2017-dac), [FPGA](#2017-fpga), [ICCAD](#2017-iccad), [DATE](#2017-date), [VLSI](#2017-vlsi), [FCCM](#2017-fccm), [HotChips](#2017-hotchips)
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [MICRO](#2018-micro), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [ICCAD](#2018-iccad), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [HotChips](#2018-hotchips)
    - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [FPGA](#2019-fpga), [ICCAD](#2019-iccad), [ASPDAC](#2019-aspdac), [VLSI](#2019-vlsi), [HotChips](#2019-hotchips), [ASSCC](#2019-asscc)
+   - 2020: [ISSCC](#2020-isscc)
 
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey)
@@ -616,7 +617,24 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - F5-HD: Fast Flexible FPGA-based Framework for Refreshing Hyperdimensional Computing. (UCSD)
 - Xilinx Adaptive Compute Acceleration Platform: Versal Architecture. (Xilinx)
 
-
+### 2020 ISSCC
+- **A 3.4-to-13.3TOPS/W 3.6TOPS Dual-Core Deep-Learning Accelerator for Versatile AI Applications in 7nm 5G Smartphone SoC.** (MediaTek)
+- **A 12nm Programmable Convolution-Efficient Neural-Processing-Unit Chip Achieving 825TOPS.** (Alibaba)
+- **STATICA: A 512-Spin 0.25M-Weight Full-Digital Annealing Processor with a Near-Memory All-SpinUpdates-at-Once Architecture for Combinatorial Optimization with Complete Spin-Spin Interactions.** (Tokyo Institute of Technology, Hokkaido Univ., Univ. of Tokyo)
+- **GANPU: A 135TFLOPS/W Multi-DNN Training Processor for GANs with Speculative Dual-Sparsity Exploitation.** (KAIST)
+- **A 510nW 0.41V Low-Memory Low-Computation Keyword-Spotting Chip Using Serial FFT-Based MFCC and Binarized Depthwise Separable Convolutional Neural Network in 28nm CMOS.** (Southeast, EPFL, Columbia)
+- **A 65nm 24.7μJ/Frame 12.3mW Activation-Similarity Aware Convolutional Neural Network Video Processor Using Hybrid Precision, Inter-Frame Data Reuse and Mixed-Bit-Width Difference-Frame Data Codec.** (THU)
+- **A 65nm Computing-in-Memory-Based CNN Processor with 2.9-to-35.8TOPS/W System Energy Efficiency Using Dynamic-Sparsity Performance-Scaling Architecture and Energy-Efficient Inter/Intra-Macro Data Reuse.** (THU, NTHU)
+- A 28nm 64Kb Inference-Training Two-Way Transpose Multibit 6T SRAM Compute-in-Memory Macro for AI Edge Chips. (NTU)
+- A 351TOPS/W and 372.4GOPS Compute-in-Memory SRAM Macro in 7nm FinFET CMOS for Machine-Learning Applications. (TSMC)
+- A 22nm 2Mb ReRAM Compute-in-Memory Macro with 121-28TOPS/W for Multibit MAC Computing for Tiny AI Edge Devices. (NTHU)
+- A 28nm 64Kb 6T SRAM Computing-in-Memory Macro with 8b MAC Operation for AI Edge Chips. (NTHU)
+- A 1.5μJ/Task Path-Planning Processor for 2D/3D Autonomous Navigation of Micro Robots. (NTHU)
+- A 65nm 8.79TOPS/W 23.82mW Mixed-Signal Oscillator-Based NeuroSLAM Accelerator for Applications in Edge Robotics. (Georgia Tech)
+- CIM-Spin: A 0.5-to-1.2V Scalable Annealing Processor Using Digital Compute-In-Memory Spin Operators and Register-Based Spins for Combinatorial Optimization Problems. (NTU)
+- A Compute-Adaptive Elastic Clock-Chain Technique with Dynamic Timing Enhancement for 2D PE-Array-Based Accelerators. (Northwestern)
+- A 74 TMACS/W CMOS-RRAM Neurosynaptic Core with Dynamically Reconfigurable Dataflow and In-situ Transposable Weights for Probabilistic Graphical Models. (Stanford, UCSD, THU, Notre Dame)
+- A Fully Integrated Analog ReRAM Based 78.4TOPS/W Compute-In-Memory Chip with Fully Parallel MAC Computing. (THU, NTHU)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
