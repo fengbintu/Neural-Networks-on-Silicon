@@ -11,7 +11,7 @@ My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.e
    - 2017: [ISSCC](#2017-isscc), [ISCA](#2017-isca), [MICRO](#2017-micro), [HPCA](#2017-hpca), [ASPLOS](#2017-asplos), [DAC](#2017-dac), [FPGA](#2017-fpga), [ICCAD](#2017-iccad), [DATE](#2017-date), [VLSI](#2017-vlsi), [FCCM](#2017-fccm), [HotChips](#2017-hotchips)
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [MICRO](#2018-micro), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [ICCAD](#2018-iccad), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [HotChips](#2018-hotchips)
    - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [FPGA](#2019-fpga), [ICCAD](#2019-iccad), [ASPDAC](#2019-aspdac), [VLSI](#2019-vlsi), [HotChips](#2019-hotchips), [ASSCC](#2019-asscc)
-   - 2020: [ISSCC](#2020-isscc), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2019-dac), [FPGA](#2019-fpga)
+   - 2020: [ISSCC](#2020-isscc), [ISCA](#2020-isca), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2019-dac), [FPGA](#2019-fpga)
 
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey)
@@ -672,7 +672,7 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **NeuMMU: Architectural Support for Efficient Address Translations in Neural Processing Units.**	(KAIST)
 - **FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System.**	(PKU)
 
-# 2020 DAC
+### 2020 DAC
 - **A Pragmatic Approach to On-device Incremental Learning System with Selective Weight Updates.**
 - **A Two-way SRAM Array based Accelerator for Deep Neural Network On-chip Training.**
 - **Algorithm-Hardware Co-Design for In-Memory Neural Network Computing with Minimal Peripheral Circuit Overhead.**
@@ -685,10 +685,12 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **SCA: A Secure CNN Accelerator for both Training and Inference.**
 - **STC: Significance-aware Transform-based Codec Framework for External Memory Access Reduction.**
 
-# 2020 FPGA
+### 2020 FPGA
 - **AutoDNNchip: An Automated DNN Chip Generator through Compilation, Optimization, and Exploration.** （Rice, UIUC)
 - **Accelerating GCN Training on CPU-FPGA Heterogeneous Platforms.** (USC)
 - Massively Simulating Adiabatic Bifurcations with FPGA to Solve Combinatorial Optimization. (Central Florida)
+
+### 2020 ISCA
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
