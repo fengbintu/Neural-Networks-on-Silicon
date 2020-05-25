@@ -691,6 +691,24 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - Massively Simulating Adiabatic Bifurcations with FPGA to Solve Combinatorial Optimization. (Central Florida)
 
 ### 2020 ISCA
+- **Data Compression Accelerator on IBM POWER9 and z15 Processors.** (IBM)
+- **High-Performance Deep-Learning Coprocessor Integrated into x86 SoC with Server-Class CPUs.**	(Centaur )
+- **Think Fast: A Tensor Streaming Processor (TSP) for Accelerating Deep Learning Workloads.** (Groq)
+- **MLPerf Inference: A Benchmarking Methodology for Machine Learning Inference Systems.**	
+- **A Multi-Neural Network Acceleration Architecture.** (SNU)
+- **SmartExchange: Trading Higher-Cost Memory Storage/Access for Lower-Cost Computation.** (Rice, TAMU, UCSB)
+- **Centaur: A Chiplet-Based, Hybrid Sparse-Dense Accelerator for Personalized Recommendations.** (KAIST)
+- **DeepRecSys: A System for Optimizing End-to-End At-Scale Neural Recommendation Inference.**	(Facebook, Harvard)
+- **An In-Network Architecture for Accelerating Shared-Memory Multiprocessor Collectives.**	(NVIDIA)
+- **DRQ: Dynamic Region-Based Quantization for Deep Neural Network Acceleration.**	(SJTU)
+- The IBM z15 High Frequency Mainframe Branch Predictor. (ETHZ)
+- Déjà View: Spatio-Temporal Compute Reuse for Energy-Efficient 360° VR Video Streaming. (Penn State)
+- uGEMM: Unary Computing Architecture for GEMM Applications. (Wisconsin)
+- Gorgon: Accelerating Machine Learning from Relational Data. (Stanford)
+- RecNMP: Accelerating Personalized Recommendation with Near-Memory Processing. (Facebook)
+- JPEG-ACT: Accelerating Deep Learning via Transform-Based Lossy Compression. (UBC)
+- Commutative Data Reordering: A New Technique to Reduce Data Movement Energy on Sparse Inference Workloads. (Sandia, Rochester)
+- Echo: Compiler-Based GPU Memory Footprint Reduction for LSTM RNN Training. (Toronto, Intel)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
