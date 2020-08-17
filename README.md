@@ -11,7 +11,7 @@ My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.e
    - 2017: [ISSCC](#2017-isscc), [ISCA](#2017-isca), [MICRO](#2017-micro), [HPCA](#2017-hpca), [ASPLOS](#2017-asplos), [DAC](#2017-dac), [FPGA](#2017-fpga), [ICCAD](#2017-iccad), [DATE](#2017-date), [VLSI](#2017-vlsi), [FCCM](#2017-fccm), [HotChips](#2017-hotchips)
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [MICRO](#2018-micro), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [ICCAD](#2018-iccad), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [HotChips](#2018-hotchips)
    - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [FPGA](#2019-fpga), [ICCAD](#2019-iccad), [ASPDAC](#2019-aspdac), [VLSI](#2019-vlsi), [HotChips](#2019-hotchips), [ASSCC](#2019-asscc)
-   - 2020: [ISSCC](#2020-isscc), [ISCA](#2020-isca), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2019-dac), [FPGA](#2019-fpga)
+   - 2020: [ISSCC](#2020-isscc), [ISCA](#2020-isca), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2020-dac), [FPGA](#2020-fpga), [HotChips](#2020-hotchips)
 
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey)
@@ -709,6 +709,17 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - JPEG-ACT: Accelerating Deep Learning via Transform-Based Lossy Compression. (UBC)
 - Commutative Data Reordering: A New Technique to Reduce Data Movement Energy on Sparse Inference Workloads. (Sandia, Rochester)
 - Echo: Compiler-Based GPU Memory Footprint Reduction for LSTM RNN Training. (Toronto, Intel)
+
+### 2020 HotChips
+- **Google’s Training Chips Revealed: TPUv2 and TPUv3.** （Google)
+- **Software Co-design for the First Wafer-Scale Processor (and Beyond).** (Cerebras)
+- **Manticore: A 4096-core RISC-V Chiplet Architecture for Ultra-efficient Floating-point Computing.** (ETHZ)
+- **Baidu Kunlun – An AI Processor for Diversified Workloads.** (Baidu)
+- **Hanguang 800 NPU – The Ultimate AI Inference Solution for Data Centers.** (Alibaba)
+- **Silicon Photonics for Artificial Intelligence Acceleration.** (Lightmatter)
+- Xuantie-910: Innovating Cloud and Edge Computing by RISC-V. (Alibaba)
+- A Technical Overview of the ARM Cortex-M55 and Ethos-U55: ARM’s Most Capable Processors for Endpoint AI. (ARM)
+- PGMA: A Scalable Bayesian Inference Accelerator for Unsupervised Learning. (Harvard)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
