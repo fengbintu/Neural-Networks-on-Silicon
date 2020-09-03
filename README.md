@@ -11,7 +11,7 @@ My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.e
    - 2017: [ISSCC](#2017-isscc), [ISCA](#2017-isca), [MICRO](#2017-micro), [HPCA](#2017-hpca), [ASPLOS](#2017-asplos), [DAC](#2017-dac), [FPGA](#2017-fpga), [ICCAD](#2017-iccad), [DATE](#2017-date), [VLSI](#2017-vlsi), [FCCM](#2017-fccm), [HotChips](#2017-hotchips)
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [MICRO](#2018-micro), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [ICCAD](#2018-iccad), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [HotChips](#2018-hotchips)
    - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [FPGA](#2019-fpga), [ICCAD](#2019-iccad), [ASPDAC](#2019-aspdac), [VLSI](#2019-vlsi), [HotChips](#2019-hotchips), [ASSCC](#2019-asscc)
-   - 2020: [ISSCC](#2020-isscc), [ISCA](#2020-isca), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2020-dac), [FPGA](#2020-fpga), [HotChips](#2020-hotchips)
+   - 2020: [ISSCC](#2020-isscc), [ISCA](#2020-isca), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2020-dac), [FPGA](#2020-fpga), [VLSI](#2020-vlsi),  [HotChips](#2020-hotchips)
 
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey)
@@ -720,6 +720,16 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - Xuantie-910: Innovating Cloud and Edge Computing by RISC-V. (Alibaba)
 - A Technical Overview of the ARM Cortex-M55 and Ethos-U55: ARM’s Most Capable Processors for Endpoint AI. (ARM)
 - PGMA: A Scalable Bayesian Inference Accelerator for Unsupervised Learning. (Harvard)
+
+### 2020 VLSI
+- **PNPU: A 146.52TOPS/W Deep-Neural-Network Learning Processor with Stochastic Coarse-Fine Pruning and Adaptive Input/Output/Weight Skipping.** (KAIST)
+- **A 3.0 TFLOPS 0.62V Scalable Processor Core for High Compute Utilization AI Training and Inference.** (IBM)
+- **A 617 TOPS/W All Digital Binary Neural Network Accelerator in 10nm FinFET CMOS.** (Intel)
+- **An Ultra-Low Latency 7.8-13.6 pJ/b Reconfigurable Neural Network-Assisted Polar Decoder with Multi-Code Length Support.** (NTU)
+- **A 4.45ms Low-Latency 3D Point-Cloud-Based Neural Network Processor for Hand Pose Estimation in Immersive Wearable Devices.** (KAIST)
+- **A 3mm2 Programmable Bayesian Inference Accelerator for Unsupervised Machine Perception Using Parallel Gibbs Sampling in 16nm.** (Harvard)
+- 1.03pW/b Ultra-Low Leakage Voltage-Stacked SRAM for Intelligent Edge Processors. (Umich)
+- Z-PIM: An Energy-Efficient Sparsity-Aware Processing-In-Memory Architecture with Fully-Variable Weight Precision. (KAIST)
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
