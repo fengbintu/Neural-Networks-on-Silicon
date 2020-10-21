@@ -26,7 +26,7 @@ I'm working on energy-efficient architecture design for deep learning. Some feat
 
 [Aug. 2020] I have designed a deep learning processor (Evolver) with on-device quantization-voltage-frequency (QVF) tuning. Compared with conventional QVF tuning that determines policies offline, Evolver make optimal customizations for local user scenarios.
 
-- [**Evolver: A Deep Learning Processor with On-Device Quantization-Voltage-Frequency Tuning**](https://ieeexplore.ieee.org/document/9209075)(**JSSC'20**)
+- [**Evolver: A Deep Learning Processor with On-Device Quantization-Voltage-Frequency Tuning.**](https://ieeexplore.ieee.org/document/9209075) (**JSSC'20**)
   - Evolver contains a reinforcement learning unit (RLU) that searches QVF polices based on its direct feedbacks. An outlier-skipping scheme is proposed to save unnecessary training for invalid policies under the profiled latency and energy constraints.
   - We exploit the inherent sparsity of feature/error maps in DNN training’s feedforward and backpropagation passes, and design a bidirectional speculation unit (BSU) to capture runtime sparsity and discard zero-output computation, thus reducing training cost. The feedforward speculation also benefits the execution mode.
   - Since the runtime sparsity causes time-varying workload parallelism that harms performance and efficiency, we design a reconfigurable computing engine (RCE) with an online configuration compiler (OCC) for Evolver, in order to dynamically reconfigure dataflow parallelism to match workload parallelism.
