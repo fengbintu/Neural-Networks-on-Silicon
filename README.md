@@ -11,7 +11,8 @@ My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.e
    - 2017: [ISSCC](#2017-isscc), [ISCA](#2017-isca), [MICRO](#2017-micro), [HPCA](#2017-hpca), [ASPLOS](#2017-asplos), [DAC](#2017-dac), [FPGA](#2017-fpga), [ICCAD](#2017-iccad), [DATE](#2017-date), [VLSI](#2017-vlsi), [FCCM](#2017-fccm), [HotChips](#2017-hotchips)
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [MICRO](#2018-micro), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [ICCAD](#2018-iccad), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [HotChips](#2018-hotchips)
    - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [FPGA](#2019-fpga), [ICCAD](#2019-iccad), [ASPDAC](#2019-aspdac), [VLSI](#2019-vlsi), [HotChips](#2019-hotchips), [ASSCC](#2019-asscc)
-   - 2020: [ISSCC](#2020-isscc), [ISCA](#2020-isca), [MICRO](#2020-micro), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2020-dac), [FPGA](#2020-fpga), [VLSI](#2020-vlsi),  [HotChips](#2020-hotchips)
+   - 2020: [ISSCC](#2020-isscc), [ISCA](#2020-isca), [MICRO](#2020-micro), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2020-dac), [FPGA](#2020-fpga), [ICCAD](#2020-iccad), [VLSI](#2020-vlsi),  [HotChips](#2020-hotchips)
+   - 2021: [ISSCC](#2021-isscc)
 
  - [Important Topics](#important-topics)
    - [Tutorial and Survey](#tutorial-and-survey)
@@ -739,8 +740,8 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - Z-PIM: An Energy-Efficient Sparsity-Aware Processing-In-Memory Architecture with Fully-Variable Weight Precision. (KAIST)
 
 ### 2020 MICRO
-- **SuperNPU: An Extremely Fast Neural Processing Unit Using Superconducting Logic Devices.** (Kyushu University
-- **Printed Machine Learning Classifiers.** (UIUC, KIT
+- **SuperNPU: An Extremely Fast Neural Processing Unit Using Superconducting Logic Devices.** (Kyushu University）
+- **Printed Machine Learning Classifiers.** (UIUC, KIT）
 - **Look-Up Table based Energy Efficient Processing in Cache Support for Neural Network Acceleration.** (PSU, Intel)
 - **FReaC Cache: Folded-Logic Reconfigurable Computing in the Last Level Cache.** (UIUC, IBM)
 - **Newton: A DRAM-Maker's Accelerator-in-Memory (AiM) Architecture for Machine Learning.** (Purdue, SK Hynix)
@@ -764,6 +765,45 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - CATCAM: Constant-time Alteration Ternary CAM with Scalable In-Memory Architecture.	(THU, Southeast University)
 - DUAL: Acceleration of Clustering Algorithms using Digital-Based Processing In-Memory.	(UCSD)
 - Bit-Exact ECC Recovery (BEER): Determining DRAM On-Die ECC Functions by Exploiting DRAM Data Retention Characteristics.	(ETHZ)
+
+### 2020 ICCAD
+- ReTransformer: ReRAM-based Processing-in-Memory Architecture for Transformer Acceleration.	(Duke)
+- Energy-efficient XNOR-free In-Memory BNN Accelerator with Input Distribution Regularization.	(POSTECH)
+- HyperTune: Dynamic Hyperparameter Tuning for Efficient Distribution of DNN Training Over Heterogeneous Systems.	(UCI, NGD)
+- SynergicLearning: Neural Network-Based Feature Extraction for Highly-Accurate Hyperdimensional Learning.	(USC)
+- Optimizing Stochastic Computing for Low Latency Inference of Convolutional Neural Networks.	(Nanjing University)
+- HAPI: Hardware-Aware Progressive Inference.	(Samsung)
+- MobiLattice: A Depth-wise DCNN Accelerator with Hybrid Digital/Analog Nonvolatile Processing-In-Memory Block.	(PKU, Duke)
+- A Many-Core Accelerator Design for On-Chip Deep Reinforcement Learning.	(ICT)
+- DRAMA: An Approximate DRAM Architecture for High-performance and Energy-efficient Deep Training System.	(Kyung Hee Univ., NUS)
+- FPGA-based Low-Batch Training Accelerator for Modern CNNs Featuring High Bandwidth Memory.	(ASU, Intel)
+
+### 2021 ISSCC
+- **The A100 Datacenter GPU and Ampere Architecture.** (NVIDIA）
+- **Kunlun: A 14nm High-Performance AI Processor for Diversified Workloads.** (Baidu）
+- **A 12nm Autonomous-Driving Processor with 60.4TOPS, 13.8TOPS/W CNN Executed by Task-Separated ASIL D Control.** (Renesas）
+- **BioAIP: A Reconfigurable Biomedical AI Processor with Adaptive Learning for Versatile Intelligent Health Monitoring.** (UESTC）
+- **A 0.2-to-3.6TOPS/W Programmable Convolutional Imager SoC with In-Sensor Current-Domain Ternary-Weighted MAC Operations for Feature Extraction and Region-of-Interest Detection.** (Leuven）
+- **A 7nm 4-Core AI Chip with 25.6TFLOPS Hybrid FP8 Training, 102.4TOPS INT4 Inference and Workload-Aware Throttling.** (IBM）
+- **A 28nm 12.1TOPS/W Dual-Mode CNN Processor Using Effective-Weight-Based Convolution and Error-Compensation-Based Prediction.** (THU）
+- **A 40nm 4.81TFLOPS/W 8b Floating-Point Training Processor for Non-Sparse Neural Networks Using Shared Exponent Bias and 24-Way Fused Multiply-Add Tree.** (SNU）
+- **PIU: A 248GOPS/W Stream-Based Processor for Irregular Probabilistic Inference Networks Using Precision-Scalable Posit Arithmetic in 28nm.** (Leuven）
+- **A 6K-MAC Feature-Map-Sparsity-Aware Neural Processing Unit in 5nm Flagship Mobile SoC.** (Samsung）
+- **A 1/2.3inch 12.3Mpixel with On-Chip 4.97TOPS/W CNN Processor Back-Illuminated Stacked CMOS Image Sensor.** (Sony）
+- **A 184μW Real-Time Hand-Gesture Recognition System with Hybrid Tiny Classifiers for Smart Wearable Devices.** (Nanyang）
+- **A 25mm2 SoC for IoT Devices with 18ms Noise-Robust Speech-to-Text Latency via Bayesian Speech Denoising and Attention-Based Sequence-to-Sequence DNN Speech Recognition in 16nm FinFET.** (Harvard, Tufts, ARM, Cornell）
+- **A Background-Noise and Process-Variation-Tolerant 109nW Acoustic Feature Extractor Based on Spike-Domain Divisive-Energy Normalization for an Always-On Keyword Spotting Device.** (Columnbia）
+- A 148nW General-Purpose Event-Driven Intelligent Wake-Up Chip for AIoT Devices Using Asynchronous Spike-Based Feature Extractor and Convolutional Neural Network. (PKU）
+- A Programmable Neural-Network Inference Accelerator Based on Scalable In-Memory Computing. (Princeton）
+- A 2.75-to-75.9TOPS/W Computing-in-Memory NN Processor Supporting Set-Associate Block-Wise Zero Skipping and Ping-Pong CIM with Simultaneous Computation and Weight Updating. (THU）
+- A 65nm 3T Dynamic Analog RAM-Based Computing-in-Memory Macro and CNN Accelerator with Retention Enhancement, Adaptive Analog Sparsity and 44TOPS/W System Energy Efficiency. (Northwestern）
+- A 5.99-to-691.1TOPS/W Tensor-Train In-Memory-Computing Processor Using Bit-Level-SparsityBased Optimization and Variable-Precision Quantization. (THU, UESTC, NTHU）
+- A 22nm 4Mb 8b-Precision ReRAM Computing-in-Memory Macro with 11.91 to 195.7TOPS/W for Tiny AI Edge Devices. (NTHU, TSMC）
+- eDRAM-CIM: Compute-In-Memory Design with Reconfigurable Embedded-Dynamic-Memory Array Realizing Adaptive Data Converters and Charge-Domain Computing. (UT Austin, Intel）
+- A 28nm 384kb 6T-SRAM Computation-in-Memory Macro with 8b of Precision for AI Edge Chips. (NTHU, Industrial Technology Research Institute, TSMC）
+- An 89TOPS/W and 16.3TOPS/mm2 All-Digital SRAM-Based Full-Precision Compute-In Memory Macro in 22nm for Machine-Learning Edge Applications. (TSMC）
+- A 20nm 6GB Function-In-Memory DRAM, Based on HBM2 with a 1.2TFLOPS Programmable Computing Unit Using Bank-Level Parallelism, for Machine Learning Applications. (Samsung）
+- A 21×21 Dynamic-Precision Bit-Serial Computing Graph Accelerator for Solving Partial Differential Equations Using Finite Difference Method. (Nanyang）
 
 ## Important Topics
 This is a collection of papers on other important topics related to neural networks. Papers of significance are marked in **bold**. My comments are in marked in *italic*.
