@@ -12,14 +12,14 @@ My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.e
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [MICRO](#2018-micro), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [ICCAD](#2018-iccad), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [HotChips](#2018-hotchips)
    - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [FPGA](#2019-fpga), [ICCAD](#2019-iccad), [ASPDAC](#2019-aspdac), [VLSI](#2019-vlsi), [HotChips](#2019-hotchips), [ASSCC](#2019-asscc)
    - 2020: [ISSCC](#2020-isscc), [ISCA](#2020-isca), [MICRO](#2020-micro), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2020-dac), [FPGA](#2020-fpga), [ICCAD](#2020-iccad), [VLSI](#2020-vlsi),  [HotChips](#2020-hotchips)
-   - 2021: [ISSCC](#2021-isscc)
+   - 2021: [ISSCC](#2021-isscc), [ASPLOS](#2021-asplos)
 
 ## My Contributions
-I'm working on energy-efficient architecture design for deep learning. Some featured works are presented here. Hope my new works will come out soon in the near future.
+I'm working on energy-efficient architecture design for deep learning. Some featured works are presented here. Hope my new papers will come out soon in the near future.
 
 [Aug. 2020] I have designed a deep learning processor (Evolver) with on-device quantization-voltage-frequency (QVF) tuning. Compared with conventional QVF tuning that determines policies offline, Evolver make optimal customizations for local user scenarios.
 
-- [**Evolver: A Deep Learning Processor with On-Device Quantization-Voltage-Frequency Tuning.**](https://ieeexplore.ieee.org/document/9209075) (**JSSC'20**)
+- [**Evolver: A Deep Learning Processor with On-Device Quantization-Voltage-Frequency Tuning.**](https://ieeexplore.ieee.org/document/9209075) (**JSSC'21**)
   - Evolver contains a reinforcement learning unit (RLU) that searches QVF polices based on its direct feedbacks. An outlier-skipping scheme is proposed to save unnecessary training for invalid policies under the profiled latency and energy constraints.
   - We exploit the inherent sparsity of feature/error maps in DNN training’s feedforward and backpropagation passes, and design a bidirectional speculation unit (BSU) to capture runtime sparsity and discard zero-output computation, thus reducing training cost. The feedforward speculation also benefits the execution mode.
   - Since the runtime sparsity causes time-varying workload parallelism that harms performance and efficiency, we design a reconfigurable computing engine (RCE) with an online configuration compiler (OCC) for Evolver, in order to dynamically reconfigure dataflow parallelism to match workload parallelism.
@@ -796,3 +796,12 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - An 89TOPS/W and 16.3TOPS/mm2 All-Digital SRAM-Based Full-Precision Compute-In Memory Macro in 22nm for Machine-Learning Edge Applications. (TSMC）
 - A 20nm 6GB Function-In-Memory DRAM, Based on HBM2 with a 1.2TFLOPS Programmable Computing Unit Using Bank-Level Parallelism, for Machine Learning Applications. (Samsung）
 - A 21×21 Dynamic-Precision Bit-Serial Computing Graph Accelerator for Solving Partial Differential Equations Using Finite Difference Method. (Nanyang）
+
+### 2021 ASPLOS
+- **Exploiting Gustavson's Algorithm to Accelerate Sparse Matrix Multiplication.**	(MIT, NVIDIA)
+- **SIMDRAM: A Framework for Bit-Serial SIMD Processing using DRAM.**	(ETHZ, CMU)
+- **RecSSD: Near Data Processing for Solid State Drive Based Recommendation Inference.**	(Harvard, Facebook, ASU)
+- DiAG: A Dataflow-inspired Architecture for General-purpose Processors.	(UIUC)
+- Field-Configurable Multi-resolution Inference: Rethinking Quantization.	(Harvard, Franklin & Marshall College)
+- Defensive Approximation: Securing CNNs using Approximate Computing.	(University of Sfax et al.)
+
