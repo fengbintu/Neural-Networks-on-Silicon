@@ -12,7 +12,7 @@ My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.e
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [MICRO](#2018-micro), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [ICCAD](#2018-iccad), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [HotChips](#2018-hotchips)
    - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [FPGA](#2019-fpga), [ICCAD](#2019-iccad), [ASPDAC](#2019-aspdac), [VLSI](#2019-vlsi), [HotChips](#2019-hotchips), [ASSCC](#2019-asscc)
    - 2020: [ISSCC](#2020-isscc), [ISCA](#2020-isca), [MICRO](#2020-micro), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2020-dac), [FPGA](#2020-fpga), [ICCAD](#2020-iccad), [VLSI](#2020-vlsi),  [HotChips](#2020-hotchips)
-   - 2021: [ISSCC](#2021-isscc), [ISCA](#2021-isca), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos)
+   - 2021: [ISSCC](#2021-isscc), [ISCA](#2021-isca), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [VLSI](#2021-vlsi)
 
 ## My Contributions
 I'm working on energy-efficient architecture design for deep learning. Some featured works are presented here. Hope my new papers will come out soon in the near future.
@@ -37,7 +37,7 @@ I'm working on energy-efficient architecture design for deep learning. Some feat
   - A layer-based scheduling framework is proposed to optimize both system-level energy efficiency and performance.
 
 ## Conference Papers
-This is a collection of conference papers that interest me. The emphasis is focused on, but not limited to neural networks on silicon. Papers of significance are marked in **bold**. My comments are marked in *italic*.
+This is a collection of conference papers that interest me. The emphasis is focused on, but not limited to neural networks on silicon. 
 
 ### 2014 ASPLOS
 - **DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning.** (CAS, Inria)
@@ -871,3 +871,19 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - Dual-Side Sparse Tensor Core (Microsoft）
 - RingCNN: Exploiting Algebraically-Sparse Ring Tensors for Energy-Efficient CNN-Based Computational Imaging (NTHU)
 - GoSPA: An Energy-Efficient High-Performance Globally Optimized SParse Convolutional Neural Network Accelerator (Rutgers)
+
+### 2021 VLSI
+- MN-Core - A Highly Efficient and Scalable Approach to Deep Learning (Preferred Networks)
+- CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference	(Standford, TSMC)
+- OmniDRL: A 29.3 TFLOPS/W Deep Reinforcement Learning Processor with Dual-Mode Weight Compression and On-Chip Sparse Weight Transposer	(KAIST)
+- DepFiN: A 12nm, 3.8TOPs Depth-First CNN Processor for High Res. Image Processing	(Leuven)
+- PNNPU: A 11.9 TOPS/W High-Speed 3D Point Cloud-Based Neural Network Processor with Block-Based Point Processing for Regular DRAM Access	(KAIST)
+- A 28nm 276.55TFLOPS/W Sparse Deep-Neural-Network Training Processor with Implicit Redundancy Speculation and Batch Normalization Reformulation	(THU)
+- A 13.7 TFLOPSW Floating-point DNN Processor using Heterogeneous Computing Architecture with Exponent-Computing-in-Memory	(KAIST)
+- PIMCA: A 3.4-Mb Programmable In-Memory Computing Accelerator in 28nm for On-Chip DNN Inference	(ASU)
+- A 6.54-to-26.03 TOPS/W Computing-In-Memory RNN Processor Using Input Similarity Optimization and Attention-Based Context-Breaking with Output Speculation	(THU, NTHU)
+- Fully Row/Column-Parallel In-Memory Computing SRAM Macro Employing Capacitor-Based Mixed-Signal Computation with 5-b Inputs	(Princeton)
+- HERMES Core – A 14nm CMOS and PCM-Based In-Memory Compute Core Using an Array of 300ps/LSB Linearized CCO-Based ADCs and Local Digital Processing	(IBM)
+- A 20x28 Spins Hybrid In-Memory Annealing Computer Featuring Voltage-Mode Analog Spin Operator for Solving Combinatorial Optimization Problems	(NTU, UCSB)
+- Analog In-Memory Computing in FeFET-Based 1T1R Array for Edge AI Applications	(Sony)
+- Energy-Efficient Reliable HZO FeFET Computation-in-Memory with Local Multiply & Global Accumulate Array for Source-Follower & Charge-Sharing Voltage Sensing	(Tokyo)
