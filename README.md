@@ -12,7 +12,7 @@ My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.e
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [MICRO](#2018-micro), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [ICCAD](#2018-iccad), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [HotChips](#2018-hotchips)
    - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [FPGA](#2019-fpga), [ICCAD](#2019-iccad), [ASPDAC](#2019-aspdac), [VLSI](#2019-vlsi), [HotChips](#2019-hotchips), [ASSCC](#2019-asscc)
    - 2020: [ISSCC](#2020-isscc), [ISCA](#2020-isca), [MICRO](#2020-micro), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2020-dac), [FPGA](#2020-fpga), [ICCAD](#2020-iccad), [VLSI](#2020-vlsi),  [HotChips](#2020-hotchips)
-   - 2021: [ISSCC](#2021-isscc), [ISCA](#2021-isca), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [VLSI](#2021-vlsi)
+   - 2021: [ISSCC](#2021-isscc), [ISCA](#2021-isca), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [ICCAD](#2021-iccad), [VLSI](#2021-vlsi)
 
 ## My Contributions
 I'm working on energy-efficient architecture design for deep learning. Some featured works are presented here. Hope my new papers will come out soon in the near future.
@@ -887,3 +887,10 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - A 20x28 Spins Hybrid In-Memory Annealing Computer Featuring Voltage-Mode Analog Spin Operator for Solving Combinatorial Optimization Problems	(NTU, UCSB)
 - Analog In-Memory Computing in FeFET-Based 1T1R Array for Edge AI Applications	(Sony)
 - Energy-Efficient Reliable HZO FeFET Computation-in-Memory with Local Multiply & Global Accumulate Array for Source-Follower & Charge-Sharing Voltage Sensing	(Tokyo)
+
+### 2021 ICCAD
+- Bit-Transformer: Transforming Bit-level Sparsity into Higher Preformance in ReRAM-based Accelerator	(SJTU)
+- Crossbar based Processing in Memory Accelerator Architecture for Graph Convolutional Networks	(PSU, IBM)
+- REREC: In-ReRAM Acceleration with Access-Aware Mapping for Personalized Recommendation	(Duke, THU)
+- A Framework for Area-efficient Multi-task BERT Execution on ReRAM-based Accelerators	(KAIST)
+- A Convergence Monitoring Method for DNN Training of On-Device Task Adaptation	(KAIST)
