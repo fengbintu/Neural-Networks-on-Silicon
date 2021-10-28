@@ -12,7 +12,7 @@ My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.e
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [MICRO](#2018-micro), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [ICCAD](#2018-iccad), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [HotChips](#2018-hotchips)
    - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [FPGA](#2019-fpga), [ICCAD](#2019-iccad), [ASPDAC](#2019-aspdac), [VLSI](#2019-vlsi), [HotChips](#2019-hotchips), [ASSCC](#2019-asscc)
    - 2020: [ISSCC](#2020-isscc), [ISCA](#2020-isca), [MICRO](#2020-micro), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2020-dac), [FPGA](#2020-fpga), [ICCAD](#2020-iccad), [VLSI](#2020-vlsi),  [HotChips](#2020-hotchips)
-   - 2021: [ISSCC](#2021-isscc), [ISCA](#2021-isca), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [ICCAD](#2021-iccad), [VLSI](#2021-vlsi),  [HotChips](#2021-hotchips)
+   - 2021: [ISSCC](#2021-isscc), [ISCA](#2021-isca), [MICRO](#2021-micro), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [ICCAD](#2021-iccad), [VLSI](#2021-vlsi),  [HotChips](#2021-hotchips)
 
 ## My Contributions
 I'm working on energy-efficient architecture design for deep learning. Some featured works are presented here. Hope my new papers will come out soon in the near future.
@@ -902,3 +902,30 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - Graphcore Colossus Mk2 IPU	(Graphcore)
 - The Multi-Million Core, Multi-Wafer AI Cluster	(Cerebras)
 - SambaNova SN10 RDU: Accelerating Software 2.0 with Dataflow	(SambaNova)
+
+### 2021 MICRO
+- RACER: Bit-Pipelined Processing Using Resistive Memory	(CMU, UIUC)
+- AutoFL: Enabling Heterogeneity-Aware Energy Efficient Federated Learning	(Soongsil, ASU)
+- DarKnight: An Accelerated Framework for Privacy and Integrity Preserving Deep Learning Using Trusted Hardware	(USC)
+- 2-in-1 Accelerator: Enabling Random Precision Switch for Winning Both Adversarial Robustness and Efficiency	(Rice)
+- F1: A Fast and Programmable Accelerator for Fully Homomorphic Encryption	(MIT, Umich)
+- Equinox: Training (for Free) on a Custom Inference Accelerator	(EPFL)
+- PointAcc: Efficient Point Cloud Accelerator	(MIT)
+- Noema: Hardware-Efficient Template Matching for Neural Population Pattern Detection	(Toronto, NeuroTek)
+- SquiggleFilter: An Accelerator for Portable Virus Detection	(Umich)
+- EdgeBERT: Sentence-Level Energy Optimizations for Latency-Aware Multi-Task NLP Inference	(Harvard et al.)
+- HiMA: A Fast and Scalable History-Based Memory Access Engine for Differentiable Neural Computer	(Umich)
+- FPRaker: A Processing Element for Accelerating Neural Network Training	(Toronto)
+- RecPipe: Co-Designing Models and Hardware to Jointly Optimize Recommendation Quality and Performance	(Harvard, Facebook)
+- Shift-BNN: Highly-Efficient Probabilistic Bayesian Neural Network Training via Memory-Friendly Pattern Retrieving	(Houston et al.)
+- Distilling Bit-Level Sparsity Parallelism for General Purpose Deep Learning Acceleration	(ICT, UESTC)
+- Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture	(PKU)
+- ESCALATE: Boosting the Efficiency of Sparse CNN Accelerator with Kernel Decomposition	(Duke, USC)
+- SparseAdapt: Runtime Control for Sparse Linear Algebra on a Reconfigurable Accelerator	(Umich et al.)
+- Capstan: A Vector RDA for Sparsity	(Stanford, SambaNova)
+- I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement Through Islandization	(PNNL et al.)
+
+
+
+
+
