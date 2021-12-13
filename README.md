@@ -13,6 +13,7 @@ My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.e
    - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [FPGA](#2019-fpga), [ICCAD](#2019-iccad), [ASPDAC](#2019-aspdac), [VLSI](#2019-vlsi), [HotChips](#2019-hotchips), [ASSCC](#2019-asscc)
    - 2020: [ISSCC](#2020-isscc), [ISCA](#2020-isca), [MICRO](#2020-micro), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2020-dac), [FPGA](#2020-fpga), [ICCAD](#2020-iccad), [VLSI](#2020-vlsi),  [HotChips](#2020-hotchips)
    - 2021: [ISSCC](#2021-isscc), [ISCA](#2021-isca), [MICRO](#2021-micro), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [ICCAD](#2021-iccad), [VLSI](#2021-vlsi),  [HotChips](#2021-hotchips)
+   - 2022: [ISSCC](#2022-isscc)
 
 ## My Contributions
 I'm working on energy-efficient architecture design for deep learning. Some featured works are presented here. Hope my new papers will come out soon in the near future.
@@ -926,6 +927,26 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement Through Islandization	(PNNL et al.)
 
 
-
-
-
+### 2022 ISSCC
+- A 512Gb In-Memory-Computing 3D NAND Flash Supporting Similar Vector Matching Operations on AI Edge Devices
+- A 1ynm 1.25V 8Gb, 16Gb/s/pin GDDR6-Based Accelerator-In-Memory Supporting 1TFLOPS MAC Operation and Various Activation Functions for Deep Learning Applications
+- A 22nm 4Mb STT-MRAM data-encrypted Near-Memory-Computation Macro with 192GB/s Read-and-Decryption Bandwidth and 25.1-55.1 TOPS/W at 8b MAC for AI-oriented Operations
+- A 40nm 2M-cell 8b-Precision Hybrid SLC-MLC PCM Computing-in-Memory Macro with 20.5-65.0 TOPS/W for Tiny AI Edge Devices
+- An 8Mb DC-Current-Free Binary-to-8b Precision ReRAM Nonvolatile Computing-in-Memory Macro using Time-Space-Readout with 1286.4 TOPS/W - 21.6 TOPS/W for AI Edge Devices
+- Single-Mode 6T CMOS SRAM Macros with Keeper-Loading-Free Peripherals and Row-Separate Dynamic Body Bias Achieving 2.53fW/bit Leakage for AIoT Sensing Platforms
+- A 5 nm 254 TOPS/W and 221 TOPS/mm2 Fully Digital Computing-in-Memory Supporting Wide Range Dynamic-Voltage-Frequency Scaling and Simultaneous MAC and Write Operations
+- A 1.041Mb/mm2 27.38TOPS/W Signed-INT8 Dynamic Logic Based ADC-Less SRAM ComputeIn-Memory Macro in 28nm with Reconfigurable Bitwise Operation for AI and Embedd Applications
+- A 28nm 1Mb Time-Domain 6T SRAM Computing-in-Memory Macro with 6.6ns Latency 1241 GOPS and 37.01 TOPS/W for 8b-MAC Operations for AI Edge Devices
+- A Multi-Mode 8K-MAC HW-Utilization-Aware Neural Processing Unit with a Unified Multi-Precision Datapath in 4nm Flagship Mobile SoC
+- A 65nm Systolic Neural CPU Processor for Combined Deep Learning and General-Purpose Computing with 95% PE Utilization, High Data Locality and Enhanced Endto-End Performance
+- COMB-MCM: Computing-on-Memory-Boundary NN Processor with Bipolar Bitwise Sparsity Optimization for Scalable Multi-Chiplet-Module Edge Machine Learning
+- Hiddenite: 4K-PE Hidden Network Inference 4D-Tensor Engine Exploiting On-Chip Model Construction Achieving 34.8-to-16.0TOPS/W for CIFAR-100 and ImageNet
+- A 28nm 29.2TFLOPS/W BF16 and 36.5TOPS/W INT8 Reconfigurable Digital CIM Processor with Unified FP/INT Pipeline and Bitwise In-Memory Booth Multiplication for Cloud Deep Learning Acceleration
+- DIANA: An End-to-End Energy-Efficient DIgital and ANAlog Hybrid Neural Network SoC
+- ARCHON: A 332.7TOPS/W 5b Variation-Tolerant Analog CNN Processor Featuring Analog Neuronal Computation Unit and Analog Memory
+- Analog Matrix Processor for Edge AI Real-Time Video Analytics
+- A 0.8V Intelligent Vision Sensor with Tiny Convolutional Neural Network and Programmable Weights Using Mixed-Mode Processing-in-Sensor Technique for Image Classification
+- 184QPS/W 64Mb/mm2 3D Logic-to-DRAM Hybrid Bonding with Process-Near-Memory Engine for Recommendation System
+- A 28nm 27.5TOPS/W Approximate-Computing-Based Transformer Processor with Asymptotic Sparsity Speculating and Out-of-Order Computing
+- A 28nm 15.59μJ/Token Full-Digital Bitline-Transpose CIM-Based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes
+- ReckOn: A 28nm Sub-mm2 Task-Agnostic Spiking Recurrent Neural Network Processor Enabling On-Chip Learning over Second-Long Timescales
