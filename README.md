@@ -1,6 +1,6 @@
 # Neural Networks on Silicon
 
-My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html), as a postdoctoral researcher at the Electrical and Computer Engineering Department, UCSB. Before joining UCSB, I received my Ph.D. degree from the Institute of Microelectronics, Tsinghua University. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). One of my research interests is architecture design for deep learning. This is an exciting field where fresh ideas come out every day, so I'm collecting works on related topics. Welcome to join us!
+My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html), as a postdoctoral researcher at the Electrical and Computer Engineering Department, UCSB. Before joining UCSB, I received my Ph.D. degree from the Institute of Microelectronics, Tsinghua University. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). My main research interest is architecture design for deep learning. This is an exciting field where fresh ideas come out every day, so I'm collecting works on related topics. Welcome to join us!
 
 ## Table of Contents
  - [My Contributions](#my-contributions)
@@ -12,8 +12,8 @@ My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.e
    - 2018: [ISSCC](#2018-isscc), [ISCA](#2018-isca), [MICRO](#2018-micro), [HPCA](#2018-hpca), [ASPLOS](#2018-asplos), [DAC](#2018-dac), [FPGA](#2018-fpga), [ICCAD](#2018-iccad), [DATE](#2018-date), [ASPDAC](#2018-aspdac), [VLSI](#2018-vlsi), [HotChips](#2018-hotchips)
    - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [FPGA](#2019-fpga), [ICCAD](#2019-iccad), [ASPDAC](#2019-aspdac), [VLSI](#2019-vlsi), [HotChips](#2019-hotchips), [ASSCC](#2019-asscc)
    - 2020: [ISSCC](#2020-isscc), [ISCA](#2020-isca), [MICRO](#2020-micro), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2020-dac), [FPGA](#2020-fpga), [ICCAD](#2020-iccad), [VLSI](#2020-vlsi),  [HotChips](#2020-hotchips)
-   - 2021: [ISSCC](#2021-isscc), [ISCA](#2021-isca), [MICRO](#2021-micro), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [ICCAD](#2021-iccad), [VLSI](#2021-vlsi),  [HotChips](#2021-hotchips)
-   - 2022: [ISSCC](#2022-isscc)
+   - 2021: [ISSCC](#2021-isscc), [ISCA](#2021-isca), [MICRO](#2021-micro), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [DAC](#2021-dac), [ICCAD](#2021-iccad), [VLSI](#2021-vlsi),  [HotChips](#2021-hotchips)
+   - 2022: [ISSCC](#2022-isscc), [HPCA](#2022-hpca), [ASPLOS](#2022-asplos)
 
 ## My Contributions
 I'm working on energy-efficient architecture design for deep learning. Some featured works are presented here. Hope my new papers will come out soon in the near future.
@@ -926,6 +926,19 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - Capstan: A Vector RDA for Sparsity	(Stanford, SambaNova)
 - I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement Through Islandization	(PNNL et al.)
 
+### 2021 DAC
+- MAT: Processing In-Memory Acceleration for Long-Sequence Attention
+- PIM-Quantifier: A Processing-in-Memory Platform for mRNA Quantification
+- Network-on-Interposer Design for Agile Neural-Network Processor Chip Customization
+- GCiM: A Near-Data Processing Accelerator for Graph Construction
+- An Intelligent Video Processing Architecture for Edge-cloud Video Streaming
+- Gemmini: Enabling Systematic Deep-Learning Architecture Evaluation via Full-Stack Integration
+- PixelSieve: Towards Efficient Activity Analysis From Compressed Video Streams
+- TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra
+- Scaling Deep-Learning Inference with Chiplet-based Architecture and Photonic Interconnects
+- Dancing along Battery: Enabling Transformer with Run-time Reconfigurability on Mobile Devices
+- Designing a 2048-Chiplet, 14336-Core Waferscale Processor
+- Accelerating Fully Homomorphic Encryption with Processing in Memory
 
 ### 2022 ISSCC
 - A 512Gb In-Memory-Computing 3D NAND Flash Supporting Similar Vector Matching Operations on AI Edge Devices
@@ -950,3 +963,50 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - A 28nm 27.5TOPS/W Approximate-Computing-Based Transformer Processor with Asymptotic Sparsity Speculating and Out-of-Order Computing
 - A 28nm 15.59μJ/Token Full-Digital Bitline-Transpose CIM-Based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes
 - ReckOn: A 28nm Sub-mm2 Task-Agnostic Spiking Recurrent Neural Network Processor Enabling On-Chip Learning over Second-Long Timescales
+
+### 2022 HPCA
+- LISA: Graph Neural Network based Portable Mapping on Spatial Accelerators 
+- Upward Packet Popup for Deadlock Freedom in Modular Chiplet-Based Systems
+- FAST: DNN Training Under Variable Precision Block Floating Point with Stochastic Rounding
+- TransPIM: A Memory-based Acceleration via Software-Hardware Co-Design for Transformer
+- An Optimization Framework for Mapping Multiple DNNs on Multiple Accelerator Cores
+- ScalaGraph: A Scalable Accelerator for Massively Parallel Graph Processing
+- PIMCloud: QoS-Aware Resource Management of Latency-Critical Applications in Clouds with Processing-in-Memory
+- ANNA: Specialized Architecture for Approximate Nearest Neighbor Search
+- Enabling Efficient Large-Scale Deep Learning Training with Cache Coherent Disaggregated Memory Systems
+- NeuroSync: A Scalable and Accurate Brain Simulation System using Safe and Efficient Speculation
+- Enabling High-Quality Uncertainty Quantification in a PIM Designed for Bayesian Neural Network
+- Griffin: Rethinking Sparse Optimization for Deep Learning Architectures
+- CANDLES: Channel-Aware Novel Dataflow-Microarchitecture Co-Design for Low Energy Sparse Neural Network Acceleration
+- SPACX: Silicon Photonics-based Scalable Chiplet Accelerator for DNN Inference
+- RM-SSD: In-Storage Computing for Large-Scale Recommendation Inference
+- CAMA: Energy and Memory Efficient Automata Processing in Content-Addressable Memories
+- TNPU: Supporting Trusted Execution with Tree-less Integrity Protection for Neural Processing Unit
+- S2TA: Exploiting Structured Sparsity for Energy-Efficient Mobile CNN Acceleration
+- Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures
+- Atomic Dataflow based Graph-Level Workload Orchestration for Scalable DNN Accelerators
+- SecNDP: Secure Near-Data Processing with Untrusted Memory
+- Direct Spatial Implementation of Sparse Matrix Multipliers for Reservoir Computing
+- Hercules: Heterogeneity-aware Inference Serving for At-scale Personalized Recommendation
+- ReGNN: A Redundancy-Eliminated Graph Neural Networks Accelerator
+- Parallel Time Batching: Systolic-Array Acceleration of Sparse Spiking Neural Computation
+- GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design
+- CoopMC: Algorithm-Architecture Co-Optimization for Markov Chain Monte Carlo Accelerators
+- Application Defined On-chip Networks for Heterogeneous Chiplets: An Implementation Perspective
+- The Specialized High-Performance Network on Anton 3
+- DarkGates: A Hybrid Power-gating Architecture to Mitigate Dark Sides of Dark-Silicon in High Performance Processors
+
+### 2022 ASPLOS
+- DOTA: Detect and Omit Weak Attentions for Scalable Transformer Acceleration 
+- A Full-stack Search Technique for Domain Optimized Deep Learning Accelerators
+- FINGERS: Exploiting Fine-Grained Parallelism in Graph Mining Accelerators
+- BiSon-e: A Lightweight and High-Performance Accelerator for Narrow Integer Linear Algebra Computing on the Edge
+- RecShard: Statistical Feature-Based Memory Optimization for Industry-Scale Neural Recommendation
+- AStitch: Enabling A New Multi-Dimensional Optimization Space for Memory-Intensive ML Training and Inference on Modern SIMT Architectures
+- NASPipe: High Performance and Reproducible Pipeline Parallel Supernet Training via Causal Synchronous Parallelism
+- VELTAIR: Towards High-Performance Multi-Tenant Deep Learning Services via Adaptive Compilation and Scheduling
+- Breaking the Computation and Communication Abstraction Barrier in Distributed Machine Learning Workloads
+- GenStore: An In-storage Processing System for Genome Sequence Analysis
+- ProSE: The Architecture and Design of a Protein Discovery Engine
+- REVAMP: A Systematic Framework for Heterogeneous CGRA Realization
+- Invisible Bits: Hiding Secret Messages in SRAM’s Analog Domain
