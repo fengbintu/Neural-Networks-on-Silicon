@@ -1,6 +1,6 @@
 # Neural Networks on Silicon
 
-My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html), as a postdoctoral researcher at the Electrical and Computer Engineering Department, UCSB. Before joining UCSB, I received my Ph.D. degree from the Institute of Microelectronics, Tsinghua University. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). My main research interest is architecture design for deep learning. This is an exciting field where fresh ideas come out every day, so I'm collecting works on related topics. Welcome to join us!
+My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html) and Prof. [Yufei Ding](http://sites.cs.ucsb.edu/~yufeiding/), as a postdoctoral researcher at the Department of Electrical and Computer Engineering, UCSB. Before joining UCSB, I received my Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. Shaojun Wei and Prof. Shouyi Yin. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). My main research interest is chip and architecture design for AI. This is an exciting field where fresh ideas come out every day, so I'm collecting works on related topics. Welcome to join us!
 
 ## Table of Contents
  - [My Contributions](#my-contributions)
@@ -16,29 +16,51 @@ My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.e
    - 2022: [ISSCC](#2022-isscc), [HPCA](#2022-hpca), [ASPLOS](#2022-asplos)
 
 ## My Contributions
-I'm working on energy-efficient architecture design for deep learning. Some featured works are presented here. Hope my new papers will come out soon in the near future.
+My main research interest is chip and architecture design for AI. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). 
 
-[Aug. 2020] I have designed a deep learning processor (Evolver) with on-device quantization-voltage-frequency (QVF) tuning. Compared with conventional QVF tuning that determines policies offline, Evolver make optimal customizations for local user scenarios.
+[Feb. 2022] ReDCIM and TranCIM. Reconfigurable Digital Computing-in-Memory: Innovative Design Philosophy for AI Chips.
+- **A 28nm 29.2TFLOPS/W BF16 and 36.5TOPS/W INT8 Reconfigurable Digital CIM Processor with Unified FP/INT Pipeline and Bitwise in-Memory Booth Multiplication for Cloud Deep Learning Acceleration** (**ISSCC'22**)
+  - I designed a 28nm Reconfigurable Digital CIM (ReDCIM) chip for cloud AI, with flexible FP/INT support and three features from top to bottom. 
+    - ReDCIM is designed on an in-memory alignment-free FP MAC pipeline that interleaves exponent alignment and INT mantissa MAC. Both inputs and weights are pre-aligned to their local maximum exponents, so CIM focuses on only MAC acceleration without complex alignment logic. 
+    - A Bitwise in-Memory Booth Multiplication (BM$^2$) architecture is designed with bitwise input Booth encoding in the BM$^2$ controller and partial product recoding in the SRAM-CIM macro, which reduces nearly 50% cycle count and bitwise multiplications. 
+    - ReDCIM implements hierarchical and reconfigurable in-memory accumulators to enable flexible support of BF16 (BFloat16)/FP32 and INT8/16 in the same CIM macro.
+- **A 28nm 15.59$\mu$J/Token Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes** (**ISSCC'22**)
+  - I designed a 28nm Transformer CIM (TranCIM) chip following the reconfigurable digital CIM design philosophy. There are three features targeting the memory and computation challenges raised by the attention mechanism of Transformer models.
+    - TranCIM connects its CIM engines through a reconfigurable streaming network (RSN) with dedicated modes for different layers in Transformer: Pipeline mode for attention layers and parallel mode for fully-connected layers. 
+    - TranCIM's SRAM-CIM macro is designed with a bitline-transpose structure to align the directions of input feeding and weight writing. Thus in the QKT-pipeline mode, transposing K is realized without additional storage and buffer access. 
+    - TranCIM implements a sparse attention scheduler (SAS) to dynamically configure CIM workload for different sparse attention patterns.
+- ReDCIM is the first CIM chip for cloud AI. TranCIM is the first CIM chip for Transformer models.
 
-- [**Evolver: A Deep Learning Processor with On-Device Quantization-Voltage-Frequency Tuning.**](https://ieeexplore.ieee.org/document/9209075) (**JSSC'21**)
-  - Evolver contains a reinforcement learning unit (RLU) that searches QVF polices based on its direct feedbacks. An outlier-skipping scheme is proposed to save unnecessary training for invalid policies under the profiled latency and energy constraints.
-  - We exploit the inherent sparsity of feature/error maps in DNN training’s feedforward and backpropagation passes, and design a bidirectional speculation unit (BSU) to capture runtime sparsity and discard zero-output computation, thus reducing training cost. The feedforward speculation also benefits the execution mode.
-  - Since the runtime sparsity causes time-varying workload parallelism that harms performance and efficiency, we design a reconfigurable computing engine (RCE) with an online configuration compiler (OCC) for Evolver, in order to dynamically reconfigure dataflow parallelism to match workload parallelism.
+[Aug. 2020] Evolver, Evolvable AI Chip.
 
-[Jun. 2018] A retention-aware neural acceleration (RANA) framework has been designed, which strengthens DNN accelerators with refresh-optimized eDRAM to save total system energy. RANA includes three techniques from the training, scheduling, architecture levels respectively.
-- [**RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM.**](https://ieeexplore.ieee.org/abstract/document/8416839/) (**ISCA'18**) 
-  - **Training Level**: A retention-aware training method is proposed to improve eDRAM's tolerable retention time with no accuracy loss. Bit-level retention errors are injected during training, so the network' s tolerance to retention failures is improved. A higher tolerable failure rate leads to longer tolerable retention time, so more refresh can be removed.
-  - **Scheduling Level**: A system energy consumption model is built in consideration of computing energy, on-chip buffer access energy, refresh energy and off-chip memory access energy. RANA schedules networks in a hybrid computation pattern based on this model. Each layer is assigned with the computation pattern that costs the lowest energy.
-  - **Architecture Level**: RANA independently disables refresh to eDRAM banks based on their storing data's lifetime, saving more refresh energy. A programmable eDRAM controller is proposed to enable the above fine-grained refresh controls.
+- [**Evolver: A Deep Learning Processor with On-Device Quantization-Voltage-Frequency Tuning**](https://ieeexplore.ieee.org/document/9209075) (**JSSC'21**)
+  - I designed a 28nm evolvable AI chip (Evolver) with DNN training and reinforcement learning capabilities, to enable intelligence evolution during the chip's long lifetime. This work demonstrates a lifelong learning example of on-device quantization-voltage-frequency (QVF) tuning. Compared with conventional QVF tuning that determines policies offline, Evolver makes optimal customizations for varying local user scenarios. To improve the performance and energy efficiency of both DNN training and inference, we introduce three techniques in the architecture level.
+    - Evolver contains a reinforcement learning unit (RLU) that searches QVF polices based on its direct feedbacks. An outlier-skipping scheme is proposed to save unnecessary training for invalid policies under the profiled latency and energy constraints.
+    - We exploit the inherent sparsity of feature/error maps in DNN training’s feedforward and backpropagation passes, and design a bidirectional speculation unit (BSU) to capture runtime sparsity and discard zero-output computation, thus reducing training cost. The feedforward speculation also benefits the execution mode.
+    - Since the runtime sparsity causes time-varying workload parallelism that harms performance and efficiency, we design a reconfigurable computing engine (RCE) with an online configuration compiler (OCC) for Evolver, in order to dynamically reconfigure dataflow parallelism to match workload parallelism.
+  - Evolver was nominated for [2021 Top-10 Research in China’s Semiconductors](https://mp.weixin.qq.com/s/Sad4Kc9lP8XW9vebdt7KaA).
 
-[Apr. 2017] A deep convoultional neural network architecture (DNA) has been designed with 1~2 orders higher energy efficiency over the state-of-the-art works. I'm trying to further improve the architecture for ultra low-power compting. 
-- [**Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns.**](http://ieeexplore.ieee.org/document/7898402/) (**TVLSI popular paper**)
-  - This is the first work to assign Input/Output/Weight Reuse to different layers of a CNN, which optimizes system-level energy consumption based on different CONV parameters.
-  - A 4-level CONV engine is designed to to support different tiling parameters for higher resource utilization and performance.
-  - A layer-based scheduling framework is proposed to optimize both system-level energy efficiency and performance.
+[Jun. 2018] RANA, DNN Accelerator with High-Density Memory and Software-Hardware Co-design.
+
+- [**RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM**](https://ieeexplore.ieee.org/document/8416839/) (**ISCA'18**) 
+  - I designed a retention-aware neural acceleration (RANA) framework, which strengthens DNN accelerators with refresh-optimized eDRAM to save total system energy. RANA includes three techniques from the training, scheduling, architecture levels respectively.
+    - **Training Level**: A retention-aware training method is proposed to improve eDRAM's tolerable retention time with no accuracy loss. Bit-level retention errors are injected during training, so the network' s tolerance to retention failures is improved. A higher tolerable failure rate leads to longer tolerable retention time, so more refresh can be removed.
+    - **Scheduling Level**: A system energy consumption model is built in consideration of computing energy, on-chip buffer access energy, refresh energy and off-chip memory access energy. RANA schedules networks in a hybrid computation pattern based on this model. Each layer is assigned with the computation pattern that costs the lowest energy.
+    - **Architecture Level**: RANA independently disables refresh to eDRAM banks based on their storing data's lifetime, saving more refresh energy. A programmable eDRAM controller is proposed to enable the above fine-grained refresh controls.
+  - RANA was the **only** work first-authored by a Chinese research team in ISCA'18, and covered by [Tsinghua University News](https://www.tsinghua.edu.cn/info/1175/19449.htm) and [AI Tech Talk](https://www.leiphone.com/news/201806/wFQ2Sc52Utikcl8D.html).
+
+[Apr. 2017] DNA and Thinker, Reconfigurable Architecture for DNN Acceleration.
+
+- [**Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns**](http://ieeexplore.ieee.org/document/7898402/) (**TVLSI popular paper. No.5/2/6/8/8 Downloaded Manuscripts in 2017/2018/2019/2020/2021: 6 Times Monthly No.1 since Sep. 2017.**)
+  - I designed a deep convolutional neural network accelerator (DNA) targeting flexible and efficient CNN acceleration. This is the first work to assign Input/Output/Weight Reuse to different layers of a CNN, which optimizes system-level energy consumption based on different CONV parameters. DNA has two main features, in the architecture level and scheduling leverl, respectively.
+    - A 4-level CONV engine is designed to to support different tiling parameters for higher resource utilization and performance.
+    - A layer-based scheduling framework is proposed to optimize both system-level energy efficiency and performance.
+- [**A High Energy Efficient Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications**](http://ieeexplore.ieee.org/document/8207783/) (**JSSC'18**) 
+  - A reconfigurable multi-modal neural network processor (Thinker) was fabricated based on the DNA architecture, supporting CNN, RNN, and FCN. 
+  - The Thinker chip was exhibited at the [2016 National Mass Innovation and Entrepreneurship Week](https://www.tsinghua.edu.cn/info/1173/18061.htm), as a representative work from Tsinghua University. The Thinker chip was highly praised by Chinese Premier Li Keqiang, and featured by Yang Lan One on One, [AI Tech Talk](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html) and [MIT Technology Review](https://www.technologyreview.com/s/609954/china-wants-to-make-the-chips-that-will-add-ai-to-any-gadget/?from=timeline&isappinstalled=0). It won the [ISLPED'17 Design Contest Award](http://islped.org/2017/index.php), which was [the first time for a Chinese Mainland team to win the award](https://www.tsinghua.edu.cn/info/1175/19744.htm).
 
 ## Conference Papers
-This is a collection of conference papers that interest me. The emphasis is focused on, but not limited to neural networks on silicon. 
+This is a collection of conference papers that interest me. They are focused on, but not limited to neural networks on silicon. 
 
 ### 2014 ASPLOS
 - **DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning.** (CAS, Inria)
