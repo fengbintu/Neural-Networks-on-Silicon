@@ -19,12 +19,12 @@ My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.e
 My main research interest is chip and architecture design for AI. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). 
 
 [Feb. 2022] **ReDCIM and TranCIM. Reconfigurable Digital Computing-in-Memory: Innovative Design Philosophy for AI Chips.**
-- A 28nm 29.2TFLOPS/W BF16 and 36.5TOPS/W INT8 Reconfigurable Digital CIM Processor with Unified FP/INT Pipeline and Bitwise in-Memory Booth Multiplication for Cloud Deep Learning Acceleration (**ISSCC'22**)
+- [A 28nm 29.2TFLOPS/W BF16 and 36.5TOPS/W INT8 Reconfigurable Digital CIM Processor with Unified FP/INT Pipeline and Bitwise in-Memory Booth Multiplication for Cloud Deep Learning Acceleration](https://ieeexplore.ieee.org/document/9731762) (**ISSCC'22**)
   - I designed a 28nm Reconfigurable Digital CIM (ReDCIM) chip for cloud AI, with flexible FP/INT support and three features from top to bottom. 
     - ReDCIM is designed on an in-memory alignment-free FP MAC pipeline that interleaves exponent alignment and INT mantissa MAC. Both inputs and weights are pre-aligned to their local maximum exponents, so CIM focuses on only MAC acceleration without complex alignment logic. 
     - A Bitwise in-Memory Booth Multiplication (BM^2) architecture is designed with bitwise input Booth encoding in the BM^2 controller and partial product recoding in the SRAM-CIM macro, which reduces nearly 50% cycle count and bitwise multiplications. 
     - ReDCIM implements hierarchical and reconfigurable in-memory accumulators to enable flexible support of BF16 (BFloat16)/FP32 and INT8/16 in the same CIM macro.
-- A 28nm 15.59uJ/Token Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes (**ISSCC'22**)
+- [A 28nm 15.59uJ/Token Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes](https://ieeexplore.ieee.org/document/9731645) (**ISSCC'22**)
   - I designed a 28nm Transformer CIM (TranCIM) chip following the reconfigurable digital CIM design philosophy. There are three features targeting the memory and computation challenges raised by the attention mechanism of Transformer models.
     - TranCIM connects its CIM engines through a reconfigurable streaming network (RSN) with dedicated modes for different layers in Transformer: Pipeline mode for attention layers and parallel mode for fully-connected layers. 
     - TranCIM's SRAM-CIM macro is designed with a bitline-transpose structure to align the directions of input feeding and weight writing. Thus in the QKT-pipeline mode, transposing K is realized without additional storage and buffer access. 
