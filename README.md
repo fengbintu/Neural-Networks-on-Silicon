@@ -18,18 +18,19 @@ My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.e
 ## My Contributions
 My main research interest is chip and architecture design for AI. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). 
 
-[Feb. 2022] **ReDCIM and TranCIM. Reconfigurable Digital Computing-in-Memory: Innovative Design Philosophy for AI Chips.**
+[Feb. 2022] **Reconfigurable Digital Computing-in-Memory AI Chip.**
+- I designed an innovative AI chip architecture, Reconfigurable Digital Computing-In-Memory. The architecture fuses the philosophy of reconfigurable computing and digital computing-in-memory, balancing efficiency, accuracy, and flexibility for emerging AI chips. I designed two 28nm chips based on the new architecture, Reconfigurable Digital CIM (ReDCIM) and Transformer CIM (TranCIM). 
+- ReDCIM (pronounced as "red-CIM") is the first CIM chip for cloud AI with flexible FP/INT support, which was covered by [Synced](https://mp.weixin.qq.com/s/v82Bt99l43S6Kegf83_q6A). TranCIM is the first CIM chip for Transformer models, which tackles the memory and computation challenges raised by Transformer's attention mechanism.
 - [A 28nm 29.2TFLOPS/W BF16 and 36.5TOPS/W INT8 Reconfigurable Digital CIM Processor with Unified FP/INT Pipeline and Bitwise in-Memory Booth Multiplication for Cloud Deep Learning Acceleration](https://ieeexplore.ieee.org/document/9731762) (**ISSCC'22**)
-  - I designed a 28nm Reconfigurable Digital CIM (ReDCIM) chip for cloud AI, with flexible FP/INT support and three features from top to bottom. 
+  - ReDCIM is designed for cloud AI, with flexible FP/INT support and three features from top to bottom. 
     - ReDCIM is designed on an in-memory alignment-free FP MAC pipeline that interleaves exponent alignment and INT mantissa MAC. Both inputs and weights are pre-aligned to their local maximum exponents, so CIM focuses on only MAC acceleration without complex alignment logic. 
-    - A Bitwise in-Memory Booth Multiplication (BM^2) architecture is designed with bitwise input Booth encoding in the BM^2 controller and partial product recoding in the SRAM-CIM macro, which reduces nearly 50% cycle count and bitwise multiplications. 
+    - A Bitwise in-Memory Booth Multiplication (BM$^2$) architecture is designed with bitwise input Booth encoding in the BM$^2$ controller and partial product recoding in the SRAM-CIM macro, which reduces nearly 50% cycle count and bitwise multiplications. 
     - ReDCIM implements hierarchical and reconfigurable in-memory accumulators to enable flexible support of BF16 (BFloat16)/FP32 and INT8/16 in the same CIM macro.
 - [A 28nm 15.59uJ/Token Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes](https://ieeexplore.ieee.org/document/9731645) (**ISSCC'22**)
-  - I designed a 28nm Transformer CIM (TranCIM) chip following the reconfigurable digital CIM design philosophy. There are three features targeting the memory and computation challenges raised by the attention mechanism of Transformer models.
+  - TranCIM has three features targeting the challenges raised by the attention mechanism of Transformer models.
     - TranCIM connects its CIM engines through a reconfigurable streaming network (RSN) with dedicated modes for different layers in Transformer: Pipeline mode for attention layers and parallel mode for fully-connected layers. 
     - TranCIM's SRAM-CIM macro is designed with a bitline-transpose structure to align the directions of input feeding and weight writing. Thus in the QKT-pipeline mode, transposing K is realized without additional storage and buffer access. 
     - TranCIM implements a sparse attention scheduler (SAS) to dynamically configure CIM workload for different sparse attention patterns.
-- ReDCIM is the first CIM chip for cloud AI. TranCIM is the first CIM chip for Transformer models.
 
 [Aug. 2020] **Evolver, Evolvable AI Chip.**
 
@@ -40,7 +41,7 @@ My main research interest is chip and architecture design for AI. For more infor
     - Since the runtime sparsity causes time-varying workload parallelism that harms performance and efficiency, we design a reconfigurable computing engine (RCE) with an online configuration compiler (OCC) for Evolver, in order to dynamically reconfigure dataflow parallelism to match workload parallelism.
   - Evolver was nominated for [2021 Top-10 Research in China’s Semiconductors](https://mp.weixin.qq.com/s/Sad4Kc9lP8XW9vebdt7KaA).
 
-[Jun. 2018] **RANA, DNN Accelerator with High-Density Memory and Software-Hardware Co-design.**
+[Jun. 2018] **RANA, Software-Hardware Co-design for AI Chip Memory Optimization.**
 
 - [RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM](https://ieeexplore.ieee.org/document/8416839/) (**ISCA'18**) 
   - I designed a retention-aware neural acceleration (RANA) framework, which strengthens DNN accelerators with refresh-optimized eDRAM to save total system energy. RANA includes three techniques from the training, scheduling, architecture levels respectively.
@@ -49,7 +50,7 @@ My main research interest is chip and architecture design for AI. For more infor
     - **Architecture Level**: RANA independently disables refresh to eDRAM banks based on their storing data's lifetime, saving more refresh energy. A programmable eDRAM controller is proposed to enable the above fine-grained refresh controls.
   - RANA was the **only** work first-authored by a Chinese research team in ISCA'18, and covered by [Tsinghua University News](https://www.tsinghua.edu.cn/info/1175/19449.htm) and [AI Tech Talk](https://www.leiphone.com/news/201806/wFQ2Sc52Utikcl8D.html).
 
-[Apr. 2017] **DNA and Thinker, Reconfigurable Architecture for DNN Acceleration.**
+[Apr. 2017] **DNA and Thinker, Reconfigurable AI Chip.**
 
 - [Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/) (**TVLSI popular paper. No.5/2/6/8/8 Downloaded Manuscripts in 2017~2021: 6 Times Monthly No.1 since Sep. 2017.**)
   - I designed a deep convolutional neural network accelerator (DNA) targeting flexible and efficient CNN acceleration. This is the first work to assign Input/Output/Weight Reuse to different layers of a CNN, which optimizes system-level energy consumption based on different CONV parameters. DNA has two main features, in the architecture level and scheduling leverl, respectively.
