@@ -24,7 +24,7 @@ My main research interest is chip and architecture design for AI. For more infor
 - [A 28nm 29.2TFLOPS/W BF16 and 36.5TOPS/W INT8 Reconfigurable Digital CIM Processor with Unified FP/INT Pipeline and Bitwise in-Memory Booth Multiplication for Cloud Deep Learning Acceleration](https://ieeexplore.ieee.org/document/9731762) (**ISSCC'22**)
   - ReDCIM is designed for cloud AI, with flexible FP/INT support and three features from top to bottom. 
     - ReDCIM is designed on an in-memory alignment-free FP MAC pipeline that interleaves exponent alignment and INT mantissa MAC. Both inputs and weights are pre-aligned to their local maximum exponents, so CIM focuses on only MAC acceleration without complex alignment logic. 
-    - A Bitwise in-Memory Booth Multiplication (BM$^2$) architecture is designed with bitwise input Booth encoding in the BM$^2$ controller and partial product recoding in the SRAM-CIM macro, which reduces nearly 50% cycle count and bitwise multiplications. 
+    - A Bitwise in-Memory Booth Multiplication (BM^2) architecture is designed with bitwise input Booth encoding in the BM^2 controller and partial product recoding in the SRAM-CIM macro, which reduces nearly 50% cycle count and bitwise multiplications. 
     - ReDCIM implements hierarchical and reconfigurable in-memory accumulators to enable flexible support of BF16 (BFloat16)/FP32 and INT8/16 in the same CIM macro.
 - [A 28nm 15.59uJ/Token Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes](https://ieeexplore.ieee.org/document/9731645) (**ISSCC'22**)
   - TranCIM has three features targeting the challenges raised by the attention mechanism of Transformer models.
