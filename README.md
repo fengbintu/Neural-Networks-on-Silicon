@@ -13,7 +13,7 @@ My name is Fengbin Tu. I'm currently working with Prof. [Yuan Xie](https://www.e
    - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [FPGA](#2019-fpga), [ICCAD](#2019-iccad), [ASPDAC](#2019-aspdac), [VLSI](#2019-vlsi), [HotChips](#2019-hotchips), [ASSCC](#2019-asscc)
    - 2020: [ISSCC](#2020-isscc), [ISCA](#2020-isca), [MICRO](#2020-micro), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2020-dac), [FPGA](#2020-fpga), [ICCAD](#2020-iccad), [VLSI](#2020-vlsi),  [HotChips](#2020-hotchips)
    - 2021: [ISSCC](#2021-isscc), [ISCA](#2021-isca), [MICRO](#2021-micro), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [DAC](#2021-dac), [ICCAD](#2021-iccad), [VLSI](#2021-vlsi),  [HotChips](#2021-hotchips)
-   - 2022: [ISSCC](#2022-isscc), [HPCA](#2022-hpca), [ASPLOS](#2022-asplos)
+   - 2022: [ISSCC](#2022-isscc), [ISCA](#2022-isca), [HPCA](#2022-hpca), [ASPLOS](#2022-asplos)
 
 ## My Contributions
 My main research interest is chip and architecture design for AI. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). 
@@ -1033,3 +1033,28 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - ProSE: The Architecture and Design of a Protein Discovery Engine
 - REVAMP: A Systematic Framework for Heterogeneous CGRA Realization
 - Invisible Bits: Hiding Secret Messages in SRAM’s Analog Domain
+
+### 2022 ISCA
+- TDGraph: A Topology-Driven Accelerator for High-Performance Streaming Graph Processing
+- DIMMining: Pruning-Efficient and Parallel Graph Mining on DIMM-based Near-Memory-Computing
+- NDMiner: Accelerating Graph Pattern Mining Using Near Data Processing 
+- SmartSAGE: Training Large-scale Graph Neural Networks using In-Storage Processing Architectures 
+- Hyperscale FPGA-As-A-Service Architecture for Large-Scale Distributed Graph Neural Network
+- Crescent: Taming Memory Irregularities for Accelerating Deep Point Cloud Analytics 
+- The Mozart Reuse Exposed Dataflow Processor for AI and Beyond 
+- Software-Hardware Co-design for Fast and Scalable Training of Deep Learning Recommendation Models
+- AI Accelerator on IBM Telum Processor
+- Understanding Data Storage and Ingestion for Large-Scale Deep Recommendation Model
+- Cascading Structured Pruning: Enabling High Data Reuse for Sparse DNN Accelerators 
+- Anticipating and Eliminating Redundant Computations in Accelerated Sparse Training 
+- SIMD^2: A Generalized Matrix Instruction Set for Accelerating Tensor Computation beyond GEMM
+- A Software-defined Tensor Streaming Multiprocessor for Large-Scale Machine Learning 
+- A Network Bandwidth-Aware Collective Scheduling Policy for Distributed Training of DL Models 
+- Increasing Ising Machine Capacity with Multi-Chip Architectures 
+- Training Personalized Recommendation Systems from (GPU) Scratch: Look Forward not Backwards 
+- AMOS: Enabling Automatic Mapping for Tensor Computations On Spatial Accelerators with Hardware Abstraction
+- Mokey: Enabling Narrow Fixed-Point Inference for Out-of-the-Box Floating-Point Transformer Models 
+- Accelerating Attention through Gradient-Based Learned Runtime Pruning 
+
+
+
