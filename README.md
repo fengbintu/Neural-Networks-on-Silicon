@@ -1,6 +1,6 @@
 # Neural Networks on Silicon
 
-Fengbin Tu is currently working with Prof. [Tim Kwang-Ting CHENG](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326), as a Postdoctoral Fellow at the AI Chip Center for Emerging Smart Systems (ACCESS) and The Hong Kong University of Science and Technology. He received the Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm). He worked with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html) and Prof. [Yufei Ding](http://sites.cs.ucsb.edu/~yufeiding/), as a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), University of California, Santa Barbara, from 2019 to 2022. For more informantion about Dr. Tu, please refer to [his homepage](https://fengbintu.github.io/). Dr. Tu's main research interest is chip and architecture design for AI. This is an exciting field where fresh ideas come out every day, so he's collecting works on related topics. Welcome to join!
+Fengbin Tu is currently working with Prof. [Tim Kwang-Ting CHENG](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326), as a Postdoctoral Fellow at the AI Chip Center for Emerging Smart Systems (ACCESS) and The Hong Kong University of Science and Technology. He received the Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm). He worked with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html), as a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), University of California, Santa Barbara, from 2019 to 2022. For more informantion about Dr. Tu, please refer to [his homepage](https://fengbintu.github.io/). Dr. Tu's main research interest is chip and architecture design for AI. This is an exciting field where fresh ideas come out every day, so he's collecting works on related topics. Welcome to join!
 
 ## Table of Contents
  - [My Contributions](#my-contributions)
@@ -13,7 +13,7 @@ Fengbin Tu is currently working with Prof. [Tim Kwang-Ting CHENG](https://seng.h
    - 2019: [ISSCC](#2019-isscc), [ISCA](#2019-isca), [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [DAC](#2019-dac), [FPGA](#2019-fpga), [ICCAD](#2019-iccad), [ASPDAC](#2019-aspdac), [VLSI](#2019-vlsi), [HotChips](#2019-hotchips), [ASSCC](#2019-asscc)
    - 2020: [ISSCC](#2020-isscc), [ISCA](#2020-isca), [MICRO](#2020-micro), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2020-dac), [FPGA](#2020-fpga), [ICCAD](#2020-iccad), [VLSI](#2020-vlsi), [HotChips](#2020-hotchips)
    - 2021: [ISSCC](#2021-isscc), [ISCA](#2021-isca), [MICRO](#2021-micro), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [DAC](#2021-dac), [ICCAD](#2021-iccad), [VLSI](#2021-vlsi), [HotChips](#2021-hotchips)
-   - 2022: [ISSCC](#2022-isscc), [ISCA](#2022-isca), [HPCA](#2022-hpca), [ASPLOS](#2022-asplos), [HotChips](#2022-hotchips)
+   - 2022: [ISSCC](#2022-isscc), [ISCA](#2022-isca), [MICRO](#2022-micro), [HPCA](#2022-hpca), [ASPLOS](#2022-asplos), [HotChips](#2022-hotchips)
 
 ## My Contributions
 My main research interest is chip and architecture design for AI. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). 
@@ -1062,3 +1062,34 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - DOJO: The Microarchitecture of Tesla's Exa-Scale Computer
 - DOJO - Super-Compute System Scaling for ML Training
 - Cerebras Architecture Deep Dive: First Look Inside the HW/SW Co-Design for Deep Learning
+
+### 2022 MICRO
+- Cambricon-P: A Bitflow Architecture for Arbitrary Precision Computing
+- OverGen: Improving FPGA Usability Through Domain-specific Overlay Generation
+- big.VLITTLE: On-Demand Data-Parallel Acceleration for Mobile Systems on Chip 
+- Pushing Point Cloud Compression to Edge 
+- ROG: A High Performance and Robust Distributed Training System for Robotic IoT 
+- Automatic Domain-Specific SoC Design for Autonomous Unmanned Aerial Vehicles 
+- GCD2: A Globally Optimizing Compiler for Mapping DNNs to Mobile DSPs
+- Skipper: Enabling Efficient SNN Training Through Activation-Checkpointing and Time-Skipping 
+- Going Further With Winograd Convolutions: Tap-Wise Quantization for Efficient Inference on 4x4 Tiles
+- HARMONY: Heterogeneity-Aware Hierarchical Management for Federated Learning System 
+- Adaptable Butterfly Accelerator for Attention-Based NNs via Hardware and Algorithm Co-Design 
+- DFX: A Low-Latency Multi-FPGA Appliance for Accelerating Transformer-Based Text Generation
+- GenPIP: In-Memory Acceleration of Genome Analysis by Tight Integration of Basecalling and Read Mapping 
+- BEACON: Scalable Near-Data-Processing Accelerators for Genome Analysis near Memory Pool with the CXL Support
+- ICE: An Intelligent Cognition Engine with 3D NAND-based In-Memory Computing for Vector Similarity Search Acceleration 
+- Sparse Attention Acceleration with Synergistic In-Memory Pruning and On-Chip Recomputation 
+- FracDRAM: Fractional Values in Off-the-Shelf DRAM
+- pLUTo: Enabling Massively Parallel Computation in DRAM via Lookup Tables 
+- Multi-Layer In-Memory Processing 
+- Flash-Cosmos: In-Flash Bitwise Operations Using Inherent Computation Capability of NAND Flash Memory 
+- Scaling Superconducting Quantum Computers with Chiplet Architectures 
+- Towards Developing High Performance RISC-V Processors Using Agile Methodology 
+- A Data-Centric Accelerator for High-Performance Hypergraph Processing 
+- DPU-v2: Energy-Efficient Execution of Irregular Directed Acyclic Graphs
+- 3D-FPIM: An Extreme Energy-Efficient DNN Acceleration System Using 3D NAND Flash-Based In-Situ PIM Unit
+- DeepBurning-SEG: Generating DNN Accelerators of Segment-Grained Pipeline Architecture
+- ANT: Exploiting Adaptive Numerical Data Type for Low-Bit Deep Neural Network Quantization 
+- Sparseloop: An Analytical Approach to Sparse Tensor Accelerator Modeling 
+- Ristretto: An Atomized Processing Architecture for Sparsity-Condensed Stream Flow in CNN
