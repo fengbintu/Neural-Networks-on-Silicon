@@ -1,6 +1,6 @@
 # Neural Networks on Silicon
 
-Fengbin Tu is currently working with Prof. [Tim Kwang-Ting CHENG](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326), as a Postdoctoral Fellow at the AI Chip Center for Emerging Smart Systems (ACCESS) and The Hong Kong University of Science and Technology. He received the Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm). He worked with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html), as a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), University of California, Santa Barbara, from 2019 to 2022. For more informantion about Dr. Tu, please refer to [his homepage](https://fengbintu.github.io/). Dr. Tu's main research interest is chip and architecture design for AI. This is an exciting field where fresh ideas come out every day, so he's collecting works on related topics. Welcome to join!
+Fengbin Tu is currently an [Adjunct Assistant Professor](https://ece.hkust.edu.hk/fengbintu) in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology. He is also a Postdoctoral Fellow at the AI Chip Center for Emerging Smart Systems (ACCESS), working with Prof. [Tim Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326) and Prof. [Chi-Ying Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui). He received the Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm). He worked with Prof. [Yuan Xie](https://seal.ece.ucsb.edu/people/yuan-xie) and Prof. [Yufei Ding](https://picassolab.squarespace.com/yufei), as a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), University of California, Santa Barbara, from 2019 to 2022. For more informantion about Dr. Tu, please refer to [his homepage](https://fengbintu.github.io/). Dr. Tu's main research interest is chip and architecture design for AI. This is an exciting field where fresh ideas come out every day, so he's collecting works on related topics. Welcome to join!
 
 ## Table of Contents
  - [My Contributions](#my-contributions)
@@ -17,6 +17,8 @@ Fengbin Tu is currently working with Prof. [Tim Kwang-Ting CHENG](https://seng.h
 
 ## My Contributions
 My main research interest is chip and architecture design for AI. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). 
+
+[Feb. 2023] **Two Computing-In-Memory AI chips will appear at ISSCC'23.**
 
 [Feb. 2022] **Reconfigurable Digital Computing-In-Memory AI Chip.**
 - I designed an innovative AI chip architecture, Reconfigurable Digital Computing-In-Memory. The architecture fuses the philosophy of reconfigurable computing and digital computing-in-memory, balancing efficiency, accuracy, and flexibility for emerging AI chips. I designed two 28nm chips based on the new architecture, Reconfigurable Digital CIM (ReDCIM) and Transformer CIM (TranCIM). 
