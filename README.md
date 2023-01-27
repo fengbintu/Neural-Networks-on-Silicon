@@ -14,6 +14,7 @@ Fengbin Tu is currently an [Adjunct Assistant Professor](https://ece.hkust.edu.h
    - 2020: [ISSCC](#2020-isscc), [ISCA](#2020-isca), [MICRO](#2020-micro), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2020-dac), [FPGA](#2020-fpga), [ICCAD](#2020-iccad), [VLSI](#2020-vlsi), [HotChips](#2020-hotchips)
    - 2021: [ISSCC](#2021-isscc), [ISCA](#2021-isca), [MICRO](#2021-micro), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [DAC](#2021-dac), [ICCAD](#2021-iccad), [VLSI](#2021-vlsi), [HotChips](#2021-hotchips)
    - 2022: [ISSCC](#2022-isscc), [ISCA](#2022-isca), [MICRO](#2022-micro), [HPCA](#2022-hpca), [ASPLOS](#2022-asplos), [HotChips](#2022-hotchips)
+   - 2023: [ISSCC](#2023-isscc), [HPCA](#2023-hpca)
 
 ## My Contributions
 My main research interest is chip and architecture design for AI. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). 
@@ -1095,3 +1096,66 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - ANT: Exploiting Adaptive Numerical Data Type for Low-Bit Deep Neural Network Quantization 
 - Sparseloop: An Analytical Approach to Sparse Tensor Accelerator Modeling 
 - Ristretto: An Atomized Processing Architecture for Sparsity-Condensed Stream Flow in CNN
+
+### 2023 ISSCC
+- MetaVRain: A 133mW Real-Time Hyper-Realistic 3D-NeRF Processor with 1D-2D Hybrid-Neural Engines for Metaverse on Mobile Devices
+- A 22-nm 832-kb Hybrid-Domain Floating-Point SRAM In-Memory-Compute Macro with 16.2-70.2TFLOPS/W for High-Accuracy AI-Edge Devices
+- A 28-nm 64-kb 31.6-TFLOPS/W Digital-domain Floating-Point-Computing-Unit and Double-bit 6T-SRAM Computing-in-Memory Macro for Floating-Point CNNs
+- A 28-nm 38-to-102-TOPS/W 8-b Multiply-Less Approximate Digital SRAM Compute-In-Memory Macro for Neural-Network Inference
+- A 4-nm 6163-TOPS/W/b 4790-TOPS/mm2/b SRAM based Digital-Computing-in-Memory Macro Supporting Bit-Width Flexibility and Simultaneous MAC and Weight Update
+- A 28-nm Horizontal-weight-shift and Vertical-feature-shift based Separate-wordline 6T-SRAM Computation-in-Memory Unit-Macro for Edge Depthwise Neural-Networks
+- A 70.85-86.27-TOPS/W PVT-Insensitive 8-b Word-Wise ACIM with Post Processing Relaxation
+- CV-CIM: A 28-nm XOR-derived Similarity-aware Computation-In-Memory For Cost Volume Construction
+- A 22-nm Delta-Sigma Computing-In-Memory (ΔΣCIM) SRAM Macro with Near-Zero-Mean Outputs and LSB-First ADCs Achieving 21.38TOPS/W for 8b-MAC Edge AI Processing
+- CTLE-Ising: A 1440-Spin Continuous-Time Latch-based Ising Machine with One-Shot Fully-Parallel Spin Updates Featuring Equalization of Spin States
+- A 7nm ML Training Processor with Wave Clock Distribution
+- A 1mW Always-on Computer Vision Deep Learning Neural Decision Processor
+- MulTCIM: A 28nm 2.24μJ/Token Attention-Token-Bit Hybrid Sparse Digital CIM-Based Accelerator for Multimodal Transformers
+- A 28nm 53.8TOPS/W 8b Sparse Transformer Accelerator with In-Memory Butterfly Zero Skipper for Unstructured-Pruned NN and CIM-Based Local-Attention-Reusable Engine
+- A 28nm 16.9-300TOPS/W Computing-in-Memory Processor Supporting Floating-Point NN Inference/Training with Intensive-CIM Sparse-Digital Architecture
+- TensorCIM: A 28nm 3.7nJ/Gather and 8.3TFLOPS/W FP32 Digital-CIM Tensor Processor for MCM-CIM-Based Beyond-NN Acceleration
+- DynaPlasia: An eDRAM In-Memory-Computing-Based Reconfigurable Spatial Accelerator with Triple-Mode Cell for Dynamic Resource Switching
+- A Nonvolatile AI-Edge Processor with 4MB SLC-MLC Hybrid-Mode ReRAM Compute-in-Memory Macro and 51.4-251TOPS/W
+- A 40-310TOPS/W SRAM-Based All-Digital Up to 4b In-Memory Computing Multi-Tiled NN Accelerator in FD-SOI 18nm for Deep-Learning Edge Applications
+- A 12.4TOPS/W @ 136GOPS AI-IoT System-on-Chip with 16 RISC-V, 2-to-8b Precision-Scalable DNN Acceleration and 30%-Boost Adaptive Body Biasing
+- A 28nm 2D/3D Unified Sparse Convolution Accelerator with Block-Wise Neighbor Searcher for Large-Scaled Voxel-Based Point Cloud Network
+- A 127.8TOPS/W Arbitrarily Quantized 1-to-8b Scalable-Precision Accelerator for General-Purpose Deep Learning with Reduction of Storage, Logic and Latency Waste
+- A 28nm 11.2TOPS/W Hardware-Utilization-Aware Neural-Network Accelerator with Dynamic Dataflow
+- C-DNN: A 24.5-85.8TOPS/W Complementary-Deep-Neural-Network Processor with Heterogeneous CNN/SNN Core Architecture and Forward-Gradient-Based Sparsity Generation
+- ANP-I: A 28nm 1.5pJ/SOP Asynchronous Spiking Neural Network Processor Enabling Sub-0.1μJ/Sample On-Chip Learning for Edge-AI Applications
+- DL-VOPU: An Energy-Efficient Domain-Specific Deep-Learning-based Visual Object Processing Unit Supporting Multi-Scale Semantic Feature Extraction for Mobile Object Detection/Tracking Applications
+- A 0.81mm2 740μW Real-Time Speech Enhancement Processor Using Multiplier-Less PE Arrays for Hearing Aids in 28nm CMOS
+- A 12nm 18.1TFLOPs/W Sparse Transformer Processor with Entropy-Based Early Exit, Mixed-Precision Predication and Fine-Grained Power Management
+
+### 2023 HPCA
+- SGCN: Exploiting Compressed-Sparse Features in Deep Graph Convolutional Network Accelerators
+- PhotoFourier: A Photonic Joint Transform Correlator-Based Neural Network Accelerator
+- INCA: Input-stationary Dataflow at Outside-the-box Thinking about Deep Learning Accelerators
+- GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Networks
+- Logical/Physical Topology-Aware Collective Communication in Deep Learning Training
+- Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation
+- Baryon: Efficient Hybrid Memory Management with Compression and Sub-Blocking
+- iCACHE: An Importance-Sampling-Informed Cache for Accelerating I/O-Bound DNN Model Training
+- HIRAC: A Hierarchical Accelerator with Sorting-based Packing for SpGEMMs in DNN Applications
+- VEGETA: Vertically-Integrated Extensions for Sparse/Dense GEMM Tile Acceleration on CPUs
+- ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design
+- Leveraging Domain Information for the Efficient Automated Design of Deep Learning Accelerators
+- DIMM-Link: Enabling Efficient Inter-DIMM Communication for Near-Memory Processing
+- Post0-VR: Enabling Universal Realistic Rendering for Modern VR via Exploiting Architectural Similarity and Data Sharing
+- ParallelNN: A Parallel Octree-based Nearest Neighbor Search Accelerator for 3D Point Clouds
+- ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with Linear Taylor Attention
+- CTA: Hardware-Software Co-design for Compressed Token Attention Mechanism
+- HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers
+- GraNDe: Near-Data Processing Architecture With Adaptive Matrix Mapping for Graph Convolutional Networks
+- DeFiNES: Enabling Fast Exploration of the Depth-first Scheduling Space for DNN Accelerators through Analytical Modeling
+- CEGMA: Coordinated Elastic Graph Matching Acceleration for Graph Matching Networks
+- ISOSceles: Accelerating Sparse CNNs through Inter-Layer Pipelining
+- OptimStore: In-Storage Optimization of Large Scale DNNs with On-Die Processing
+- MERCURY: Accelerating DNN Training By Exploiting Input Similarity
+- Dalorex: A Data-Local Program Execution and Architecture for Memory-bound Applications
+- eNODE: Energy-Efficient and Low-Latency Edge Inference and Training of Neural ODEs
+- MoCA: Memory-Centric, Adaptive Execution for Multi-Tenant Deep Neural Networks
+- Mix-GEMM: An efficient HW-SW Architecture for Mixed-Precision Quantized Deep Neural Networks Inference on Edge Devices
+- FlowGNN: A Dataflow Architecture for Real-Time Workload-Agnostic Graph Neural Network Inference
+- Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion
+- Securator: A Fast and Secure Neural Processing Unit
