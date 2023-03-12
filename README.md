@@ -14,7 +14,7 @@ Fengbin Tu is currently an [Adjunct Assistant Professor](https://ece.hkust.edu.h
    - 2020: [ISSCC](#2020-isscc), [ISCA](#2020-isca), [MICRO](#2020-micro), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2020-dac), [FPGA](#2020-fpga), [ICCAD](#2020-iccad), [VLSI](#2020-vlsi), [HotChips](#2020-hotchips)
    - 2021: [ISSCC](#2021-isscc), [ISCA](#2021-isca), [MICRO](#2021-micro), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [DAC](#2021-dac), [ICCAD](#2021-iccad), [VLSI](#2021-vlsi), [HotChips](#2021-hotchips)
    - 2022: [ISSCC](#2022-isscc), [ISCA](#2022-isca), [MICRO](#2022-micro), [HPCA](#2022-hpca), [ASPLOS](#2022-asplos), [HotChips](#2022-hotchips)
-   - 2023: [ISSCC](#2023-isscc), [HPCA](#2023-hpca)
+   - 2023: [ISSCC](#2023-isscc), [HPCA](#2023-hpca), [ASPLOS](#2023-asplos)
 
 ## My Contributions
 My main research interest is chip and architecture design for AI. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). 
@@ -1159,3 +1159,33 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - FlowGNN: A Dataflow Architecture for Real-Time Workload-Agnostic Graph Neural Network Inference
 - Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion
 - Securator: A Fast and Secure Neural Processing Unit
+
+### 2023 ASPLOS
+- Overlap Communication with Dependent Computation via Decomposition in Large Deep Learning Models
+- Heron: Automatically Constrained High-performance Library Generation for Deep Learning Accelerators
+- TelaMalloc: Efficient On-Chip Memory Allocation for Production Machine Learning Accelerators 
+- EVStore: Storage and Caching Capabilities for Scaling Embedding Tables in Deep Recommendation Systems 
+- WACO: Learning Workload-Aware Co-optimization of the Format and Schedule of a Sparse Tensor Program
+- GRACE: A Scalable Graph-Based Approach To Accelerating Recommendation Model Inference
+- Mapping Very Large Scale Spiking Neuron Network to Neuromorphic Hardware 
+- HuffDuff: Stealing Pruned DNNs from Sparse Accelerators 
+- ABNDP: Co-Optimizing Data Access and Load Balance in Near-Data Processing
+- Infinity Stream: Portable and Programmer-Friendly In-/Near-Memory Fusion
+- Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing 
+- Accelerating Sparse Data Orchestration via Dynamic Reflexive Tiling 
+- SPADA: Accelerating Sparse Matrix Multiplication with Adaptive Dataflow
+- SparseTIR: Composable Abstractions for Sparse Compilation in Deep Learning 
+- Hidet: Task Mapping Programming Paradigm for Deep Learning Tensor Programs 
+- The Sparse Abstract Machine
+- Homunculus: Auto-Generating Efficient Data-Plane ML Pipelines for Datacenter Networks
+- TensorIR: An Abstraction for Automatic Tensorized Program Optimization
+- FLAT: An Optimized Dataflow for Mitigating Attention Bottlenecks 
+- TLP: A Deep Learning-based Cost Model for Tensor Program Tuning
+- Betty: Enabling Large-Scale GNN Training with Batch-Level Graph Partitioning 
+- In-Network Aggregation with Transport Transparency for Distributed Training
+- Optimus-CC: Efficient Large NLP Model Training with 3D Parallelism Aware Communication Compression
+- DPACS: Hardware Accelerated Dynamic Neural Network Pruning through Algorithm-Architecture Co-design
+- Lucid: A Non-Intrusive, Scalable and Interpretable Scheduler for Deep Learning Training Jobs
+- ElasticFlow: An Elastic Serverless Training Platform for Distributed Deep Learning 
+- Hyperscale Hardware Optimized Neural Architecture Search 
+- MP-Rec: Hardware-Software Co-Design to Enable Multi-Path Recommendation
