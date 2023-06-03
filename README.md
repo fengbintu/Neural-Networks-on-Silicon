@@ -21,8 +21,8 @@ My main research interest is chip and architecture design for AI. For more infor
 
 [Feb. 2023] **Scaling-out Reconfigurable Digital CIM.**
 - I designed two 28nm chips that scale out the AI capability based on Reconfigurable Digital Computing-In-Memory (CIM). TensorCIM is the first CIM processor for tensor computing in a Multi-Chip-Module system. MulTCIM is the first CIM accelerator for the emerging multimodal Transformer models, which leverages attention-token-bit hybrid sparsity to improve energy efficiency.
-- TensorCIM: [TensorCIM: A 28nm 3.7nJ/Gather and 8.3TFLOPS/W FP32 Digital-CIM Tensor Processor for MCM-CIM-based Beyond-NN Acceleration](https://ieeexplore.ieee.org/abstract/document/10067285) (**ISSCC'23**)
-- MulTCIM: [MulTCIM: A 28nm 2.24$\mu$J/Token Attention-Token-Bit Hybrid Sparse Digital CIM-based Accelerator for Multimodal Transformers](https://ieeexplore.ieee.org/abstract/document/10067842) (**ISSCC'23**)
+- [TensorCIM: A 28nm 3.7nJ/Gather and 8.3TFLOPS/W FP32 Digital-CIM Tensor Processor for MCM-CIM-based Beyond-NN Acceleration](https://ieeexplore.ieee.org/abstract/document/10067285) (**ISSCC'23**)
+- [MulTCIM: A 28nm 2.24$\mu$J/Token Attention-Token-Bit Hybrid Sparse Digital CIM-based Accelerator for Multimodal Transformers](https://ieeexplore.ieee.org/abstract/document/10067842) (**ISSCC'23**)
 
 [Feb. 2022] **Reconfigurable Digital Computing-In-Memory AI Chip.**
 - I designed an innovative AI chip architecture, Reconfigurable Digital Computing-In-Memory. The architecture fuses the philosophy of reconfigurable computing and digital computing-in-memory, balancing efficiency, accuracy, and flexibility for emerging AI chips. I designed two 28nm chips based on the new architecture, Reconfigurable Digital CIM (ReDCIM) and Transformer CIM (TranCIM). ReDCIM (pronounced as "red-CIM") is the first CIM chip for cloud AI with flexible FP/INT support, which was covered by [Synced](https://mp.weixin.qq.com/s/v82Bt99l43S6Kegf83_q6A). TranCIM is the first CIM chip for Transformer models, which tackles the memory and computation challenges raised by Transformer's attention mechanism.
