@@ -1,4 +1,4 @@
-# Neural Networks on Silicon
+![图片](https://github.com/fengbintu/Neural-Networks-on-Silicon/assets/16859033/f5020138-a022-4566-8b58-90e234eaa983)![图片](https://github.com/fengbintu/Neural-Networks-on-Silicon/assets/16859033/2167e727-564d-497e-98c6-38e44cee68fb)# Neural Networks on Silicon
 
 Fengbin Tu is currently an Assistant Professor in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology. He received the Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm). He was a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), working with Prof. [Yuan Xie](https://seal.ece.ucsb.edu/people/yuan-xie) and Prof. [Yufei Ding](https://picassolab.squarespace.com/yufei), University of California, Santa Barbara, from 2019 to 2022. He was a Postdoctoral Fellow at the AI Chip Center for Emerging Smart Systems (ACCESS), working with Prof. [Tim Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326) and Prof. [Chi-Ying Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui). For more informantion about Dr. Tu, please refer to [his homepage](https://fengbintu.github.io/). Dr. Tu's main research interest is chip and architecture design for AI. This is an exciting field where fresh ideas come out every day, so he's collecting works on related topics. Welcome to join!
 
@@ -14,7 +14,7 @@ Fengbin Tu is currently an Assistant Professor in the Department of Electronic a
    - 2020: [ISSCC](#2020-isscc), [ISCA](#2020-isca), [MICRO](#2020-micro), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [DAC](#2020-dac), [FPGA](#2020-fpga), [ICCAD](#2020-iccad), [VLSI](#2020-vlsi), [HotChips](#2020-hotchips)
    - 2021: [ISSCC](#2021-isscc), [ISCA](#2021-isca), [MICRO](#2021-micro), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [DAC](#2021-dac), [ICCAD](#2021-iccad), [VLSI](#2021-vlsi), [HotChips](#2021-hotchips)
    - 2022: [ISSCC](#2022-isscc), [ISCA](#2022-isca), [MICRO](#2022-micro), [HPCA](#2022-hpca), [ASPLOS](#2022-asplos), [HotChips](#2022-hotchips)
-   - 2023: [ISSCC](#2023-isscc), [ISCA](#2023-isca), [HPCA](#2023-hpca), [ASPLOS](#2023-asplos)
+   - 2023: [ISSCC](#2023-isscc), [ISCA](#2023-isca), [MICRO](#2023-micro), [HPCA](#2023-hpca), [ASPLOS](#2023-asplos), [HotChips](#2023-hotchips)
 
 ## My Contributions
 My main research interest is chip and architecture design for AI. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). 
@@ -1202,3 +1202,33 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - A Research Retrospective on AMD’s Exascale Computing Journey
 - MTIA: First Generation Silicon Targeting Meta’s Recommendation Systems
 - With Shared Microexponents, A Little Shifting Goes a Long Way
+
+### 2023 MICRO
+- AuRORA: Virtualized Accelerator Orchestration for Multi-Tenant Workloads
+- UNICO: Unified Hardware Software Co-Optimization for Robust Neural Network Acceleration
+- Spatula: A Hardware Accelerator for Sparse Matrix Factorization
+- Eureka: Efficient Tensor Cores for One-sided Unstructured Sparsity in DNN Inference
+- RM-STC: Row-Merge Dataflow Inspired GPU Sparse Tensor Core for Energy-Efficient Sparse Acceleration
+- Sparse-DySta: Sparsity-Aware Dynamic and Static Scheduling for Sparse Multi-DNN Workloads
+- MAICC: A Lightweight Many-core Architecture with In-Cache Computing for Multi-DNN Parallel Inference
+- SRIM: A Systolic Random Increment Memory Architecture for Unary Computing
+- Improving Data Reuse in NPU On-chip Memory with Interleaved Gradient Order for DNN Training
+- TT-GNN: Efficient On-Chip Graph Neural Network Training via Embedding Reformation and Hardware Optimization
+- Si-Kintsugi: Recovering Golden-Like Performance of Defective Many-Core Spatial Architectures for AI
+- Bucket Getter: A Bucket-based Processing Engine for Low-bit Block Floating Point (BFP) DNNs
+- ADA-GP: Accelerating DNN Training By ADAptive Gradient Prediction
+- HighLight: Efficient and Flexible DNN Acceleration with Hierarchical Structured Sparsity
+- Exploiting Inherent Properties of Complex Numbers for Accelerating Complex Valued Neural Networks
+- Point Cloud Acceleration by Exploiting Geometric Locality
+- HARP: Hardware-Based Pseudo-Tiling for Sparse Matrix Multiplication Accelerator
+- TeAAL: A Declarative Framework for Modeling Sparse Tensor Accelerators
+- TileFlow: A Framework for Modeling Fusion Dataflow via Tree-based Analysis
+
+### 2023 HotChips
+- Memory-centric Computing with SK Hynix’s Domain-Specific Memory
+- Samsung AI-cluster system with HBM-PIM and CXL-based Processing-near-Memory for transformer-based LLMs
+- A Machine Learning Supercomputer With An Optically Reconfigurable Interconnect and Embeddings Support
+- Inside the Cerebras Wafer-Scale Cluster
+- IBM NorthPole Neural Inference Machine
+- Moffett Antoum: A Deep-Sparse AI Inference System-on-Chip for Vision and Large Language Models
+- Qualcomm® Hexagon™ NPU
