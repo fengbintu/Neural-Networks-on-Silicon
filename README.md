@@ -15,6 +15,7 @@ Fengbin Tu is currently an Assistant Professor in the Department of Electronic a
    - 2021: [ISSCC](#2021-isscc), [ISCA](#2021-isca), [MICRO](#2021-micro), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [DAC](#2021-dac), [ICCAD](#2021-iccad), [VLSI](#2021-vlsi), [HotChips](#2021-hotchips)
    - 2022: [ISSCC](#2022-isscc), [ISCA](#2022-isca), [MICRO](#2022-micro), [HPCA](#2022-hpca), [ASPLOS](#2022-asplos), [HotChips](#2022-hotchips)
    - 2023: [ISSCC](#2023-isscc), [ISCA](#2023-isca), [MICRO](#2023-micro), [HPCA](#2023-hpca), [ASPLOS](#2023-asplos), [HotChips](#2023-hotchips)
+   - 2024: [ISSCC](#2024-isscc)
 
 ## My Contributions
 My main research interest is chip and architecture design for AI. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). 
@@ -1232,3 +1233,27 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - IBM NorthPole Neural Inference Machine
 - Moffett Antoum: A Deep-Sparse AI Inference System-on-Chip for Vision and Large Language Models
 - Qualcomm® Hexagon™ NPU
+
+### 2024 ISSCC
+- ATOMUS: A 5nm 32TFLOPS/128TOPS ML System-on-Chip for Latency Critical Applications
+- AMD MI300 Modular Chiplet Platform – HPC and AI Accelerator for Exa-Class Systems
+- A 3D Integrated Prototype System-on-Chip for Augmented Reality Applications Using Face-to-Face Wafer-Bonded 7nm Logic at <10μm Pitch with up to 40% Energy Reduction at Iso-Area Footprint
+- Metis AIPU: A 12nm 15TOPS/W 209.6TOPS SoC for Cost- and Energy-Efficient Inference at the Edge
+- IBM NorthPole: An Architecture for Neural Network Inference with a 12nm Chip
+- NVE: A 3nm 23.2TOPS/W 12b-Digital-CIM-Based Neural Engine for High-Resolution Visual-Quality Enhancement on Smart Devices
+- A 28nm 74.34TFLOPS/W BF16 Heterogenous CIM-Based Accelerator Exploiting Denoising-Similarity for Diffusion Models
+- A 23.9TOPS/W @ 0.8V, 130TOPS AI Accelerator with 16× Performance-Accelerable Pruning in 14nm Heterogeneous Embedded MPU for Real-Time Robot Applications
+- A 28nm Physics Computing Unit Supporting Emerging Physics-Informed Neural Network and Finite Element Method for Real-Time Scientific Computing on Edge Devices
+- C-Transformer: A 2.6-to-18.1μJ/Token Homogeneous DNN-Transformer/Spiking-Transformer Processor with Big-Little Network and Implicit Weight Generation for Large Language Models
+- LSPU: A Fully Integrated Real-Time LiDAR-SLAM SoC with Point-Neural-Network Segmentation and Multi-Level kNN Acceleration
+- NeuGPU: A 18.5mJ/Iter Neural-Graphics Processing Unit for Instant-Modeling and Real-Time Rendering with Segmented-Hashing Architecture
+- Space-Mate: A 303.5mW Real-Time Sparse Mixture-of-Experts-Based NeRF-SLAM Processor for Mobile Spatial Computing
+- A 28nm 83.23TFLOPS/W POSIT-Based Compute-in-Memory Macro for High-Accuracy AI Application
+- A 16nm 96Kb Integer-Floating-Point Dual-Mode Gain-Cell-Computing-in-Memory Macro with 73.3-163.3TOPS/W and 33.2-91.2TFLOPS/W for AI-Edge Devices
+- A 22nm 64kb Lightning-Like Hybrid Computing-in-Memory Macro with Compressed Adder Tree and Analog-storage Quantizers for Transformer and CNNs
+- A 3nm 32.5 TOPS/W, 55.0 TOPS/mm2 and 3.78 Mb/mm2 Fully Digital Computing-in-Memory Supporting INT12 x INT12 with Parallel MAC Architecture and Foundry 6T SRAM Bitcell
+- A 818-4094 TOPS/W Capacitor-Reconfigured CIM Macro for Unified Acceleration of CNNs and Transformers
+- A 28nm 72.12-TFLOPS/W Hybrid-Domain Outer-Product Based Floating-Point SRAM Computing-in-Memory Macro with Logarithm Bit-Width Folding ADC
+- A 28nm 2.4Mb/mm2 6.9-16.3 TOPS/mm2 eDRAM-LUT-Based Digital-Computing-in-Memory Macro with In-Memory Encoding and Refreshing
+- A 22nm 16Mb Floating-Point ReRAM Compute-in-Memory Macro with 31.2 TFLOPS/W for AI Edge Devices
+- A Flash-SRAM-ADC Fused Plastic Computing-in-Memory Macro for Learning in Neural Networks in a Standard 14nm FinFET Process
