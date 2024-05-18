@@ -15,43 +15,13 @@ Fengbin Tu is currently an Assistant Professor in the Department of Electronic a
    - 2021: [ISSCC](#2021-isscc), [ISCA](#2021-isca), [MICRO](#2021-micro), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [DAC](#2021-dac), [ICCAD](#2021-iccad), [VLSI](#2021-vlsi), [HotChips](#2021-hotchips)
    - 2022: [ISSCC](#2022-isscc), [ISCA](#2022-isca), [MICRO](#2022-micro), [HPCA](#2022-hpca), [ASPLOS](#2022-asplos), [HotChips](#2022-hotchips)
    - 2023: [ISSCC](#2023-isscc), [ISCA](#2023-isca), [MICRO](#2023-micro), [HPCA](#2023-hpca), [ASPLOS](#2023-asplos), [HotChips](#2023-hotchips)
-   - 2024: [ISSCC](#2024-isscc)
+   - 2024: [ISSCC](#2024-isscc), [HPCA](#2024-hpca), [ASPLOS](#2024-asplos)
 
 ## My Contributions
-My main research interest is chip and architecture design for AI. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). 
-
-[Feb. 2023] **Scaling-out Reconfigurable Digital CIM.**
-- I designed two 28nm chips that scale out the AI capability based on Reconfigurable Digital Computing-In-Memory (CIM). TensorCIM is the first CIM processor for tensor computing in a Multi-Chip-Module system. MulTCIM is the first CIM accelerator for the emerging multimodal Transformer models, which leverages attention-token-bit hybrid sparsity to improve energy efficiency.
-- [TensorCIM: A 28nm 3.7nJ/Gather and 8.3TFLOPS/W FP32 Digital-CIM Tensor Processor for MCM-CIM-based Beyond-NN Acceleration](https://ieeexplore.ieee.org/abstract/document/10067285) (**ISSCC'23**)
-- [MulTCIM: A 28nm 2.24$\mu$J/Token Attention-Token-Bit Hybrid Sparse Digital CIM-based Accelerator for Multimodal Transformers](https://ieeexplore.ieee.org/abstract/document/10067842) (**ISSCC'23**)
-
-[Feb. 2022] **Reconfigurable Digital Computing-In-Memory AI Chip.**
-- I designed an innovative AI chip architecture, Reconfigurable Digital Computing-In-Memory. The architecture fuses the philosophy of reconfigurable computing and digital computing-in-memory, balancing efficiency, accuracy, and flexibility for emerging AI chips. I designed two 28nm chips based on the new architecture, Reconfigurable Digital CIM (ReDCIM) and Transformer CIM (TranCIM). ReDCIM (pronounced as "red-CIM") is the first CIM chip for cloud AI with flexible FP/INT support, which was covered by [Synced](https://mp.weixin.qq.com/s/v82Bt99l43S6Kegf83_q6A). TranCIM is the first CIM chip for Transformer models, which tackles the memory and computation challenges raised by Transformer's attention mechanism.
-- ReDCIM: [A 28nm 29.2TFLOPS/W BF16 and 36.5TOPS/W INT8 Reconfigurable Digital CIM Processor with Unified FP/INT Pipeline and Bitwise in-Memory Booth Multiplication for Cloud Deep Learning Acceleration](https://ieeexplore.ieee.org/document/9731762) (**ISSCC'22**, extended to [**JSSC'23**](https://ieeexplore.ieee.org/document/9968289))
-- TranCIM: [A 28nm 15.59$\mu$J/Token Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes](https://ieeexplore.ieee.org/document/9731645) (**ISSCC'22**, extended to [**JSSC'23**](https://ieeexplore.ieee.org/document/9931922))
-
-[Aug. 2020] **Evolver, Evolvable AI Chip.**
-
-- [Evolver: A Deep Learning Processor with On-Device Quantization-Voltage-Frequency Tuning](https://ieeexplore.ieee.org/document/9209075) (**JSSC'21**)
-  - I designed a 28nm evolvable AI chip (Evolver) with DNN training and reinforcement learning capabilities, to enable intelligence evolution during the chip's long lifetime. This work demonstrates a lifelong learning example of on-device quantization-voltage-frequency (QVF) tuning. Compared with conventional QVF tuning that determines policies offline, Evolver makes optimal customizations for varying local user scenarios. 
-  - Evolver was nominated for [2021 Top-10 Research in China’s Semiconductors](https://mp.weixin.qq.com/s/Sad4Kc9lP8XW9vebdt7KaA).
-
-[Jun. 2018] **RANA, Software-Hardware Co-design for AI Chip Memory Optimization.**
-
-- [RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM](https://ieeexplore.ieee.org/document/8416839/) (**ISCA'18**) 
-  - I designed a retention-aware neural acceleration (RANA) framework, which strengthens DNN accelerators with refresh-optimized eDRAM to save total system energy. 
-  - RANA was the **only** work first-authored by a Chinese research team in ISCA'18, and covered by [Tsinghua University News](https://www.tsinghua.edu.cn/info/1175/19449.htm) and [AI Tech Talk](https://www.leiphone.com/news/201806/wFQ2Sc52Utikcl8D.html).
-
-[Apr. 2017] **DNA and Thinker, Reconfigurable AI Chip.**
-
-- DNA: [Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/) (**TVLSI popular paper. No.5/2/6/8/8 Downloaded Manuscripts in 2017~2021: 6 Times Monthly No.1 since Sep. 2017.**)
-  - I designed a deep convolutional neural network accelerator (DNA) targeting flexible and efficient CNN acceleration. This is the first work to assign Input/Output/Weight Reuse to different layers of a CNN, which optimizes system-level energy consumption based on different CONV parameters. 
-- Thinker: [A High Energy Efficient Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications](http://ieeexplore.ieee.org/document/8207783/) (**JSSC'18**) 
-  - A reconfigurable multi-modal neural network processor (Thinker) was fabricated based on the DNA architecture, supporting CNN, RNN, and FCN. 
-  - The 65nm Thinker chip was exhibited at the [2016 National Mass Innovation and Entrepreneurship Week](https://www.tsinghua.edu.cn/info/1173/18061.htm), as a representative work from Tsinghua University. The Thinker chip was highly praised by Chinese Premier Li Keqiang, and featured by Yang Lan One on One, [AI Tech Talk](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html) and [MIT Technology Review](https://www.technologyreview.com/s/609954/china-wants-to-make-the-chips-that-will-add-ai-to-any-gadget/?from=timeline&isappinstalled=0). It won the [ISLPED'17 Design Contest Award](http://islped.org/2017/index.php), which was [the first time for a China Mainland team to win the award](https://www.tsinghua.edu.cn/info/1175/19744.htm).
+My main research interest is AI chip and architecture design. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). 
 
 ## Conference Papers
-This is a collection of conference papers that interest me. They are focused on, but not limited to neural networks on silicon. 
+This is a collection of AI chip-related conference papers that interest me. 
 
 ### 2014 ASPLOS
 - **DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning.** (CAS, Inria)
@@ -1257,3 +1227,69 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - A 28nm 2.4Mb/mm2 6.9-16.3 TOPS/mm2 eDRAM-LUT-Based Digital-Computing-in-Memory Macro with In-Memory Encoding and Refreshing
 - A 22nm 16Mb Floating-Point ReRAM Compute-in-Memory Macro with 31.2 TFLOPS/W for AI Edge Devices
 - A Flash-SRAM-ADC Fused Plastic Computing-in-Memory Macro for Learning in Neural Networks in a Standard 14nm FinFET Process
+
+### 2024 HPCA
+- Bandwidth-Effective DRAM Cache for GPUs with Storage-Class Memory
+- Gemini: Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators
+- STELLAR: Energy-Efficient and Low-Latency SNN Algorithm and Hardware Co-design with Spatiotemporal Computation
+- MIMDRAM: An End-to-End Processing-Using-DRAM System for High-Throughput, Energy-Efficient and Programmer-Transparent Multiple-Instruction Multiple-Data Computing
+- Pathfinding Future PIM Architectures by Demystifying a Commercial PIM Technology
+- Functionally-Complete Boolean Logic in Real DRAM Chips: Experimental Characterization and Analysis
+- StreamPIM: Streaming Matrix Computation in Racetrack Memory
+- SmartDIMM: In-Memory Acceleration of Upper Layer Protocols
+- BeaconGNN: Large-Scale GNN Acceleration with Asynchronous In-Storage Computing
+- Smart-Infinity: Fast Large Language Model Training using Near-Storage Processing on a Real System
+- FlashGNN: An In-SSD Accelerator for GNN Training
+- DockerSSD: Containerized In-Storage Processing and Hardware Acceleration for Computational SSDs
+- SPADE: Sparse Pillar-based 3D Object Detection Accelerator for Autonomous Driving
+- Rapper: A Parameter-Aware Repair-in-Memory Accelerator for Blockchain Storage Platform
+- MOPED: Efficient Motion Planning Engine with Flexible Dimension Support
+- TALCO: Tiling Genome Sequence Alignment using Convergence of Traceback Pointers
+- ECO-CHIP: Estimation of the Carbon Footprint of Chiplet-based Architectures for Sustainable VLSI
+- Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator
+- SACHI: A Stationarity-Aware, All-Digital, Near-Cache, Ising Architecture
+- BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration
+- LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units
+- FIGNA: Integer Unit-based Accelerator Design for FP-INT GEMM Preserving Numerical Accuracy
+- ASADI: Accelerating Sparse Attention using Diagonal-based In-situ Computing
+- An LPDDR-based CXL-PNM Platform for TCO-Efficient GPT Inference
+- HotTiles: Accelerating SpMM with Heterogeneous Accelerator Architectures
+- SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding
+- Data Motion Acceleration: Chaining Cross-Domain Multi Accelerators
+- RELIEF: Relieving Memory Pressure In SoCs Via Data Movement-Aware Accelerator Scheduling
+
+### 2024 ASPLOS
+- SpecInfer: Accelerating Large Language Model Serving with Tree-based Speculative Inference and Verification
+- ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference
+- Proteus: A High-Throughput Inference-Serving System with Accuracy Scaling
+- SpotServe: Serving Generative Large Language Models on Preemptible Instances
+- MAGIS: Memory Optimization via Coordinated Graph Transformation and Scheduling for DNN
+- 8-bit Transformer Inference and Fine-tuning for Edge Accelerators
+- Cocco: Hardware-Mapping Co-Exploration towards Memory Capacity-Communication Optimization
+- Atalanta: A Bit is Worth a “Thousand” Tensor Values
+- Harp: Leveraging Quasi-Sequential Characteristics to Accelerate Sequence-to-Graph Mapping of Long Reads
+- GSCore: Efficient Radiance Field Rendering via Architectural Support for 3D Gaussian Splatting
+- BeeZip: Towards An Organized and Scalable Architecture for Data Compression
+- ACES: Accelerating Sparse Matrix Multiplication with Adaptive Execution Flow and Concurrency-Aware Cache Optimizations
+- Explainable-DSE: An Agile and Explainable Exploration of Efficient HW/SW Codesigns of Deep Learning Accelerators Using Bottleneck Analysis
+- AttAcc! Unleashing the Power of PIM for Batched Transformer-based Generative Model Inference
+- SpecPIM: Accelerating Speculative Inference on PIM-Enabled System via Architecture-Dataflow Co-Exploration
+- PIM-DL: Expanding the Applicability of Commodity DRAM-PIMs for Deep Learning via Algorithm-System Co-Optimization
+- NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing
+- FEASTA: A Flexible and Efficient Accelerator for Sparse Tensor Algebra in Machine Learning
+- CMC: Video Transformer Acceleration via CODEC Assisted Matrix Condensing
+- Tandem Processor: Grappling with Emerging Operators in Neural Networks
+- Carat: Unlocking Value-Level Parallelism for Multiplier-Free GEMMs
+- ORIANNA: An Accelerator Generation Framework for Optimization-based Robotic Applications
+- SmartMem: Layout Transformation Elimination and Adaptation for Efficient DNN Execution on Mobile
+- Dr. DNA: Combating Silent Data Corruptions in Deep Learning using Distribution of Neuron Activations
+- RECom: A Compiler Approach to Accelerate Recommendation Model Inference with Massive Embedding Columns
+- NDPipe: Exploiting Near-data Processing for Scalable Inference and Continuous Training in Photo Storage
+- Fractal: Joint Multi-Level Sparse Pattern Tuning of Accuracy and Performance for DNN Pruning
+- Optimizing Dynamic-Shape Neural Networks on Accelerators via On-the-Fly Micro-Kernel Polymerization
+- DTC-SpMM: Bridging the Gap in Accelerating General Sparse Matrix Multiplication with Tensor Cores
+- SoD2: Statically Optimizing Dynamic Deep Neural Network Execution
+- BVAP: Energy and Memory Efficient Automata Processing for Regular Expressions with Bounded Repetitions
+- IANUS: Integrated Accelerator based on NPU-PIM Unified Memory System
+- PIM-STM: Software Transactional Memory for Processing-In-Memory Systems
+- CIM-MLC: A Multi-level Compilation Stack for Computing-In-Memory Accelerators
