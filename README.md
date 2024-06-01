@@ -15,7 +15,7 @@ Fengbin Tu is currently an Assistant Professor in the Department of Electronic a
    - 2021: [ISSCC](#2021-isscc), [ISCA](#2021-isca), [MICRO](#2021-micro), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [DAC](#2021-dac), [ICCAD](#2021-iccad), [VLSI](#2021-vlsi), [HotChips](#2021-hotchips)
    - 2022: [ISSCC](#2022-isscc), [ISCA](#2022-isca), [MICRO](#2022-micro), [HPCA](#2022-hpca), [ASPLOS](#2022-asplos), [HotChips](#2022-hotchips)
    - 2023: [ISSCC](#2023-isscc), [ISCA](#2023-isca), [MICRO](#2023-micro), [HPCA](#2023-hpca), [ASPLOS](#2023-asplos), [HotChips](#2023-hotchips)
-   - 2024: [ISSCC](#2024-isscc), [HPCA](#2024-hpca), [ASPLOS](#2024-asplos)
+   - 2024: [ISSCC](#2024-isscc), [HPCA](#2024-hpca), [ASPLOS](#2024-asplos), [HotChips](#2024-hotchips)
 
 ## My Contributions
 My main research interest is AI chip and architecture design. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). 
@@ -1293,3 +1293,14 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - IANUS: Integrated Accelerator based on NPU-PIM Unified Memory System
 - PIM-STM: Software Transactional Memory for Processing-In-Memory Systems
 - CIM-MLC: A Multi-level Compilation Stack for Computing-In-Memory Accelerators
+
+### 2024 HotChips
+- NVIDIA Blackwell GPU: Advancing Generative AI and Accelerated Computing
+- SambaNova SN40L RDU: Breaking the Barrier of Trillion+ Parameter Scale Gen AI Computing
+- Tiny Architecture Optimizations Impact Massively Scaled GenAI Systems
+- AMD Instinct MI300X Generative AI Accelerator and Platform Architecture
+- An AI Compute ASIC with Optical Attach to Enable Next Generation Scale-up Architectures
+- RNGD: A Tensor Contraction Processor
+- Next Generation AMD Versal AI Edge Series for Vision and Automotive
+- Onyx: A Programmable Accelerator for Sparse Tensor Algebra
+- Next Gen MTIA - Meta's Recommendation Inference Accelerator
