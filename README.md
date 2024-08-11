@@ -1,6 +1,6 @@
 # Neural Networks on Silicon
 
-Fengbin Tu is currently an Assistant Professor in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology. He received the Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm). He was a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), working with Prof. [Yuan Xie](https://seal.ece.ucsb.edu/people/yuan-xie) and Prof. [Yufei Ding](https://picassolab.squarespace.com/yufei), University of California, Santa Barbara, from 2019 to 2022. He was a Postdoctoral Fellow at the AI Chip Center for Emerging Smart Systems (ACCESS), working with Prof. [Tim Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326) and Prof. [Chi-Ying Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui). For more informantion about Dr. Tu, please refer to [his homepage](https://fengbintu.github.io/). Dr. Tu's main research interest is chip and architecture design for AI. This is an exciting field where fresh ideas come out every day, so he's collecting works on related topics. Welcome to join!
+Fengbin Tu is currently an Assistant Professor in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology and a core faculty member of the AI Chip Center for Emerging Smart Systems (ACCESS) under InnoHK. He received the Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm). He was a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), working with Prof. [Yuan Xie](https://seal.ece.ucsb.edu/people/yuan-xie), University of California, Santa Barbara, from 2019 to 2022. He was a Postdoctoral Fellow at ACCESS, working with Prof. [Tim Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326) and Prof. [Chi-Ying Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui). For more informantion about Dr. Tu, please refer to [his homepage](https://fengbintu.github.io/). Dr. Tu's main research interest is AI chip and system. This is an exciting field where fresh ideas come out every day, so he's collecting works on related topics. Welcome to join!
 
 ## Table of Contents
  - [My Contributions](#my-contributions)
@@ -15,10 +15,10 @@ Fengbin Tu is currently an Assistant Professor in the Department of Electronic a
    - 2021: [ISSCC](#2021-isscc), [ISCA](#2021-isca), [MICRO](#2021-micro), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [DAC](#2021-dac), [ICCAD](#2021-iccad), [VLSI](#2021-vlsi), [HotChips](#2021-hotchips)
    - 2022: [ISSCC](#2022-isscc), [ISCA](#2022-isca), [MICRO](#2022-micro), [HPCA](#2022-hpca), [ASPLOS](#2022-asplos), [HotChips](#2022-hotchips)
    - 2023: [ISSCC](#2023-isscc), [ISCA](#2023-isca), [MICRO](#2023-micro), [HPCA](#2023-hpca), [ASPLOS](#2023-asplos), [HotChips](#2023-hotchips)
-   - 2024: [ISSCC](#2024-isscc), [HPCA](#2024-hpca), [ASPLOS](#2024-asplos), [HotChips](#2024-hotchips)
+   - 2024: [ISSCC](#2024-isscc), [ISCA](#2024-isca), [HPCA](#2024-hpca), [ASPLOS](#2024-asplos), [HotChips](#2024-hotchips)
 
 ## My Contributions
-My main research interest is AI chip and architecture design. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). 
+My main research interest is AI chip and architecture. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/research/).
 
 ## Conference Papers
 This is a collection of AI chip-related conference papers that interest me. 
@@ -1304,3 +1304,32 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - Next Generation AMD Versal AI Edge Series for Vision and Automotive
 - Onyx: A Programmable Accelerator for Sparse Tensor Algebra
 - Next Gen MTIA - Meta's Recommendation Inference Accelerator
+
+### 2024 ISCA
+- ReAIM: A ReRAM-based Adaptive Ising Machine for Solving Combinatorial Optimization Problems
+- Splitwise: Efficient Generative LLM Inference Using Phase Splitting
+- Mind the Gap: Attainable Data Movement and Operational Intensity Bounds for Tensor Algorithms
+- A Reconfigurable Accelerator with Data Reordering Support for Low-Cost On-Chip Dataflow Switching
+- Waferscale Network Switches
+- PID-Comm: A Fast and Flexible Collective Communication Framework for Commodity Processing-in-DIMMs
+- PreSto: An In-Storage Data Preprocessing System for Training Recommendation Models
+- pSyncPIM: Partially Synchronous Execution of Sparse Matrix Operations for All-bank PIM Architectures
+- NDSearch: Accelerating Graph-Traversal-Based Approximate Nearest Neighbor Search through Near Data Processing
+- Enabling Efficient Large Recommendation Model Training with Near CXL Memory Processing
+- Exploiting Similarity Opportunity of Emerging AI Models on 3D Hybrid Bonding Architecture
+- NDPBridge: Enabling Cross-Bank Coordination in Near-DRAM-Bank Processing Architectures
+- UM-PIM: DRAM-based PIM with Uniform & Shared Memory Space
+- MegIS: High-Performance and Low-Cost Metagenomic Analysis with In-Storage Processing
+- On Error Correction for Nonvolatile PiM
+- MAD Max Beyond Single-Node: Enabling Large Machine Learning Model Acceleration on Distributed Systems
+- Cambricon-D: Full-Network Differential Acceleration for Diffusion Models
+- Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation
+- Trapezoid: A Versatile Accelerator for Dense and Sparse Matrix Multiplications
+- NeuraChip: Accelerating GNN Computations with a Hash-based Decoupled Spatial Accelerator
+- Soter: Analytical Tensor-Architecture Modeling and Automatic Tensor Program Tuning for Spatial Accelerators
+- ALISA: Accelerating Large Language Model Inference via Sparsity-Aware KV Caching
+- Pre-gated MoE: An Algorithm-System Co-Design for Fast and Scalable Mixture-of-Expert Inference
+- MECLA: Memory-Compute-Efficient LLM Accelerator with Scaling Sub-matrix Partition
+- Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization
+- Heterogeneous Acceleration Pipeline for Recommendation System Training
+- LLMCompass: Enabling Efficient Hardware Design for Large Language Model Inference
