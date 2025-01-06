@@ -15,7 +15,7 @@ Fengbin Tu is currently an Assistant Professor in the Department of Electronic a
    - 2021: [ISSCC](#2021-isscc), [ISCA](#2021-isca), [MICRO](#2021-micro), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [DAC](#2021-dac), [ICCAD](#2021-iccad), [VLSI](#2021-vlsi), [HotChips](#2021-hotchips)
    - 2022: [ISSCC](#2022-isscc), [ISCA](#2022-isca), [MICRO](#2022-micro), [HPCA](#2022-hpca), [ASPLOS](#2022-asplos), [HotChips](#2022-hotchips)
    - 2023: [ISSCC](#2023-isscc), [ISCA](#2023-isca), [MICRO](#2023-micro), [HPCA](#2023-hpca), [ASPLOS](#2023-asplos), [HotChips](#2023-hotchips)
-   - 2024: [ISSCC](#2024-isscc), [ISCA](#2024-isca), [HPCA](#2024-hpca), [ASPLOS](#2024-asplos), [HotChips](#2024-hotchips)
+   - 2024: [ISSCC](#2024-isscc), [ISCA](#2024-isca), [MICRO](#2024-micro), [HPCA](#2024-hpca), [ASPLOS](#2024-asplos), [HotChips](#2024-hotchips)
 
 ## My Contributions
 My main research interest is AI chip and architecture. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/research/).
@@ -1333,3 +1333,36 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization
 - Heterogeneous Acceleration Pipeline for Recommendation System Training
 - LLMCompass: Enabling Efficient Hardware Design for Large Language Model Inference
+
+### 2024 MICRO
+- CamPU: A Multi-Camera Processing Unit for Deep Learning-based 3D Spatial Computing Systems
+- AdapTiV: Sign-Similarity based Image-Adaptive Token Merging for Vision Transformer Acceleration
+- Fusion-3D: Integrated Acceleration for Instant 3D Reconstruction and Real-Time Rendering
+- A Mess of Memory System Benchmarking, Simulation and Application Profiling
+- Stellar: An Automated Design Framework for Dense and Sparse Spatial Accelerators
+- LUCIE: A Universal Chiplet-Interposer Design Framework for Plug-and-Play Integration
+- SRender: Boosting Neural Radiance Field Efficiency via Sensitivity-Aware Dynamic Precision Rendering
+- EMP: Efficient 4-bit Matrix Unit via Primitivization
+- BBS: Bi-directional Bit-level Sparsity for Deep Learning Acceleration
+- SCAR: Scheduling Multi-Model AI Workloads on Heterogeneous Multi-Chiplet Module Accelereators
+- SCALE: A Structure-Centric Accelerator for Message Passing Graph Neural Networks
+- Low-overhead General-purpose Near-Data Processing in CXL Memory Expanders
+- PIFS-Rec: Process-In-Fabric-Switch for Large-Scale Recommendation System Inferences
+- PIM-MMU: A Memory Management Unit for Accelerating Data Transfers in Commercial PIM Systems
+- Azul: An Accelerator for Sparse Iterative Solvers Leveraging Distributed On-Chip Memory
+- FloatAP: Supporting High-Performance Floating-Point Arithmetic in Associative Processors
+- COMPASS: SRAM-Based Computing-in-Memory SNN Accelerator with Adaptive Spike Speculation
+- SOFA: A Compute-Memory Optimized Sparsity Accelerator via Cross-Stage Coordinated Tiling
+- Leviathan: A Unified System for General-Purpose Near-Data Computing
+- TMiner: A Vertex-Based Task Scheduling Architecture for Graph Pattern Mining
+- PointCIM: A Computing-in-Memory Architecture for Accelerating Deep Point Cloud Analytics
+- SambaNova SN40L: Scaling the AI Memory Wall with Dataflow and Composition of Experts
+- Duplex: A Device for Large Language Models with Mixture of Experts, Grouped Query Attention, and Continuous Batching
+- VGA: Hardware Accelerator for Scalable Long Sequence Model Inference
+- FuseMax: Leveraging Extended Einsums to Optimize Attention Accelerator Design
+- FlashLLM: A Chiplet-Based In-Flash Computing Architecture to Enable On-Device Inference of 70B LLM
+- GauSPU: 3D Gaussian Splatting Processor for Real-Time SLAM Systems
+- PyPIM: Integrating Digital Processing-in-Memory from Microarchitectural Design to Python Tensors
+- Stream-Based Data Placement for Near-Data Processing with Extended Memory
+- FiboCIM: a Fibonacci-coded Charge-domain SRAM-based CIM Accelerator for DNN Inference
+- MeMCISA: Memristor-enabled Memory-Centric Instruction-Set Architecture for Database Systems
