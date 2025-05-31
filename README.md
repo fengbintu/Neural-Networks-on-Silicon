@@ -16,7 +16,7 @@ Fengbin Tu is an Assistant Professor and the Associate Director of the Institute
    - 2022: [ISSCC](#2022-isscc), [ISCA](#2022-isca), [MICRO](#2022-micro), [HPCA](#2022-hpca), [ASPLOS](#2022-asplos), [HotChips](#2022-hotchips)
    - 2023: [ISSCC](#2023-isscc), [ISCA](#2023-isca), [MICRO](#2023-micro), [HPCA](#2023-hpca), [ASPLOS](#2023-asplos), [HotChips](#2023-hotchips)
    - 2024: [ISSCC](#2024-isscc), [ISCA](#2024-isca), [MICRO](#2024-micro), [HPCA](#2024-hpca), [ASPLOS](#2024-asplos), [HotChips](#2024-hotchips)
-   - 2025: [ISSCC](#2025-isscc), [HPCA](#2025-hpca), [ASPLOS](#2025-asplos)
+   - 2025: [ISSCC](#2025-isscc), [ISCA](#2025-isca), [HPCA](#2025-hpca), [ASPLOS](#2025-asplos)
 
 ## My Contributions
 My main research interest is AI chip and architecture. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/research/).
@@ -1428,3 +1428,34 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms
 - PAPI: Exploiting Dynamic Parallelism in Large Language Model Decoding with a Processing-In-Memory-Enabled Computing System
 - Be CIM or Be Memory: A Dual-mode-aware DNN Compiler for CIM Accelerators
+
+### 2025 ISCA
+- WSC-LLM: Efficient LLM Service and Architecture Co-exploration for Wafer-scale Chips
+- FRED: A Wafer-scale Fabric for 3D Parallel DNN Training
+- PD Constraint-aware Physical/Logical Topology Co-Design for Network on Wafer
+- H2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference
+- HiPER: Hierarchically-Composed Processing for Efficient Robot Learning-Based Control
+- Dadu-Corki: Algorithm-Architecture Co-Design for Embodied AI-powered Robotic Manipulation
+- SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting
+- Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization
+- Chimera: Communication Fusion for Hybrid Parallelism in Large Language Models
+- LUT Tensor Core: A Software-Hardware Co-Design for LUT-Based Low-Bit LLM Inference
+- AiF: Accelerating On-Device LLM Inference Using In-Flash Processing
+- LIA: A Single-GPU LLM Inference Acceleration with Cooperative AMX-Enabled CPU-GPU Computation and CXL Offloading
+- Cramming a Data Center into One Cabinet: A Co-Exploration of Computing and Hardware Architecture of Waferscale Chip
+- Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression
+- Hybe: GPU-NPU Hybrid System for Efficient LLM Inference with Million-Token Context Window
+- MeshSlice: Efficient 2D Tensor Parallelism for Distributed DNN Training
+- AIM: Software and Hardware Co-design for Architecture-level IR-drop Mitigation in High-performance PIM
+- OptiPIM: Optimizing Processing-in-Memory Acceleration Using Integer Linear Programming
+- HeterRAG: Heterogeneous Processing-in-Memory Acceleration for Retrieval-augmented Generation
+- ATiM: Autotuning Tensor Programs for Processing-in-DRAM
+- Hybrid SLC-MLC RRAM Mixed-Signal Processing-in-Memory Architecture for Transformer Acceleration via Gradient Redistribution
+- MagiCache: A Virtual In-Cache Computing Engine
+- AMALI: An Analytical Model for Accurately Modeling LLM Inference on Modern GPUs
+- MicroScopiQ: Accelerating Foundational Models through Outlier-Aware Microscaling Quantization
+- HYTE: Flexible Tiling for Sparse Accelerators via Hybrid Static-Dynamic Approaches
+- NUPEA: Optimizing Critical Loads on Spatial Dataflow Architectures via Non-Uniform Processing-Element Access
+- Meta's Second Generation AI Chip: Model-Chip Co-Design and Productionization Experiences
+- Scaling Llama 3 Training with Efficient Parallelism Strategies
+- Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures
