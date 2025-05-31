@@ -16,6 +16,7 @@ Fengbin Tu is currently an Assistant Professor in the Department of Electronic a
    - 2022: [ISSCC](#2022-isscc), [ISCA](#2022-isca), [MICRO](#2022-micro), [HPCA](#2022-hpca), [ASPLOS](#2022-asplos), [HotChips](#2022-hotchips)
    - 2023: [ISSCC](#2023-isscc), [ISCA](#2023-isca), [MICRO](#2023-micro), [HPCA](#2023-hpca), [ASPLOS](#2023-asplos), [HotChips](#2023-hotchips)
    - 2024: [ISSCC](#2024-isscc), [ISCA](#2024-isca), [MICRO](#2024-micro), [HPCA](#2024-hpca), [ASPLOS](#2024-asplos), [HotChips](#2024-hotchips)
+   - 2025: [ISSCC](#2025-isscc), [HPCA](#2025-hpca), [ASPLOS](#2025-asplos)
 
 ## My Contributions
 My main research interest is AI chip and architecture. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/research/).
@@ -1366,3 +1367,64 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - Stream-Based Data Placement for Near-Data Processing with Extended Memory
 - FiboCIM: a Fibonacci-coded Charge-domain SRAM-based CIM Accelerator for DNN Inference
 - MeMCISA: Memristor-enabled Memory-Centric Instruction-Set Architecture for Database Systems
+
+### 2025 ISSCC
+- 1.78mJ/Frame 373fps 3D GS Processor Based on Shape-Aware Hybrid Architecture Using Earlier Computation Skipping and Gaussian Cache Scheduler
+- IRIS: A 8.55mJ/frame Spatial Computing SoC for Interactable Rendering and Surface-Aware Modeling with 3D Gaussian Splatting
+- A 16nm 216kb, 188.4TOPS/W and 133.5TFLOPS/W Microscaling Multi-Mode Gain-Cell CIM Macro Edge-AI Devices
+- A 51.6TFLOPs/W Full-Datapath CIM Macro Approaching Sparsity Bound and <2-30 Loss for Compound AI
+- RNGD: A 5nm Tensor-Contraction Processor for Power-Efficient Inference on Large Language Models
+- An On-Device Generative AI Focused Neural Processing Unit in 4nm Flagship Mobile SoC with Fan-Out Wafer-Level Package
+- SambaNova SN40L: A 5nm 2.5D Dataflow Accelerator with Three Memory Tiers for Trillion Parameter AI
+- T-REX: A 68-to-567μs/Token 0.41-to-3.95μJ/Token Transformer Accelerator with Reduced External Memory Access and Enhanced Hardware Utilization in 16nm FinFET
+- 28nm 0.22μJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic-Segmentation
+- EdgeDiff: 418.4mJ/Inference Multi-Modal Few-Step Diffusion Model Accelerator with Mixed-Precision and Reordered Group Quantization
+- Nebula: A 28nm 109.8TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation
+- MAE: A 3nm 0.168mm2 576MAC Mini AutoEncoder with Line-based Depth-First Scheduling for Generative AI in Vision on Edge Devices
+- MEGA.mini: A Universal Generative AI Processor with a New Big/Little Core Architecture for NPU
+- BROCA: A 52.4-to-559.2mW Mobile Social Agent System-on-Chip with Adaptive Bit-Truncate Unit and Acoustic-Cluster Bit Grouping
+- An 88.36TOPS/W Bit-Level-Weight-Compressed Large-Language-Model Accelerator with Cluster-Aligned INT-FP-GEMM and Bi-Dimensional Workflow Reformulation
+- Slim-Llama: A 4.69mW Large-Language-Model Processor with Binary/Ternary Weights for Billion-Parameter Llama Model
+- HuMoniX: A 57.3fps 12.8TFLOPS/W Text-to-Motion Processor with Inter-Iteration Output Sparsity and Inter-Frame Joint Similarity
+- A 22nm 60.81TFLOPS/W Diffusion Accelerator with Bandwidth-Aware Memory Partition and BL-Segmented Compute-in-Memory for Efficient Multi-Task Content Generation
+
+### 2025 HPCA
+- eDKM: An Efficient and Accurate Train-Time Weight Clustering for Large Language Models
+- SoMA: Identifying, Exploring, and Understanding the DRAM Communication Scheduling Space for DNN Accelerators
+- LUT-DLA: Lookup Table as Efficient Extreme Low-Bit Deep Learning Accelerator
+- BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration
+- FIGLUT: An Energy-Efficient Accelerator Design for FP-INT GEMM Using Look-Up Tables
+- MANT: Efficient Low-bit Group Quantization for LLMs via Mathematically Adaptive Numerical Type
+- Enhancing Large-Scale AI Training Efficiency: The C4 Solution for Real-Time Anomaly Detection and Communication Optimization
+- Revisiting Reliability in Large-Scale Machine Learning Research Clusters
+- Anda: Unlocking Efficient LLM Inference with a Variable-Length Grouped Activation Data Format
+- LAD: Efficient Accelerator for Generative Inference of LLM with Locality Aware Decoding
+- VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference
+- InstAttention: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference
+- PIMnet: A Domain-Specific Network for Efficient Collective Communication in Scalable PIM
+- EIGEN: Enabling Efficient 3DIC Interconnect with Heterogeneous Dual-Layer Network-on-Active-Interposer
+- PAISE: PIM-Accelerated Inference Scheduling Engine for Transformer-based LLM
+- FACIL: Flexible DRAM Address Mapping for SoC-PIM Cooperative On-device LLM Inference
+- Lincoln: Real-Time 50~100B LLM Inference on Consumer Devices with LPDDR-Interfaced, Compute-Enabled Flash Memory
+- Make LLM Inference Affordable to Everyone: Augmenting GPU Memory with NDP-DIMM
+
+### 2025 ASPLOS
+- DynaX: Sparse Attention Acceleration with Dynamic X:M Fine-Grained Structured Pruning
+- ReCA: Integrated Acceleration for Real-Time and Efficient Cooperative Embodied Autonomous Agents
+- Fast On-device LLM Inference with NPUs
+- Helix: Serving Large Language Models over Heterogeneous GPUs and Network via Max-Flow
+- FlexSP: Accelerating Large Language Model Training via Flexible Sequence Parallelism
+- Spindle: Efficient Distributed Training of Multi-Task Large Models via Wavefront Scheduling
+- Concerto: Automatic Communication Optimization and Scheduling for Large-Scale Deep Learning
+- MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs
+- FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models
+- CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory
+- Klotski: Efficient Mixture-of-Expert Inference via Expert-Aware Multi-Batch Pipeline
+- MoC-System: Efficient Fault Tolerance for Sparse Mixture-of-Experts Model Training
+- Accelerating LLM Serving for Multi-turn Dialogues with Efficient Resource Management
+- COMET: Towards Practical W4A4KV4 LLMs Serving
+- Past-Future Scheduler for LLM Serving under SLA Guarantees
+- POD-Attention: Unlocking Full Prefill-Decode Overlap for Faster LLM Inference
+- TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms
+- PAPI: Exploiting Dynamic Parallelism in Large Language Model Decoding with a Processing-In-Memory-Enabled Computing System
+- Be CIM or Be Memory: A Dual-mode-aware DNN Compiler for CIM Accelerators
