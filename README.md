@@ -16,7 +16,7 @@ Fengbin Tu is an Assistant Professor and the Associate Director of the Institute
    - 2022: [ISSCC](#2022-isscc), [ISCA](#2022-isca), [MICRO](#2022-micro), [HPCA](#2022-hpca), [ASPLOS](#2022-asplos), [HotChips](#2022-hotchips)
    - 2023: [ISSCC](#2023-isscc), [ISCA](#2023-isca), [MICRO](#2023-micro), [HPCA](#2023-hpca), [ASPLOS](#2023-asplos), [HotChips](#2023-hotchips)
    - 2024: [ISSCC](#2024-isscc), [ISCA](#2024-isca), [MICRO](#2024-micro), [HPCA](#2024-hpca), [ASPLOS](#2024-asplos), [HotChips](#2024-hotchips)
-   - 2025: [ISSCC](#2025-isscc), [ISCA](#2025-isca), [HPCA](#2025-hpca), [ASPLOS](#2025-asplos)
+   - 2025: [ISSCC](#2025-isscc), [ISCA](#2025-isca), [HPCA](#2025-hpca), [ASPLOS](#2025-asplos), [HotChips](#2025-hotchips)
 
 ## My Contributions
 My main research interest is AI chip and architecture. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/research/).
@@ -1459,3 +1459,12 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - Meta's Second Generation AI Chip: Model-Chip Co-Design and Productionization Experiences
 - Scaling Llama 3 Training with Efficient Parallelism Strategies
 - Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures
+
+### 2025 HotChips
+- Memory: (Almost) the Only Thing That Matters
+- UB-Mesh: Huawei's Next-Gen AI SuperComputer with A Unified-Bus Interconnect and nD-FullMesh Architecture
+- Corsair - An In-memory Computing Chiplet Architecture for Inference-time Compute Acceleration
+- NVIDIA's GB10 SoC: AI Supercomputer On Your Desk
+- 4th Gen AMD CDNA™ Generative AI Architecture Powering AMD Instinct™ MI350 Series Accelerators and Platforms
+- Ironwood : Delivering best in class perf, perf/TCO and perf/Watt for reasoning model training and serving
+
