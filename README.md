@@ -1459,6 +1459,7 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - Meta's Second Generation AI Chip: Model-Chip Co-Design and Productionization Experiences
 - Scaling Llama 3 Training with Efficient Parallelism Strategies
 - Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures
+- BingoGCN: Towards Scalable and Efficient GNN Acceleration with Fine-Grained Partitioning and SLT
 
 ### 2025 HotChips
 - Memory: (Almost) the Only Thing That Matters
