@@ -17,7 +17,7 @@ Fengbin Tu is an Assistant Professor and the Associate Director of the Institute
    - 2023: [ISSCC](#2023-isscc), [ISCA](#2023-isca), [MICRO](#2023-micro), [HPCA](#2023-hpca), [ASPLOS](#2023-asplos), [HotChips](#2023-hotchips)
    - 2024: [ISSCC](#2024-isscc), [ISCA](#2024-isca), [MICRO](#2024-micro), [HPCA](#2024-hpca), [ASPLOS](#2024-asplos), [HotChips](#2024-hotchips)
    - 2025: [ISSCC](#2025-isscc), [ISCA](#2025-isca), [MICRO](#2025-micro), [HPCA](#2025-hpca), [ASPLOS](#2025-asplos), [HotChips](#2025-hotchips)
-   - 2026: [ISSCC](#2026-isscc), [HPCA](#2026-hpca)
+   - 2026: [ISSCC](#2026-isscc), [ISCA](#2026-isca), [HPCA](#2026-hpca), [VLSI](#2026-vlsi)
 
 ## My Contributions
 My main research interest is AI chip and architecture. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/research/).
@@ -1551,6 +1551,38 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - LUT-SSM: A 99.3TFLOPS/W LUT-Based State-Space Model Accelerator Using Energy-Efficient Element-Wise Layer Fusion and LUT-Friendly Weight-Only Quantization
 - A 28nm Speculative-Decoding LLM Processor Achieving 105-to-685μs/Token Latency for Billion-Parameter Models
 
+### 2026 ISCA
+- DiTPA: A DiT-based Action Planner Accelerator Exploiting Action–Denoising–Multimodality Redundancy for Embodied Artificial Intelligence
+- AQuant: Repurposing CODEC for VLM Acceleration via Adaptive Quantization
+- MLX: Multi-Layer Execution for Structured LLM Workload Acceleration on Spatial Architectures
+- Patterns Behind Chaos: Forecasting Data Movement for Efficient Large-Scale MoE LLM Inference
+- Cassandra: Enabling Reasoning LLMs at Edge via Self-Speculative Decoding
+- Combating the Memory Walls: Optimization Pathways for Long-Context Agentic LLM Inference
+- Approaching Shannon Bound with Lossless LLM Weight Compression
+- OASIS: Outlier-Aware LUT-Based GEMM with Dual-Side Quantization for LLM Inference Acceleration
+- Omni-LUT: Energy-Efficient LUT-based Accelerator with Hardware-Aware KV Cache Quantization
+- PipeIMC: a Pipelined In-SRAM Computing Architecture
+- BAAP: Coupling Compute-in-SRAM with DRAM Banks for Near-Memory Processing
+- HybridSpec: Exploiting Hybrid-bonding Memory to Accelerate LLM Serving through Heterogeneous Architecture and Speculative Decoding
+- P3-LLM: An Integrated NPU-PIM Accelerator for Edge LLM Inference Using Hybrid Numerical Formats
+- CHIME: A Case for Efficient Long-Context Attention-FC Disaggregated Inference with DIMM-PIM
+- SHyLA: 3D-Stacked NVM-DRAM Hybrid LLM-Inference Architecture Exploiting Data and Memory Heterogeneity
+- Accelerator Polymorphism: Transcending Domain-Specific Architectures with Robotics
+- DynoPipe: Heterogeneous Edge-Cloud LLM Serving with Dynamically Orchestrated Pipeline Boundaries
+- DIAMoND: Dynamic Inference for Adaptive Edge MoE with Heterogeneous In-NAND and Near-DRAM Compute Architecture
+- SingularBit: Exploiting Synergy of Singular Value Decomposition and Low-Bit Quantization for Weight and KV Compression in LLM Inference
+- Tetris: Efﬁcient Long-context LLM Serving with Chunkwise Dynamic Sequence Parallelism
+- EVA: Accelerating LLM Decoding via an Efficient Vector Quantization Architecture
+- Bringing Near Data Processing into the Low-Bit Floating-Point Era
+- Omelet: A Packaging-Aware Hierarchical Interconnect Simulator for 2.5D/3D Chiplet Architectures
+- ECHO: Efficient Head-Orientation-Guided Real-Time Sound Spatialization for Virtual Reality
+- DESSCam: An Event-Driven Architecture with In-Sensor Epitopological Sparse Sampling to Break the Latency-Power Tradeoff in Eye Tracking
+- MXFFP: Microscaling Flexible Floating Point Format for Large-Scale AI Model Acceleration
+- UniCore: A Bit-Width Scalable GEMM Unit for Unified LLM Inference
+- XtraMAC: An Efficient MAC Architecture for Mixed-Precision LLM Inference on FPGA
+- Bridging Efficiency and Scalability in LLM System via 3D Hybrid PIM with 2D In-Transit Computation
+- Early Silicon of Raptor: The First 3D-DRAM Accelerator for Generative Inference
+
 ### 2026 HPCA
 - Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models
 - PADE: A Predictor-Free Sparse Attention Accelerator via Unified Execution and Stage Fusion
@@ -1571,3 +1603,27 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - AutoGNN: End-to-End Hardware-Driven Graph Preprocessing for Enhanced GNN Performance
 - BitDecoding: Unlocking Tensor Cores for Long-Context LLMs with Low-Bit KV Cache
 - RPU: A Reasoning Processing Unit
+
+### 2026 VLSI
+- Gleanmer: A 6 mW SoC for Real-Time 3D Gaussian Occupancy Mapping
+- NOVA: A 5.3mJ/frame Fully Integrated Neural Video SoC with Content-Adaptive Architecture for 4K Real-time Encoding/Decoding and Processing
+- SR-VLNA: A 5.0-23.9 mJ/meter Spatial Reasoning-based Vision Language Navigation Accelerator for Embodied Agents
+- Event-Gaze: A 28nm 441 s-Latency 12.88mW SoC for Sparse-Event-Based Dynamic Eye Tracking and Gaze Estimation in XR
+- Uni4D: A 12nm 0.16mJ/Frame 4D Gaussian Spatial Video Rendering Processor with Unified Deformation and On-Chip Hierarchical Sorting
+- Silicon-Oracle (Soracle): A Multi-Modal Autoregressive Model Accelerator for Context-Aware Assistance on Mobile Platform
+- SPECTRA: An Asymmetric-Precision Speculative Decoding LLM Accelerator with Product Quantization and Reconfigurable Flip-Flop Buffers in 28nm CMOS
+- A 122.2 J/Token Reasoning LLM Accelerator with Reinforcement Fine-Tune Featuring Two-Level KV-Cache Compression and Spike-Driven Predictive Update
+- A 2nm 234.4 TOPS/W and 511.9 TOPS/mm2 Digital Computing-in-Memory Compiler with Multiple MAC Units per Weight and Multiple Data Format Support
+- A 0.0257 mm2, 1.16 W, Mask-Efficient KWS SoC with Hybrid Cap-ROM-IMC/SRAM-NMC and Transfer Learning for Flexible Multi-Keyword Recognition
+- A 28nm 44.15TFLOPS/W and 1.57TFLOPS/mm2 Joint-Alignment Floating-point CIM Macro with ISO26262 ASIL-D Safety Level for Autonomous Driving
+- A 28nm CMOS-Integrated VCMA-MTJ Dual-Function Macro for Deterministic In-Memory Computing Synapses and Stochastic Poisson Neurons in Hybrid Vision
+- A 40nm 24.85-to-80.59 TFLOPS/W FP8 Computing-in-Memory Macro with Outlier-Aware Hierarchical-Alignment for Edge Transformers
+- TinyNPU: A 3nm 0.06-134.36 J/token DCIM-Based Ultra Low Power NPU for Always-On Reasoning on Wearables
+- Agent: A 7nm 404.3mJ/Action Edge SoC for Agentic AI Reasoning with Adaptive Block-wise Mixed-Format 4-bit Quantization and Decoupled Access-Execute
+- Sirius: A Dual-Chiplet System for Multimodal Embodied AI with Heterogeneous RVV Cores, Dense and Sparse Accelerators
+- A Scalable Vision-Language-Action Edge Processor with Token Filtering and Hybrid Processing-Near-Memory for 6.7-ms Perception-to-Action Latency in Robot Control
+- A 90.6 pJ / pixel 1280x800 65 fps cm-Scale Fully Integrated Video Encoder System Utilizing a 2x2 Microlens Array
+- Specter: 376 fps 2.67 nJ/pixel 4DGS Processor for Spatiotemporal Reconstruction with Contribution-Ordered Rendering and Deformation-Aware Modeling
+- HCNP: A 70.2 TOPS/W Hybrid CIM-NPU Processor with In-Streaming Processing for Energy Efficient CNN/Transformer Acceleration in HMD
+- Integrated Imaging Solutions for Robotic Navigation and Manipulation: Visual-Inertial SLAM and Neuromorphic Tactile Sensing
+- Enabling the Robotic Revolution: Bridging Performance Gap between Present and Future
